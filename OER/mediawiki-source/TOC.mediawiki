@@ -1,0 +1,19 @@
+{{Booktitle 
+|ABSTRACT = Dieser Leitfaden soll eine Übersicht darüber geben wie man Open Educational Resources (kurz OER) erstellt. <br clear='left'> Es werden inhaltliche, technische und rechtliche Aspekte betrachtet. Die Beispiele stammen aus dem Themenbereich Informationskompetenz.
+
+
+
+|AUTOR = Caroline Bartsch, Melanie Brauser, Julian Bursky, Uta Kirtyan, Christoph Koschinski, Wolf-Dietrich Mußmann, Astrid Richter, Sabine Stummeyer, Carolin Zander
+
+
+|STAND = 07.06.2016}}<br clear='left'> Der Leitfaden Open Educational Resources ist das Ergebnis eines Studierendenprojektes im Studiengang "Informationsmanagement - berufsbegleitend" an der Hochschule Hannover unter der Leitung von Dr. Anke Wittich.
+
+=== [[Einleitung|Open Educational Resources - Eine kurze Einführung]] ===
+=== [[Themenbeispiele aus dem Bereich Informationskompetenz]] ===
+=== [[OER Plattformen]] ===
+
+=== [[Didaktische und formale Aspekte von OER]] ===
+=== [[Technik|Technik]] ===
+=== [[Recht]] ===
+=== [[Literaturverzeichnis]] ===
+=== [[Weiterführende Literatur zu OER]] ===

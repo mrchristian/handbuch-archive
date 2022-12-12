@@ -1,0 +1,126 @@
+[https://osl.tib.eu/w/%27Leitfaden_zu_Open_Educational_Resources_f%C3%BCr_Bibliotheken_und_Informationseinrichtungen%27 | zurück]
+
+Autoren: Julian Bursky, Wolf-Dietrich Mußmann
+== Didaktik ==
+
+===== Zielgruppen- und Zielorientierung =====
+
+Wie man ein OER didaktisch gekonnt aufbaut, hängt von mehreren verschiedenen Faktoren ab. Ein wesentlicher Aspekt betrifft die Zielgruppendefinition (vgl. time4you GmbH o.J.). Zu beachten sind dabei Merkmale wie Vorbildung, Lernkompetenz, Medienkompetenz, Alter, Heterogenität und Interkulturalität (vgl. ebd.). Als Weiterbilder sollte man sich fragen, welche Ziele stellvertretend für das Unternehmen mit dem Training erreicht werden sollen (vgl. ebd.)? Die Kriterien für das Trainingsdesign wie z.B. Qualität, Kosten oder Nachhaltigkeit sollten dabei priorisiert werden (vgl. ebd.). Selbstverständlich sollte  auch die Motivation der Teilnehmer/innen berücksichtigt werden (vgl. ebd.). Welche Ziele möchten die Kunden erreichen? Was versprechen Sie sich vom OER? Zu guter Letzt sollte geprüft werden, wieviel Zeit die Kunden für ein OER aufbringen können (vgl.ebd.).  
+
+===== Didaktische Aspekte =====
+Es gibt verschiedene Wege, dass Trainingsdesign zu gestalten. Man kann einen explorativen, übenden, kognitiven oder dialogischen Stil wählen (vgl. ebd.). Welcher Stil verfolgt wird, hängt von der Zielgruppe, mit Bezug auf die Zielsetzung ab (vgl. ebd.). Des Weiteren kommt es auch auf die Lernumgebung an. Möchte man reines Selbstlernen oder Selbstlernen mit tutorieller Begleitung (vgl. ebd.)? Möchte man eine Kommunikationsplattform etablieren, auf der sich die Teilnehmer/Innen austauschen können? Es bieten sich auch Möglichkeiten an, selbstgesteuertes Lernen mit Praxisphasen zu verbinden (vgl.ebd.). Bei Bedarf kann man Lernerfolgskontrollen einplanen z.B. in Form von Präsentationen, Tests oder Zertifizierungsmaßnahmen (vgl. ebd.). Bei der Wahl der Anordnung von Trainingseinheiten hat man auch viele Gestaltungsmöglichkeiten indem man z.B. festlegt, ob eine freie Navigation im OER möglich sein soll oder eher eine verpflichtende Reihenfolge von Inhalten vorgegeben wird (vgl. ebd.). Es kann auch sein, dass der Kurs Teil eines größeren Projektes wie z.B. einer Veranstaltungsreihe sein soll.
+
+Beim Thema Organisation sollten folgende Fragestellungen berücksichtigt werden:
+
+- Wieviel Zeit wird für eine Trainingseinheit eingeplant (vgl. ebd.)?
+
+- Welche Räume (online, physisch) stehen zur Verfügung (vgl. ebd.)?
+
+- Wieviel Vorlaufzeit wird benötigt (vgl. ebd.)?
+
+- Sind alle benötigten Medien verfügbar und wenn nicht, welche Kosten fallen an, welche Lizenzen müssen berücksichtigt werden, wie sieht das Investitionsvolumen aus (vgl. ebd.)?
+
+== Methoden ==
+
+===== Blended Learning =====
+Unter Blended Learning versteht man ein gemischtes Lernen, indem E-Learning-Inhalte mit Präsenzveranstaltungen verknüpft werden (vgl. Leibniz-Institut für Wissensmedien 2015). Dabei werden die Flexibilität und Effektivität von Online-Inhalten mit den sozialen Komponenten wie eine Face-to-Face-Kommunikation von Präsenzveranstaltungen kombiniert (vgl. ebd.). Dabei sollte versucht werden, die jeweiligen Vorteile von den verwendeten Methoden zu verstärken und Nachteile zu minimieren (vgl. ebd.). Der Fokus auf die Wissensverwertung spielt hierbei eine wesentliche Rolle, da man das Wissen mit Hilfe von speziell miteinander verbundenen Systemen schneller aufnehmen, effektiver anwenden und besser verstehen kann (vgl. ebd.).
+
+===== Social Learning =====
+Beim Social Learning geht es in erster Linie darum, gemeinsam in einem größeren Kontext zu lernen. Dies kann auf eine herkömmliche Art und Weise passieren, wie bei einfachen Gruppenarbeiten in einem Raum oder auch online wie z.B. in Social Media Umgebungen. Durch Kommunikationstools hat man die Möglichkeit Informationen zu teilen oder auch zu diskutieren (vgl. Panke 2007).
+
+===== Mobiles Lernen =====
+Mobiles Lernen beschreibt sämtliche Systeme, die es Lernenden erlaubt auf verteilte Datenbestände zuzugreifen ohne dabei auf kabelgebundene Strom- und Kommunikationsnetze angewiesen zu sein (Leibniz-Institut für Wissensmedien 2016). Dadurch ist ein effektiveres Lernen möglich, da die Möglichkeit gegeben ist, an Orten zu lernen, die keinen Bezug zum Lerninhalt haben (vgl. ebd.). Durch Kommunikationsnetzwerke können sich die Lernenden auch jederzeit mit den Lehrenden und anderen Nutzern austauschen und flexibler agieren (vgl. ebd.). Umgebungsinformationen können ebenfalls beim mobilen Lernen erfasst und ausgewertet werden wie z.B. bei Forschungsarbeiten (vgl. ebd.). Trotzdem sollte Mobiles Lernen nicht als Ersatz für traditionelle Lehr- und Lernkonzepte verwendet werden, da der sinnvolle Einsatz und Nutzen von den Rahmenbedingungen, der Zielgruppe und den Lernzielen abhängt (vgl. ebd.).
+
+===== Serious Games =====
+Bei sogenannten Serious Games (ernsthafte Spiele) versteht man digitale Spiele, die nicht ausschließlich der Unterhaltung dienen, sondern auch Information und Bildung vermitteln (vgl. Tausend 2014). Durch diesen spielerischen Ansatz versucht man sich an einer Wissensvermittlung, die darauf abzielt, dem Lernenden umfassende und themenübergreifende Erfahrungen zu ermöglichen. Handlungen, die durch Wissen (z.B. durch Planspiele, Simulationen) generiert wurden, können z.B. mit Hilfe eines Trial-and-Error-Prinzips getestet werden.
+
+== Qualität ==
+==== Wozu Qualitätsbewertungen? ====
+Die Bewertung von Unterrichtsmaterialen ist wichtig um dem Nutzer bei der Entscheidung zu helfen,  die für ihn passenden Materialien auszuwählen. Er braucht Hinweise die Aussagen über das Material zulassen. Ähnlich verhält es sich bei Dozenten, die Lernenden Empfehlungen über Lernmaterialien geben und darüber urteilen müssen ob die Lernenden die passende Literatur in ihren Arbeiten verwendet haben. Außerdem ist eine große Menge an hochwertigen Materialien die eine Institution veröffentlicht hat, eine gute Stütze für die Reputation der Institution.
+
+==== Klassische Qualitätssicherung von Lehr- und Unterrichtsmaterialien ====
+Die bisherigen Formen der Qualitätssicherung kann man in inhaltliche Kriterien und in Ressourcenqualität unterscheiden. Für die Beurteilung des Inhalts wurde zum Beispiel die Reputation des Autors oder der Ruf der Hochschule herangezogen. Auch der Ruf der Verlage hat eine Rolle gespielt. Dazu kommt noch das klassische Peer Review Verfahren zum Beispiel für wissenschaftliche Artikel. Mit der Ressourcenqualität ist die technische Aufbereitung, im Falle von Büchern zum Beispiel Papier- und Einbandqualität und Rechtschreibung gemeint. Hierfür zeichnet der Verlag verantwortlich.
+
+Offene Bildungsmaterialien entstehen außerhalb dieser Strukturen und sind deshalb nur schwer einzuschätzen. Um einem Verwender solcher Materialien eine Hilfestellung bei der Auswahl der für ihn passenden Materialien geben zu können, müssen demnach andere Möglichkeiten zur Qualitätsbewertung benutzt werden.
+
+Laut Prof. Dr. Ehlers stellt sich die Situation folgendermaßen dar: „So gibt es bspw. Qualitätszyklen, die sehr stark darauf abheben, wer der Autor ist, wer ein Review macht, wie die mediale und Metadatenverschlagwortung ist etc., aber eben keine bildungsbezogenen Parameter, wie Niveau, Schwierigkeitsgrad oder didaktisches Design oder Zielgruppeneigenschaften in den Mittelpunkt stellt. Und hier gilt wieder die alte Erkenntnis: Man kann mit einer (OER)-Ressource bei der richtigen Zielgruppe ganz wunderbar wirksam sein, schöne Lernergebnisse bewirken, Aha-Effekte und Lernprozesse. Bei einer anderen Zielgruppe, die möglicherweise gar nicht darauf anspricht, deren Präferenzen es gar nicht trifft, mit genau derselben (OER) Ressource aber gar keinen Effekt haben. Das heißt, die Qualität liegt nicht in der Ressource, sie liegt eben in dem aktiv-produktiven Aushandlungsprozess, in der Relation zwischen dem Anspruch und dem Kontext des Bildungsprozesses auf der einen Seite und dem Ziel, was in dieser Ressource möglicherweise verkörpert ist.“<ref>Ehlers, Ulf-Daniel: Paradigmenwechsel in der Qualitätssicherung? – Mapping OER. Online verfügbar unter http://mapping-oer.de/themen/qualitaetssicherung/paradigmenwechsel-in-der-qualitaetssicherung/, zuletzt geprüft am 23.05.2016.</ref>
+
+==== Nach welchen Kriterien können Lehrmaterialien beurteilt werden? ====
+
+===== Relevanz =====
+Wie wichtig ist der Inhalt des Materials für das Themengebiet. Eine wichtige Entscheidungshilfe um zu erkennen ob das vorliegende Material für mich geeignet ist. Es muss im Kontext zur Lernsituation betrachtet werden. Für einen Einsteiger ist ein Grundlagenwerk wichtiger, als Werke die sich mit sehr spezifischen Fragen beschäftigen.
+
+===== Signifikanz =====
+Wie hoch ist der Stellenwert des Inhalts für das entsprechende Themengebiet ?(Ohne Kenntnisse über die Newtonschen Bewegungsgesetze brauch man sich nicht mit der Mechanik befassen).
+
+===== Genauigkeit =====
+Wie genau wird das Thema behandelt, wird nichts weggelassen oder wird vom Thema abgewichen?
+
+===== Aktualität =====
+Ist der Inhalt auf dem aktuellen Stand der Technik?
+
+==== Welche Bewertungsverfahren können angewendet werden? ====
+
+===== Peer Review =====
+Klassisches Peer Review kann als Verfahren benutzt werden. Es funktioniert in Bezug auf OER am besten wenn es innerhalb eines Verbundes von Erstellern verwendet wird. So kann sichergestellt werden, dass die Beiträge von geeigneten Peers begutachtet werden und dass Peers überhaupt zur Verfügung stehen.
+
+===== Anzahl der Nutzungen =====
+Damit sind Klicks oder Downloads der Ressourcen gemeint. Dieser Indikator hat wenig Aussagekraft in Bezug auf den tatsächlichen Nutzen der Ressource. Es wird nicht deutlich warum diese Ressource angeklickt wurde. Als Indikator für die Qualität also ungeeignet.
+
+===== Use Indicators =====
+Damit sind Zitationen gemeint. Als Indikator für die Qualität besser geeignet als die Anzahl der Nutzungen da nachgewiesen wird, dass die Ressource tatsächlich benutzt wurde. Allerdings ist das technisch nur schwierig umsetzbar. Es funktioniert weitestgehend nur innerhalb einer Plattform.
+
+===== User Ratings =====
+Das Sternchensystem. Benutzer können die Materialien bewerten. Oft wird die Bewertung anhand einer Skala dargestellt. Bei einer reinen Skalenbewertung ist der Kontext nicht immer ersichtlich, was eine Einschätzung erschwert.
+
+===== User Comments =====
+Bei diesem System können Benutzer die Materialien verbal beurteilen. Hier kann der Kontext der vorangegangenen Nutzungen deutlich werden. Diese Art der Beurteilung bedeutet einen höheren Zeitaufwand für denjenigen, der auf der Suche nach Materialien ist.
+
+Zusammenfassend lässt sich sagen, dass die User Comments am sinnvollsten erscheinen um die Qualität der Materialien zu beurteilen. Ein zusätzliches Ratingsystem kann die Auswahl übersichtlicher gestalten und die Auswahl beschleunigen.
+
+== Metadaten ==
+Vor allem inhaltliche Metadaten spielen für OER-Materialien eine große Rolle. Moderne Lehre orientiert sich immer mehr an konnektivistischen Methoden der Unterrichtsgestaltung. Das heißt der Lernende ist zum großen Teil selbst für seinen Lernfortschritt verantwortlich. Auch kann er Materialien frei wählen. Der Lehrende agiert hier mehr als Berater und Wegweiser.
+
+Die inhaltlichen Metadaten sollten deshalb Aussagen über folgende Aspekte darstellen:
+
+'''Thematische Einordnung:'''
+
+Es sollte eine Kette vom Allgemeinen bis zum tatsächlichen Spezialgebiet gestaltet werden.
+
+'''Niveau / Anspruch'''
+
+Unabdingbar da der der Nutzer erkennen sollte ob ihm das Material nützlich sein kann. Hilfreich wären hier Angaben wie Hochschulniveau, Klassenstufe oder Angaben über benötigte Vorkenntnisse. Je genauer desto besser.
+
+Der Metadatenstandard muss also solche Hinweise wiederspiegeln. Desweiteren sollte der Standard möglichst weit verbreitet sein und sollte  weiterhin aktualisiert werden. Da die Ressourcen offen zugänglich sein sollen, empfiehlt sich auch ein Standard der von Suchmaschinen verstanden wird. In einer Untersuchung der Technischen Informationsbibliothek Hannover haben sich folgende Standards als sinnvoll herauskristallisiert:
+
+==== Dublin Core (DC): ====
+Spezifikation: http://dublincore.org/documents/dces/
+
+Ein sehr einfacher Standard, der nur aus 15 Basiselementen besteht aber sehr weit verbreitet ist. Es gibt sogenannte "Application Profiles", die eine Anpassung an verschiedene Nutzungsszenarien ermöglichen. Ein für OER passendes "Application Profile" existiert und enthält zusätzliche bildungsrelvante Metadatenelemente. Es wurde unter dem Namen "Education Application Profile" veröffentlicht, allerdings seit 2010 nicht mehr weiterentwickelt.
+
+==== Learning Objects Metadata (IEEE LOM): ====
+Spezifikation:http://grouper.ieee.org/groups/ltsc/wg12/files/LOM_1484_12_1_v1_Final_Draft.pdf
+
+Der IEEE LOM Standard ist eine Erweiterung des allgemeinen Dublin Core Metadatenschemas. Lernobjekte können hier mit insgesamt 70 Elementen beschrieben werden, die in neun Hauptkategorien aufgeteilt sind. Die Erläuterungen zu den Elementen sind sehr ausführlich. Dies macht die Einarbeitung in den Standard aufwändig, doch die Anwendung wird dadurch klar strukturiert und standardisiert. Neben den allgemeinen Metadatenfeldern werden hier vor allem  auch die technischen Daten der OER sowie der Lernkontext (d. h. die mögliche Interaktivät der Ressource) beschrieben. 
+
+Der Standard wird vor allem in RDF (Resource Description Framework) genutzt, einem allgemein gebräuchlichen Format zur Bereitstellung von Metadaten im World Wide Web. Des Weiteren gibt es auch eine Spezifikation, wie LOM in XML (Extensible Markup Language) dargestellt werden kann. Dadurch ist dieser Standard sehr gut durch Suchmaschinen auffindbar.
+
+Dieser Standard wurde allerdings seit 2002 nicht mehr aktualisiert.
+
+==== ELAN Application Profile (ELAN AP): ====
+Spezifikation: http://edoc.hu-berlin.de/series/dini-schriften/2005-6-de/PDF/6-de.pdf
+
+Das ELAN Application Profile (ELAN AP) wurde im ELAN-Projekt des Landes Niedersachsen entwickelt und im Jahr 2005 veröffentlicht. ELAN steht für eLearning Academic Network Niedersachsen. Das ELAN AP definiert ein minimales Set an Metadaten für den Nachweis und die Recherche von Lehr- und Lerninhalten in den lokalen Bibliothekskatalogen in Niedersachsen. Bei der Entwicklung wurden auch die internationalen Standards Dublin Core (DC) und LOM berücksichtigt. Das ELAN AP gliedert sich in zwei Beschreibungssätze. Zum einen werden Eigenschaften eines E-Learning-Kurses (z. B. Lehrveranstaltungen wie Seminare, Vorlesungen u. a.) beschrieben. Zum anderen werden die in einem Kurs enthaltenen Materialien (eLearning-Content) im zweiten Beschreibungssatz berücksichtigt. Allerdings basieren der Standard und sein kontrolliertes Vokabular auf traditionellen bibliothekarischen Beschreibungen. Es ist fraglich, ob dieser Ansatz im Kontext neuer Technologien und Möglichkeiten im Web noch zeitgemäß ist.
+
+==== Learning Resource Metadata Initiative (LRMI): ====
+Spezifikation: http://dublincore.org/dcx/lrmi-terms/1.1/
+
+Ziel der Learning Resource Metadata Initiative (LRMI) ist es, die Veröffentlichung, das Auffinden und Verbreiten von hochwertigen Educational Resources im Internet zu erleichtern. Für die Beschreibung dieser Ressourcen wurde im Jahr 2012, in Zusammenarbeit mit der Association of Educational Publishers und Creative Commons, sowie gefördert durch die Bill & Melinda Gates Stiftung und die William and Flora Hewlett Stiftung, ein Metadaten-Schema veröffentlicht. Bei der Entwicklung dieses Schemas wurden Use Cases aus aller Welt und aus unterschiedlichen Fachgebieten berücksichtigt. So entstand ein disziplinübergreifender internationaler Standard, mit dem verschiedenste Objekte erfasst werden können.
+
+Im Gegensatz zu den anderen hier vorgestellten Metadatenstandards, wurde das LRMI-Schema nicht zur Erstellung von beschreibenden XML-Dateien erschaffen, sondern zur Verwendung von Microdata. Microdata ist eine Möglichkeit, Webseiten im laufenden Text mit strukturierten Metadaten zu versehen. Dies ist ein recht neues Format, das den Suchmaschinen im Internet das Auffinden relevanter Ressourcen erleichtert. Hierzu nutzt es zu einem Teil Standardelemente von Schema.org, die durch eigene definierte Elemente ergänzt werden <ref>Ziedorn; Frauke; Derr; Elena; Neumann; Janna et al.: Metadaten für Open Educational Resources (OER). Eine Handreichung für die öffentliche Hand, erstellt von der Technischen Informationsbibliothek (TIB). Online verfügbar unter http://www.pedocs.de/volltexte/2013/8024/pdf/TIB_2013_Metadaten_OER.pdf, zuletzt geprüft am 23.05.2016.</ref>.
+
+Nach dieser Untersuchung sind ELAN AP und LRMI am Besten geeignet um Metadaten für OER aufzunehmen. DC ist zu unspezifisch und das passende Application Profile wurde schon lange nicht mehr aktualisiert. Auch IEEE LOM wurde sehr lange nicht mehr aktualisiert. ELAN AP ist durch sein traditionell bibliothekarisches  Vokabular  wohl schwieriger zu handhaben für Autoren außerhalb von Bibliotheken.  Deshalb bleibt LRMI als der für OER am besten geeignete Standard über.
+
+==Einzelnachweise==
+
+<references/>

@@ -1,0 +1,27 @@
+[https://osl.tib.eu/w/%27Leitfaden_zu_Open_Educational_Resources_f%C3%BCr_Bibliotheken_und_Informationseinrichtungen%27 | zurück]
+
+Autor: Wolf-Dietrich Mußmann
+
+Die folgende Übersicht wurde erstellt, um zu zeigen mit welchen Themen sich Open Educational Resources im Bereich Informationskompetenz beschäftigen können. Um eine hohe Wiederverwendbarkeit zu erzielen, sollten die Inhalte möglichst allgemein gehalten werden. Eine Schulung, die sich auf die besondere Katalogoberfläche der Stadtbibliothek Hannover bezieht, kann nur von Nutzern der Stadtbibliothek Hannover genutzt werden, während eine Schulung die sich mit Recherchetechniken beschäftigt, von vielen Personen genutzt werden kann.
+
+=== Rechercheschulungen ===
+Rechercheschulungen fallen in den klassischen Kompetenzbereich von Bibliotheken. Angefangen bei den boolschen Operatoren bis hin zur Volltextsuche können hier Schulungen aus den Bereichen Katalogrecherche, Datenbankrecherchen und Internetrecherchen erstellt werden. Konzepte und Beispiele für diese Schulungen können in einem breitem Rahmen nachgenutzt werden und an die Bedürfnisse der Nachnutzenden angepasst werden.
+
+=== Facharbeiten ===
+Als ein neuer Dauerbrenner in Bibliotheken haben sich in den vergangenen Jahren Facharbeiten entwickelt. Sicherlich für fast jeden Schüler interessant und somit ein Topkandidat um als OER angeboten zu werden. Es sollte darauf geachtet werden,  dass keine Inhalte dargestellt werden, die nur an bestimmten Schulen gelten. Neben den Angbotenn an reinen Rechercheschulungen für Schüler, bietet sich auch hier die Möglichkeit reine Schulungen für Lehrer anzubieten. Diese können zum einen Sicherheit bei der eigenen Recherche bringen, aber auch wenn es darum geht den Schülern bei weiteren Nachfragen zur Literaturrecherche zur Seite zu stehen.  
+
+=== Bachelor / Master-Arbeit ===
+Bedingt durch die Veränderungen in den Anforderungen an die Bachelor- und Masterstudiengänge - Stichwort "Verschulung" - bietet auch  dieser Themenbereich eine große Zielgruppe. Hier können Themen wie Ideensammlungen, formulieren des Exposés, Literaturrecherche und -verwaltung, richtiges Zitieren usw. behandelt werden. 
+
+Ergänzt beispielweisee durch Konzepte für die erfolgreiche Durchführung von "Langen Nächten der aufgeschobenen Hausarbeiten", die sich in den letzten Jahren mit großem Erfolg etabliert haben. 
+
+=== Kollaborative Arbeitstechniken ===
+Ein aktuelles und immer wichtiger werdendes Themenfeld. Hier können das Arbeiten mit Etherpad, Wiki und Co erklärt werden. Der Abnehmerkreis von solchen Schulungen wird in Zukunft weiter wachsen, da die Zusammenarbeit im Bereich der Wissenschaften immer wichtiger wird. 
+
+Hinzu kommen noch sogenannte "Sharing-Dienste" auf denen man seine Arbeiten zur Verfügung stellen und mit anderen teilen oder die Arbeiten anderer nachnutzen kann. Hier können Schulungskonzepte zu empfehlenswerten Angeboten ebenfalls gut von anderen Anwendern nachgenutzt werden. 
+
+=== Social Media und Web 2.0 ===
+Schulungen im Bereich "Social Media und Web 2.0" werden häufig von Bibliotheken angeboten. Daher wäre es nur sinnvoll vorhandene Schulungskonzepte auch als OER aufzubereiten und anzubieten. 
+
+=== Informationstechnologie ===
+Big Data, Prism und Whistleblower... Was bedeuten diese Ausdrücke und was steckt dahinter? Hier können Bibliotheken ihre Kompetenzen einsetzen um interessierten Bürgen die moderne Informationswelt nahe zu bringen und zu erklären. <nowiki/>

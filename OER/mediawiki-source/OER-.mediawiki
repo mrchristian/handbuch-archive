@@ -1,0 +1,267 @@
+[https://osl.tib.eu/w/%27Leitfaden_zu_Open_Educational_Resources_f%C3%BCr_Bibliotheken_und_Informationseinrichtungen%27 | zurück]
+
+Autoren: Caroline Bartsch, Melanie Brauser, Sabine Stummeyer 
+
+Wo findet man nun aber die Open Educational Resources, die man verwenden, bearbeiten und weiter verteilen möchte? Die entsprechenden Plattformen sind bisher noch wenig bekannt, bieten aber mittlerweile fächerübergreifend für unterschiedliche Nutzergruppen und Nutzerbedürfnisse gute Angebote. Beispielhaft werden hier Plattformen für unterschiedliche OER-Formen vorgestellt, die allgemeine Interessen berücksichtigen, sowie für die Bereiche Schule - für Lehrer und Schüler -  und Hochschule - für Studierende. 
+
+=== Fachübergreifende Plattformen ===
+
+==== CC Search ====
+
+[[Datei:CC_Search.png|531x279px|thumb|left|CC Search - Gemeinsamer Sucheinstieg für die Suche nach unterschiedlichen Medien unter freier Lizenz]]<br clear='left'>
+
+''Wer steckt dahinter?''
+
+CC Search <ref>CC Search. Startseite. Online verfügbar unter http://search.creativecommons.org/?lang=de , zuletzt geprüft am 07.06.2016.</ref> wird von von CC Commons <ref>Creative Commons. About. Online verfügbar unter https://creativecommons.org/about/ , zuletzt geprüft am 07.06.2016.</ref> betrieben, einer Non-Profit-Organisation, die Kreativität und Wissen durch das Teilen frei lizensierter Tools fördert. 
+
+''Inhalt und Aufbau''
+
+CC Search ist keine Suchmaschine im eigentlichen Sinne, sie bietet lediglich einen gemeinsamen Sucheinstieg für unterschiedliche Medienarten wie Musik, Bilder, Objekte oder Medien an. Über den gemeinsamen Sucheinstieg kann man in der Europeana, Flickr, Google, Google Images, Jamendo, Open ClipArtlibrary, SpinXpress, Wikimedia Commons, YouTube, Pixabay, ccMixter und Soundcloud suchen. CC Search weißt ausdrücklich darauf hin, daß  bei Medien, die über diese Organisationen gefunden wurden, noch jeweils die gültigen Lizenzregelungen geprüft werden müssen. Eigene OER können über CC Search nicht hochgeladen werden. Dies ist nur bei den Partnerorganisationen wie Flickr oder Youtube direkt möglich.
+
+
+----
+
+====edu-sharing NETWORK====
+[[Datei:Edusahringnet.PNG|250px|thumb|OER Bildungs-Cloud]]
+
+''Wer steckt dahinter?''
+
+Eine Gemeinschaft von Bildungseinrichtungen, Lehrenden, Autoren, Forschern, Content-Anbietern, Entwicklern freier Software und anderen Akteuren im Bildungsbereich. "edu-sharing.net entstand aus dem DFG-Projekt "CampusContent" der FernUniversität in Hagen."<ref>edu-sharing (Hg.) (2016): Mitglieder und Aufgaben von edu-sharing. Online verfügbar unter http://edu-sharing-network.org/, zuletzt geprüft am 10.06.2016.</ref><br clear="left">
+
+''Inhalte und Aufbau''
+
+Der edu-sharing.NET Verein, stellt eine Bildungscloud mit folgenden Leistungen zur Verfügung: 
+
+-Ausbau Content-Netzwerk und Verbreitung <br clear="left">-Identifikation hochwertiger Inhalte <br clear="left">-Alfresco / edu-sharing <br clear="left">-Anbindung für Lernmanagement- und weitere Systeme <br clear="left">-Wissenstransfer und Marketing <br clear="left">-Akquise von Fördermitteln und Spenden (ebd.) <ref>edu-sharing (Hg.) (2016): Unsere Aktivitäten. Online verfügbar unter http://edu-sharing-network.org/, zuletzt geprüft am 22.06.2016.</ref><br clear="left">
+
+
+
+----
+
+====edu-tags====
+
+
+[[Datei:Edutags.PNG|250px|thumb|left|OER Social Bookmarking]]
+
+<br clear='left'>
+
+''Wer steckt dahinter?''
+
+Edutags ist ein Kooperationsprojekt des Deutschen Bildungsservers und der Universität Duisburg-Essen/Learning Lab. Learning Lab ist eine Forschungs- und Entwicklungseinrichtung der Fakultät für Bildungswissenschaft, an der Universität Duisburg-Essen.
+
+''Inhalte und Aufbau''
+
+Edutags unterstützt Lehrende bei der Vorbereitung und Durchführung von Unterricht mit digitalen Medien. Es können Verweise auf Bildungsressourcen gesammelt, verwaltet, bewertet und kommentiert werden. Die Ergebnisse daraus, können gemeinsam mit anderen Teilnehmern zu thematischen Sammlungen zusammengestellt und in Gruppen ausgetauscht werden.<ref>edutags (Hg.) (2016): Über edutags: Online verfügbar unter http://www.edutags.de/ueber-edutags, zuletzt geprüft am 10.06.2016.</ref>
+
+
+----
+
+==== Elixier ====
+
+[[Datei: Elixier fb.png|150x150px|thumb|Elixier]]
+
+''Wer steckt dahinter?''
+ 
+"...12 Partner, nämlich die Landesbildungsserver von Hessen, Niedersachsen, Sachsen, Baden-Württemberg, Sachsen-Anhalt, Nordrhein-Westfalen und Bayern sowie der Deutsche Bildungsserver, das FWU, MELT, Contake und SODIS mit Datenlieferungen an ELIXIER. Hamburg, Bremen, Berlin-Brandenburg und Thüringen haben die Absicht bekundet."<ref> Elixier, Kooperationsplattform der deutschen Bildungsserver. Online verfügbar unter http://www.bildungsserver.de/elixier/ueberuns.html, zuletzt geprüft am 22.06.2016.</ref>
+
+
+''Inhalt und Aufbau'' 
+
+Das Angebot von Elixier umfasst rund 50.000 Bildungsmedien, u.a. Texte in Form von Arbeitsblättern, audiovisuellen Lehrmaterialien, Webquests und Schulsoftware zum Download. Darüber hinaus Materialien von lehrer-online, Planet Schule, der Siemens-Stiftung und der Plattform Mauswiesel. Die Fachredaktionen der Bildungsserver prüft die Inhalte auf ihre Qualität. <ref> Elixier, Kooperationsplattform der deutschen Bildungsserver. Online verfügbar unter http://www.bildungsserver.de/elixier/ueberuns.html, zuletzt geprüft am 22.06.2016.</ref>
+
+----
+
+[[Datei:flickr.png|150px|thumb|left|]]
+
+====Flickr====
+
+''Wer steckt dahinter?''
+
+Flickt ist eine Online-Fotoplattform von Yahoo, welche seiner Community das hochladen digitalisierte Bilder und kurzen Videos ermöglicht und diese mit anderen Nutzern geteilt werden können. Mittlerweile sind über 8 Milliarden Fotos online <ref>Flickr. Blog. Online verfügbar unter http://blog.flickr.net/de/2012/12/12/flickr-noch-besser-nutzen-besser-navigieren-und-fotos-entdecken/, zuletzt geprüft am 11.06.2016.</ref>. Nutzer haben die Möglichkeit ihre Bilder mit sogenannten Tags zu versehen, um sie anhand der Stichwortsuche auffindbar zu machen. Außerdem können durch Vergabe von Creative Commons-Lizenzen die Rechte am Bild eingeschränkt werden <ref>Flickr. FAQ. Online verfügbar unter https://de.hilfe.yahoo.com/kb/flickr/Urheberrecht-und-Creative-Commons-Lizenzen-sln7463.html, zuletzt geprüft am 11.06.2016.</ref>.
+
+''Inhalt und Aufbau'' 
+
+In der erweiterten Suche kann neben den formalen Kriterien auch nach Lizenzen zur freien Weiterverarbeitung eingeschränkt werden.
+Flickr verfolgt seit 2008 mit ihrem Projekt ''Die Commons'', in Kooperation mit der Library of Congress, das Ziel die Sichtbarkeit von öffentlichen Fotosammlungen, die keine urheberrechtlichen Beschränkungen<ref>Flickr: Die Commons. Online verfügbar unter https://www.flickr.com/commons/usage/, zuletzt geprüft am 20.06.2016.</ref> haben, zu erhöhen und zu verbessern.
+
+
+----
+
+====SlideShare====
+[[Datei:slideshare.png|250px|thumb|slideshare.de]]
+
+''Wer steckt dahinter?''
+
+SlideShare ist ein von LinkedIn betriebener Filehosting-Dienst, welcher es ermöglicht u.a. Präsentationen, Infografiken oder Dokumente zur Verfügung zu stellen und öffentlich zu teilen <ref>SlideShare. About. Online verfügbar unter http://de.slideshare.net/about, zuletzt geprüft am 11.06.2016.</ref>. 
+
+''Inhalt und Aufbau''
+
+In über 35 Kategorien und aus über 80 Millionen Uploads können Inhalte recherchiert werden. Die hochgeladenen Informationen sind laut AGB frei nachnutzbar, so lange sie online verfügbar sind. Eine explizite Suche nach CC-Lizenzen ist nicht möglich.
+
+
+
+----
+
+==== Zenodo ====
+
+
+[[Datei:Zenodo.png|673x297px|thumb|left|Zenodo - Wissenschaftliches Repository]]<br clear='left'>
+
+''Wer steckt dahinter?''
+
+Zenodo ist ein Projet das gemeinsam vom [http://home.cern CERN] (<strong>C</strong>onseil <strong>E</strong>uropéen pour la <strong>R</strong>echerche <strong>N</strong>ucléaire / Europäische Organisation für Kernforschung), [http://home.cern OpenAIRE] und der [http://ec.europa.eu/programmes/horizon2020/ European Commission] gefördert und betrieben wird. 
+
+''Inhalt und Aufbau''
+
+Zenodo, ist ein einfacher aber innovativer Service, der Forschern, Wissenschaftlern, EU-Projekten und Institutionen die Möglichkeit bietet, fachübergreifend ihre Forschungsergebnisse zu teilen, zu bewahren und zu veröffentlichen. Dabei bietet Zenodo eine große Vielfalt an Formaten für Texte, Tabellenkalkulation, Audio und Video für alle Wissenschaftsgebiete und ermöglicht so die Sichtbarkeitmachung von Forschungsergebnissen, die durch ihre Zitierbarkeit Eingang und Wiederverwendung in weitere Projekte finden können.
+
+Zenodo ermöglicht einen einfachen Upload von Daten und eine semiautomatische Vergabe von Metadaten, die durch die Zusammenführung mit weiteren Daten aus Mendeley, ORCID, CrossRef und OpenAIRE vervollständigt werden können. Zudem bietet Zenodo einen leichten Zugang zu den Daten durch innovative Anzeigeoptionen und open API's, sowie die Vergabe von Persistent Identifiers und DOI's zur leichteren Auffindbarkeit. Gehostet wird der Service durch das CERN <ref>Zenodo. About Zenodo. Online verfügbar unter http://zenodo.org/about , zuletzt geprüft am 07.06.2016.</ref>.
+
+===Plattformen für Studierende===
+
+[[Datei:BASE.png|250px|thumb|left|BASE Erweiterte Suche]]
+
+====Bielefeld Academic Search Engine (BASE)====
+
+''Wer steckt dahinter?''
+
+BASE ist eine Internetsuchmaschine initiiert von der Universität Bielefeld für ausschließlich wissenschaftliche Quellen.<ref>Bielefeld Academic Search Engine. Über BASE. Online verfügbar unter https://www.base-search.net/about/de/index.php , zuletzt geprüft am 11.06.2016.</ref> Neben den wissenschaftlichen Daten des lokalen Dokumentenservers, werden im Speziellen frei zugängliche Dokumente von Repository-Servern anhand von Metadaten durch das „Open Archives Initiative Protocol for Metadata Harvesting“ (OAI-PMH) bereitgestellt.<ref>Open Archives Initiative. Online verfügbar unter http://www.openarchives.org/, zuletzt geprüft am 11.06.2016.</ref>
+
+<br clear='left'> ''Inhalt und Aufbau''
+
+In der erweiterten Suche können unter der Rubrik ''Lizenzen'' die Suche nach Creative Commons gefiltert werden. Auch der Zugang von Open Access kann zusätzlich ausgewählt werden.
+
+
+----
+
+====Hamburg Open Online University====
+
+''Wer steckt dahinter?''
+
+Hamburg Open Online University (HOOU) ist eine übergreifende Kooperationsplattform mehrerer Hamburger Hochschuleinrichtungen. Unter Leitung der Behörde für Wissenschaft und Forschung und dem Lenkungsausschuss „Digitales Lehren und Lernen“ wurden drei Expertengruppen zusammengestellt, die das Konzept von HOOU weiter ausbauen.<ref>Hamburg Open Online University. Was ist die HOOU? Online verfügbar unter http://www.hoou.de/p/konzept-hamburg-open-online-university-hoou/, zuletzt geprüft am 26.05.2016.</ref>
+
+[[Datei:HOOU Bsp1.PNG|250px|thumb|left|Netzwerk Hamburger Einrichtungen]]
+
+''Inhalt und Aufbau''
+
+Mit seinen akademischen Inhalten richtet sich HOOU an Lehrende, Studierende und Interessierte. 
+
+''„Es sollen Lernarrangements ermöglicht werden, in denen neben den eigentlichen Inhalten die Lernenden selbst im Mittelpunkt stehen.“''<ref>Hamburger Zentrum für Universitäres Lehren und Lernen. Schwerpunkte. Online verfügbar unter https://www.hul.uni-hamburg.de/schwerpunkte/digitalisierung-von-lehren-und-lernen/hoou.html, zuletzt geprüft am 26.05.2016.</ref>
+
+Mehrere Projekte wurden bereits initiiert. Für die Umsetzung des Konzeptes werden besonders Punkte wie die Wissenschaftlichkeit der Fragestellungen, Lernorientierung der einzelnen Beteiligten und die offene Bereitstellung von Open Educational Resources für Interessierte, hervorgehoben. Letzteres wurde nach aktuellem Stand [2016] jedoch noch nicht umgesetzt.
+
+
+----
+
+====OpenLearnWare====
+
+[[Datei:Olw.png|250px|thumb|left]]
+
+<br clear='left'>''Wer steckt dahinter?''
+
+OpenLearnWare (OLW) ist eine Online-Plattform der Technischen Universität (TU) Darmstadt, die es den Lehrenden der TU ermöglicht, ihre Lehrmaterialien frei und öffentlich auf der OpenLearnWare-Plattform bereit zu stellen. OWL stellt seit 2009 die ersten freien Bildungsressourcen auf einer Open Access Plattform bereit.
+ 
+''Inhalt und Aufbau''
+
+Derzeit umfasst das Angebot 2996 Materialien von 232 Lehrenden in den Bereichen der Ingenieur-, Natur- und Geisteswissenschaften.<ref>Technische Universität Darmstadt (Hg.): Openlearnware - freier Zugang und Austausch von Lernmaterialien, Online verfügbar unter: https://www.openlearnware.de/about, zuletzt geprüft am 22.06.2016.</ref>
+
+
+----
+
+[[Datei:MIT-OCW.png|thumb|206x206px|Themengebiete der MIT]]
+
+====MIT OpenCourseWare====
+
+''Wer steckt dahinter?''
+
+Dabei handelt es sich um eine Initiative der Massachusetts Institute of Technology (MIT), die Lehrmaterialien seit mittlerweile 15 Jahren lizenzfrei zur Verfügung stellt. Damit ist sie Teil des Netzwerkes OpenEducationConsortium, welche sich für Offenheit in der Bildung stark macht.<ref>OpenEducationConsortium (Hg.): Netzwerk, welches sich für Offenheit in der Bildung stark macht. Online verfügbar unter http://www.oeconsortium.org/about-oec/, zuletzt geprüft am 26.05.2016.</ref>
+
+''Inhalt und Aufbau''
+
+Das Team des MIT sammelt und bearbeitet sämtliche Kursinhalte des  MIT und stellt sie allen Interessierten unter freier Lizenz auf der Homepage zur Verfügung. Unterstützt wird der Vertrieb der Publikationen über Youtube. Derzeit sind 2340 Kurse von Architektur bis Wirtschaft abrufbar<ref>Massachusetts Institute of Technolgy (Hg.) (2016): Über OpenCourseWare. Online verfügbar unter http://ocw.mit.edu/about/, zuletzt geprüft am 08.06.2016.</ref>. Dabei handelt es sich vorrangig um Vorlesungsskripte, Videomitschnitte, Klausuren und Hausaufgaben mit Lösungen. Eine Anmeldung ist nicht erforderlich. Finanziert wird die Bereitstellung zur Hälfte vom MIT<ref>Massachusetts Institute of Technolgy (Hg.) (2016): Finanzierung von OpenCourseWare. Online verfügbar unter http://ocw.mit.edu/donate/why-donate/, zuletzt geprüft am 27.05.2016.</ref>. Die anderen Ausgaben werden durch Spenden, Stiftungen, Sponsoring und alternativen Einnahmequellen, z.B. Crowdfunding <ref>Crowdfund MIT (Hg.) (2014): Finanzierung der OpenCourseWare. Online verfügbar unter https://crowdfund.mit.edu/project/2286, zuletzt geprüft am 08.06.2016</ref> gedeckt.
+
+
+----
+
+====Stanford Online====
+
+''Wer steckt dahinter?''
+
+Die Stanford University wurde 1891 von Leland und Jane Stanford gegründet und ist eine der bekanntesten und wohlhabenstenn Universitäten der USA. Sie liegt zwischen San Francisco und San Jose, im Silicon Valley. Stanford Online ist eine Initiative der Stanford Universität, koordiniert vom stellvertretenden Leiter für Lehren und Lernen mit dem Ziel, die Lehre an der Universität zu unterstützen.<ref>Stanford Online. About. Online verfügbar unter http://online.stanford.edu/about, zuletzt geprüft am 26.05.2016.</ref>
+[[Datei:Stanfordonline.png|250px|thumb|left]]
+
+''Inhalt und Aufbau''
+
+Die angebotenen Kurse sind von den jeweiligen Fakultäten erstellt und vollständig online abrufbar. Es werden auch Kurse im ''self-study''-Modus angeboten, um den Teilnehmern die Möglichkeit zu geben das Material im eigenen Tempo per Selbststudium zu bearbeiten. Stanford Online unterhält außerdem einen eigenen Youtube-Channel mit verschiedenen Videokursen. Der Channel bietet Videos von Schulen, Abteilungen und Programmen der Universität. Darunter Kurse, Vorlesungen der Fakultäten, Veranstaltungen der Universität und neueste Forschungsnachrichten der Universität Stanford.  Diese sind nach verschiedenen Kategorien wie “Stanford news”, “Stanford+Connects” und anderen unterteilt. Außerdem gibt es zahlreiche weitere Kanäle der einzelnen Fakultäten, die man abonnieren kann.<ref>Youtube. Stanford Online. Online verfügbar unter https://www.youtube.com/user/stanfordonline Youtube/stanfordonline, zuletzt geprüft am 26.05.2016</ref><br clear='left'>
+
+
+===Plattformen für Lehrer und Schüler===
+
+====ZUM-Wiki====
+
+''Wer steckt dahinter?''
+
+ZUM-Wiki ist eine offene Lernplattform, welche auf der Technologie von Wikipedia basiert, für vorwiegend Lehrerinnen und Lehrer aber auch für Schüler und Interessierte. ''ZUM ''steht für Zentrale für Unterrichtsmedien im Internet und wird vom gleichnamigen ZUM Internet e.V. seit 1997 betreut.<ref>ZUM Wiki. Online verfügbar unter http://wiki.zum.de/ ZUM-Wiki, zuletzt geprüft am 23.05.2016.</ref>
+
+''Inhalt und Aufbau''
+
+Von den Initiatoren wurde ZUM-Wiki 2004 ins Leben gerufen, um schnell und unkompliziert Unterrichtsideen bestenfalls in Kooperation zu entwickeln, zu präsentieren und damit für Lehrende nachnutzbar zu machen. Editoren setzen sich hier meist aus Lehrerinnen und Lehrern, Lehrkräften, Lehramt-Studierenden aber auch Schülern zusammen.
+
+Materialen können sich aus Texten, Videos und Vorlagen zusammensetzen, die sich als Unterrichtsmaterialien eignen. Des Weiteren gibt es Möglichkeiten für Übungen der verschiedenen Schulfächer, welche z.B. aus Lückentexten, Quiz und interaktiven Lernpfaden bestehen.<ref>Kirst, Karl-Otto: Wiki-Ressourcen für Schule und Unterricht: Das ZUM-Wiki und die Wiki-Family. In: Wikis in der Schule und Hochschule, 2012. Online verfügbar unter http://wiki.zum.de/images/d/d7/Kirst_2012.pdf, zuletzt geprüft am 26.05.2016.</ref>
+
+[[Datei:ZUM_Bsp3.png|250px|thumb|left|ZUM-Wiki Beispiel]]
+[[Datei:ZUM_Bsp4.png|250px|thumb|center|ZUM-Wiki Beispiel]] 
+
+
+Weitere angebotene Wikis sind das ZUM-Grundschulnetz und die ZUM-Unity. 
+
+2016 war das ZUM-Wiki Gewinner des “OER-Award 2016" in der Kategorie “Bildungsbereich Schule”.
+
+
+----
+
+====Flip the classroom====
+
+ [[Datei:Logo längs.png|250px|thumb|left]]
+
+ 
+[[Datei:Konzept.jpg|150px|thumb|right|Traditioneller Unterricht vs. Flip the Classroom]]
+<br clear='left'>''Wer steckt dahinter?''
+
+Felix Fähnrich und Carsten Thein, zwei ausgebildete Mathematik- und Physiklehrer <ref>Fliptheclassroom (Hg.): Das Team von Fliptheclassroom. Online verfügbar unter http://www.fliptheclassroom.de/team/, zuletzt geprüft am 26.05.2016.</ref>, die Schülern mit Hilfe von Videos die Möglichkeit geben, ihre Leistungen in Mathematik zu steigern. 
+
+''Inhalt und Aufbau''
+
+Die Videos gliedern sich in die Bereiche Einführung, Regel und Aufgaben und folgen damit dem Aufbau des Mathematikbuches des Klett Verlages: Lambacher Schweizer, Kursstufe Baden-Württemberg <ref>Fliptheclassroom (Hg.): Das Konzept von Fliptheclassroom. Online verfügbar unter http://www.fliptheclassroom.de/konzept/, zuletzt geprüft am 26.05.2016.</ref>. Schülerinnen und Schüler können sich so ohne Zeitdruck selbstständig und selbstorganisiert die Grundlagen der Mathematik aneignen und Erlernte im Unterricht vertiefen.
+
+
+----
+
+====Lernox====
+[[Datei:Logo lernox.jpg|150px|right]]
+
+''Wer steckt dahinter?''
+
+Lernox ist eine private Initiative, die eine gemeinnützige Form anstrebt <ref>Lernox (Hg.) (2014): Impressum der Initiative Lernox. Online verfügbar unter https://blog.lernox.de/impressum/, zuletzt geprüft am 26.05.2016.</ref>. <br clear='left'> Das Team besteht aus der Gründerin Zwetana Penova, sowie Prof. Pepe Jürgens und Daniel Burckhardt. 
+
+''Inhalt und Aufbau''
+
+Lernox bietet Lehrkräften eine Plattform, um Lern- und Lehrmaterialen frei zur Verfügung zu stellen, zu teilen und zu organisieren. Dabei steht ein multimedialer Unterricht im Vordergrund, der unterstützt wird von kollaborativen Werkzeugen, die es ermöglichen freigegebene Lernmaterialien zu vereinen und zu bearbeiten <ref>Lernox (Hg.) (2014): Die Ziele von Lernox. Online verfügbar unter https://blog.lernox.de/ueber-uns-2/, zuletzt geprüft am 26.05.2016.</ref>.
+
+
+----
+
+====Serlo====
+[[Datei:serlo.png|thumb|150x150px]]
+
+''Wer steckt dahinter?''
+
+Serlo ist eine Online Community, bestehend aus Autoren, Softwareentwickler und Projektmanager, die gemeinsam Lehrmaterialien erstellen, verlinken, sortieren und übersetzen <ref>Serlo (Hg.): Das Team und die Inhalte von Serlo. Online verfügbar unter https://de.serlo.org/serlo, zuletzt geprüft am 26.05.2016.</ref>. <br clear='left'> Serlo wird von dem gemeinnützigen Verein „Gesellschaft für freie Bildung e. V.“ getragen <ref>Serlo (Hg.): Der Trägerverein von Serlo. Online verfügbar unter https://de.serlo.org/verein, zuletzt geprüft am 26.05.2016.</ref>.
+
+''Inhalt und Aufbau''
+
+Serlo bietet Schülerinnen und Schülern u.a. für das Fach Mathematik 1000 einfache Erklärungen, 5000 Aufgaben mit Musterlösungen und 120 Videos und Kurse. Die Inhalte sind den Lehrplänen zugeordnet. Serlo bezeichnet sich als „Wikipedia für's Lernen“. Eine Qualitätssicherung gewährleistet lediglich das Feedback anderer Nutzung und eine Überprüfung durch erfahrene Mitglieder.<ref>Serlo (Hg.): Über Serlo. Online verfügbar unter https://de.serlo.org/serlo, zuletzt geprüft am 22.06.2016.</ref>
+
+==Einzelnachweise==
+
+<references/>
