@@ -1,0 +1,148 @@
+
+ DOI: '''10.2314/coscv2.4'''
+
+{{Autoren|[[Benutzer:Sascha|Sascha Friesike]], [[Benutzer:Mfenner|Martin Fenner]]}}
+Kontributoren: [[Benutzer:mk|Mareike König]]
+ 
+
+Während das Schreiben von wissenschaftlichen Texten früher eine Tätigkeit war, die man in erster Linie alleine durchgeführt hat, [http://www.nlm.nih.gov/bsd/authors1.html nimmt die Zahl der Texte, die in Koautorenschaft erstellt werden, ständig zu]. Parallel ergeben sich durch innovative Technologien neue Möglichkeiten des kollaborativen Schreibens. Werkzeuge wie [http://etherpad.org/ Etherpad] oder [http://docs.google.com/ Google Docs] erlauben das simultane Schreiben mehrerer Autorinnen und Autoren an einem Dokument. Damit ergeben sich für Wissenschaftlerinnen und Wissenschaftler neue Herausforderungen. Doch auch die Bewertung und Zuschreibung von Texten wird fließend, lassen sich doch bei Dokumenten, die auf diese Weise entstehen, einzelne Kapitel oder Textabschnitte nicht mehr eindeutig einer Person zuordnen.
+
+Aber gehen wir erst einmal einen Schritt zurück. Vor dem simultanen Schreiben waren Wissenschaftlerinnen und Wissenschaftler, die gemeinsam mit anderen Texte verfassen wollten, an das Versenden von Dokumenten in der jeweiligen Version gebunden. Diese Versionen wurden über gemeinsame Laufwerke oder per E-Mail geteilt. Diese Praxis führte häufig zu Versionskonflikten. Zwei Personen editierten etwa den gleichen Text, speicherten ihn und später fand eine der beiden Personen heraus, dass die eigenen Änderungen auf dem Weg zum finalen Dokument 'verschwunden' waren. Das Thema Versionsmanagement war daher in kollaborativen Projekten von entscheidender Wichtigkeit. Im Regelfall behalf man sich damit, dass bestimmten Autorinnen und Autoren ein Zeitfenster zugesichert wurde, in dem sie das Dokument zu bearbeiten hatten. In fortschrittlicheren Forschungsumgebungen wurden Repositorien genutzt, aus denen die zu bearbeitende Datei für die Zeit der Bearbeitung 'ausgecheckt' werden konnte, so dass  der Zugriff auf das Dokument durch andere Autorinnen und Autoren nicht möglich war. 
+ 
+Die Zukunft gehört dem simultanen Schreiben. Voraussetzung dafür sind Werkzeuge, die es erlauben, dass mehrere Personen ein und dasselbe Dokument zur gleichen Zeit editieren können. Aus technischer Sicht passiert hier Folgendes: Eine Autorin/ein Autor sperrt nicht wie früher das gesamte Dokument an dem sie/er arbeitet, sondern lediglich die Textstelle, die gerade editiert wird. Eine zweite Autorin/ein zweiter Autor hat so die Möglichkeit, den Rest des Textes weiterhin zu editieren, ohne dass es zu einem Versionskonflikt kommt. 
+
+== Grundlagen verstehen ==
+Zu den Grundlagen wissenschaftlichen Schreibens ist an anderer Stelle schon viel geschrieben worden. So lassen sich grundsätzlich zwei Typen von Referenzen unterscheiden. Auf der einen Seite Literatur, die das richtige Schreiben behandelt (Beispiele: Wie zitiere ich richtig, wo wird ein Komma gesetzt, wie beschrifte ich eine Abbildung, …?) und auf der anderen Seite Literatur, die dabei hilft, einen gut lesbaren und angenehmen Schreibstil zu entwickeln. Beides ist für das wissenschaftliche Schreiben wichtig. Die erste Gruppe bezieht sich dabei mehr auf die Form, die zweite auf den Inhalt. 
+
+Zur Auseinandersetzung damit, wie man formal richtig zitiert, können zum Einstieg und zum Nachschlagen empfohlen werden:
+* [http://www.duden.de/woerterbuch Duden]
+* [http://www.chicagomanualofstyle.org/home.html Chicago Manual of Style]
+* MLA Style Manual
+* The Publication Guide of the APA
+Zur Auseinandersetzung damit, wie man formuliert, wie lang ein Satz sein sollte und wie man es schafft, alles wegzulassen, was den Leser langweilen wird, empfehlen wir:
+* William Zinsser – On Writing Well
+* Stephen King – On Writing
+* Larry Philips – Ernest Hemingway on Writing. Zum Schreiben wie Hemingway siehe auch die nicht ganz ernst gemeinte Applikation:  [http://www.hemingwayapp.com/ http://www.hemingwayapp.com]
+* The Elements of Style (allgemein und kurz)
+* Chicago Manual of Style (auch dazu viel hier, generell ein guter Einstieg für das Verfassen von englischen Texten)
+Zusätzlich zu diesen allgemeinen Einführungen empfiehlt sich Literatur speziell für das jeweilige Fachgebiet, zum Beispiel Jura, Literaturwissenschaft oder Medizin.
+
+Für das kollaborative Schreiben empfehlen sich Online-Ressourcen, auf die alle Autorinnen und Autoren zugreifen können. Dies erleichtert einen einheitlichen Stil des Textes und unter Umstädnen gelingt die direkte Integration in die benutzten Schreibwerkzeuge, zum Beispiel Rechtschreibprüfung und Thesaurus. Als Online-Referenzen können wir zum Beispiel empfehlen:
+* [https://owl.english.purdue.edu/writinglab/ Purdue Writing Lab]
+* [https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style Wikipedia Manual of Style]
+
+== Häufige Fehler vermeiden ==
+Viele wissenschaftliche Texte sind schwer verständlich. Dies liegt im Wesentlichen an der speziellen Thematik, die eine Grundkenntnis der Materie sowie spezielle Fachbegriffe und Abkürzungen erfordert. Es gibt aber leider oft auch Probleme in Texten, die sich nicht so erklären lassen.
+
+Häufige Schwierigkeiten der Verständlichkeit sind zum Beispiel:
+* unverständliche Dokumentstruktur
+* lange verschachtelte Sätze
+* unnötige Verwendung von wenig benutzten Fremdwörtern und Fachbegriffen
+* übermäßige Verwendung der passiven Sprache 
+Zur Einschätzung der Verständlichkeit eines akademischen Textes haben sich in der Englischen Sprache der [https://en.wikipedia.org/wiki/Flesch%E2%80%93Kincaid_readability_tests Flesch Reading Ease Test] und Flesch Kincaid Grade Level eingebürgert, die in einige Textverarbeitungen integriert sind.
+
+Beim kollaborativen Schreiben kann die Verständlichkeit eines Textes verbessert werden, indem Koautorinnen und Koautoren Kommentare (siehe unten) bei unklaren Formulierungen einfügen und den Text auf Verständlichkeit überarbeiten. Für die allgemeine Verständlichkeit ist das Feedback von Personen, die nicht direkt Expertin oder Expertee in der Thematik sind, oft besonders hilfreich. Die frühzeitige Publikation eines Dokumentes, zum Beispiel als Blogbeitrag, Preprint oder Working Paper, gibt einem breiteren Publikum die Möglichkeit zum Feedback. Siehe dazu auch den Beitrag zum [[Wissenschaftsbloggen]] im Handbuch. 
+
+== Rollen und Verantwortlichkeiten klären ==
+Mit steigenden Autorenzahlen und gleichzeitig steigenden Anzahlen an Publikationsprojekten, an denen Wissenschaftlerinnen und Wissenschaftlerinnen arbeiten, nimmt auch die Notwendigkeit zu, Rollen und Verantwortlichkeiten klar zu definieren. Wer dies bereits zu Beginn eines Projektes tut, der kann sich im Weiteren Verlauf der Arbeit viel Ärger ersparen. Grundsätzlich gilt es folgende Punkte festzulegen:
+* Wer liefert welchen Beitrag?
+* In welchem Umfang werden die Beiträge geliefert?
+* Wer ist für den 'Feinschliff' verantwortlich (Gibt es etwa Eine Erstautorin/einen Erstautoren für den wesentlichen Teil der Arbeit am Projekt oder wird die Arbeit zwischen allen Autorinnen und Autoren aufgeteilt? Wurde dies gemeinsam beschlossen oder wird lediglich davon ausgegangen?)
+* Wer ist für die Erstellung von Grafiken und Tabellen (siehe auch Integration nichttextueller Medien) verantwortlich?
+* Ist die Reihenfolge Autorinnen und Autoren klar? Entspricht dies auch den Erwartungen an das Projekt?
+* Wer ist zuständig, wenn eine Koautorin/ein Koautor nicht in der festgelegten Qualität liefert? Und welche Optionen haben die anderen Autorinnen und Autoren in so einem Fall?
+
+== Zeit von Beginn an planen ==
+Nach der Festlegung der Rollen und Verantwortlichkeiten ist der nächste Schritt die Zeitplanung. Es ist wichtig, dies zu Beginn des Projektes zu machen, damit die Erwartungen der Autorinnen und Autoren klar sind und die nötige Zeit in den individuellen Kalendern geblockt werden kann. Folgende Fragen sollte man klären:
+* Wieviel Zeit wollen wir insgesamt investieren?
+* Wieviel Zeit möchte und kann jede Koautorin/jeder Koautor einbringen?
+* Wann soll das Projekt fertig sein?
+* Wann sollen wichtige Meilensteine erreicht werden?
+* Ist die Zeitplanung realistisch?
+* Wer koordiniert die Zeitplanung?
+Erfahrungsgemäß wird bei vielen gemeinsamen Schreibprojekten die Zeitplanung vernachlässigt. Gegen Ende des Projektes wird die Welt etwas hektisch, insbesondere wenn es einen von außen festgelegten fixen Zeitpunkt gibt (zum Beispiel eine Deadline einer Revision).
+
+Die folgenden Phasen eines gemeinsamen Schreibprojekts – angelehnt an die Phasen eines [[Booksprint|Book Sprint]]  – sind sinnvoll, egal ob das Projekt drei Tage oder ein Jahr dauern soll: 
+* Konzept
+* Gliederung
+* Schreiben
+* Korrektur und Zusammenführung
+* Publikation
+
+== Einsatz der Werkzeuge festlegen ==
+Es gibt die unterschiedlichsten Werkzeuge, um Texte zu verfassen. Während man sich in manchen Disziplinen nach wie vor an LaTex klammert, werden in anderen Disziplinen noch immer Word-Dokumente per E-Mail verschickt. Es ist ratsam, vor dem tatsächlichen Akt des Schreibens festzulegen, welche Werkzeuge hierfür zum Einsatz kommen werden. Dies gilt besonders in disziplinübergreifenden Projekten und immer dann, wenn man mit neuen Koautorinnen und Koautoren zusammenarbeitet. Die einzelnen Werkzeuge haben alle ihre individuellen Vor- und Nachteile. Die Auswahl sollte sich an den Anforderungen des Projektes orientieren. Ist es etwa gewollt, dass mehrere Autorinnen und Autoren zeitgleich am gleichen Dokument arbeiten, so bieten sich Online-Lösungen wie Etherpad oder GoogleDocs an. Ist eine erstautorin/Erstautor für das Zusammenfügen des Dokumentes verantwortlich, so ist es mitunter einfacher, wenn jede Autorin/jeder Autor die Inhalte in seiner bevorzugten Umgebung verfasst.
+
+Zur gemeinsamen Literaturverwaltung sollte sich ein Projekt auf ein bestimmtes Programm einigen, bei kleinen Projekten liegt diese Entscheidung bei der Erstautorin/beim Erstautor. Idealerweise sollte die kollaborative [http://handbuch.osl.tib.eu/w/index.php/Handbuch_CoScience/Literaturverwaltung Literaturverwaltung] über das Internet möglich sein, wie zum Beispiel mit Zotero oder Mendeley. 
+
+Für Abbildungen, statistische Auswertungen usw. werden unter Umstanden weitere Programme benötigt. Auch hier sollte sich das Projekt auf die verwendeten Programme beziehungsweise Dateiformate einigen.
+
+Zur Koordination des gemeinsamen Schreibens wird im einfachsten Fall E-Mail verwendet. Zusätzlich können je nach Umfang des Projektes noch andere Werkzeuge aus den folgenden Kategorien zum Einsatz kommen:
+* zentrale Dokumentenverwaltung, zum Beispiel Dropbox (europäische Alternative: [http://wuala.com/ Wuala]), Google Docs
+* Kommunikation, zum Beispiel ICQ, Skype
+* Projektmanagement, zum Beispiel Doodle, Basecamp
+
+== Kommentare sinnvoll einsetzen ==
+Kommentare sind ein bewährtes Mittel, um Koautorinnen und Koautoren Änderungen vorzuschlagen oder auf Schwierigkeiten im Text hinzuweisen. Dabei wird der eigentliche Text nicht verändert, sondern lediglich ein Hinweis hinzugefügt. Es gibt verschiedene Gründe, aus denen es sinnvoll sein kann, die Kommentarfunktion zu nutzen, statt den Text selbst zu editieren:
+[[Datei:Kommentar.png|thumb|400x400px|Abbildung: Kommentar in Google Docs]]
+* Die Textstelle hat eine andere Autorin/ein anderer Autor, dren/dessen Arbeit man nicht editieren möchte.
+* Die Textstelle wirft eine Frage auf, die der Kommentierende nicht selber beantworten kann. (Beispiele hierfür sind: der Satz ist nicht zu verstehen, es fehlt ein Verb, es fehlt eine Quelle …)
+* Man möchte eine alternative Formulierung vorschlagen, die ursprüngliche Formulierung aber nicht überschreiben.
+* Man nimmt an, dass hier etwas falsch sei und möchte darum bitten dies noch einmal zu überprüfen.
+Kommentare sind also ein zentrales Werkzeug im kollaborativen Schreiben und die eingesetzte Software sollte die folgenden Funktionen haben:
+* Kommentare sind Teil des Dokuments
+* Kommentare sollen nicht am Ende des Texts stehen, sondern als Textmarkierung mit Kommentartext am Seitenrand erscheinen
+* Koautorinnen und Koautoren werden benachrichtigt und können direkt auf den Kommentar antworten
+
+== Änderungen nachvollziehen ==
+Das Nachverfolgen von Änderungen ist wichtig, um zu sehen, was in einem gemeinsam geschriebenen Text passiert ist oder um herauszufinden, wer eine bestimmte Änderung gemacht hat. Mit dieser Funktion ist es außerdem möglich, versehentlich gelöschten Text zurückzuholen. Zum Nachverfolgen von Änderungen müssen zwei Dinge gemacht werden:
+* Versionskontrolle
+* Hervorhebung von Änderungen
+
+=== Versionskontrolle ===
+Im einfachsten Fall (siehe Einleitung) bekommen alle Dokumente einen eindeutigen Dateinamen, zusammengesetzt zum Beispiel aus Titel, Datum, Version und/oder Autorin oder Autor.  
+ [http://www.phdcomics.com/comics/archive/phd101212s.gif FINAL_rev.22.comments49.corrections.10.#@$%WHYDIDICOMETOGRADSCHOOL???.doc]
+Es arbeitet immer genau eine Autorin/ein Autor an einem Dokument und die Dokumente werden per E-Mail ausgetauscht. 
+
+Für größere Projekte empfiehlt sich eine zentrale Speicherung und Versionierung der Dokumente, zum Beispiel mittels Dropbox, Wuala oder Google Docs. 
+
+Wenn mehrere Autorinnen und Autoren gleichzeitig an einem Dokument arbeiten können sollen, benötigt man spezielle Werkzeuge wie zum Beispiel Google Docs oder Etherpad.
+
+=== Hervorhebung von Änderungen ===
+In Werkzeugen wie Microsoft Word wurde hierfür die Funktion 'Änderungen nachverfolgen' genutzt. Die Idee dahinter ist, dass es eine Person gibt, die für den Schreibprozess verantwortlich ist, etwa eine Hauptautorin/ein Hauptautor. Diese Hauptautorin oder dieser Hauptautor erhält von den Koautorinnen und Koautoren Texte, die zeigen, welche Änderungen diese im Text gemacht haben, und kann diesen dann zustimmen oder sie ablehnen. Beim simultanen Schreiben ist das Nachverfolgen von Änderungen komplizierter, da eine äquivalente Funktion bis heute fehlt. Dennoch bietet die 'Revision History' (siehe Abbildung von Google Docs) die Möglichkeit, Änderungen nachzuverfolgen und, wenn nötig, diese rückgängig zu machen. Für reine Textdateien gibt es mit Critic Markup einen interessanten Ansatz, der von einer zunehmenden Zahl von Werkzeugen unterstützt wird.
+[[Datei:Aenderungen.png|thumb|500x500px|Abbildung: Revision History in Google Docs]]
+
+== Nicht-textuelle Materialien hinzufügen ==
+Während das simultane Schreiben heute in vielen Teilen der Wissenschaft an der Tagesordnung ist, ist die Integration von nicht-textuellen Materialen nach wie vor eine besondere Herausforderung. Mit nicht-textuellen Materialen meinen wir hier: Abbildungen, Videos, Tabellen, Referenzen, Forschungsdaten und Code. Im Folgenden werden wir die einzelnen Fälle nach und nach erörtern.
+
+=== Abbildungen ===
+Es gibt heute Möglichkeiten, kollaborativ Abbildungen zu erstellen, allerdings sind die Dienste, die solche Funktionen anbieten, in ihrem Funktionsumfang noch nicht auf wettbewerbsfähigem Niveau (Stand 2/2014). Zudem werden Abbildungen nicht so oft editiert wie Text und so ist der Bedarf für eine kollaborative Lösung nicht ganz so ausgeprägt. Aus unserer Erfahrung empfehlen wir für die Integration von Abbildungen folgenden Prozess: Eine ausgewählte Person im Projekt ist für den Stil der Abbildungen verantwortlich. Die anderen Autorinnen und Autoren liefern ihre Abbildungswünsche als Skizze oder Daten (zum Beispiel für Diagramme) an die verantwortliche Person (in seltenen Fällen übernimmt dies auch ein Verlag), die ihrerseits die Grafiken einheitlich umsetzt und in das gemeinsame Dokument einfügt. Oft ist es ratsam, die Originale zusätzlich über ein Netzwerklaufwerk oder einen Dienst (zum Beispiel Dropbox) zu teilen. So können die Autorinnen und Autoren Kleinigkeiten wie Tippfehler bei Achsenbeschriftungen selbst editieren.
+
+=== Tabellen ===
+Während sich Texte im Regelfall leicht von Programm zu Programm übertragen lassen, hängt der Erfolg bei der Übertragung von Tabellen stark vom Programm ab, in dem sie erstellt wurden. Bei wissenschaftlichen Texten stammen die Tabellen in aller Regel aus LaTex, Microsoft Word oder Excel, Adobe InDesign und inzwischen auch vermehrt aus Google Docs. Es empfiehlt sich, die Tabellen von Anfang an in dem Programm zu entwickeln, in dem sie final erstellt werden sollen. Dies spart eine Menge Fleißarbeit und schlechte Laune im Team. Für die Entwicklung eines Dokumentes reicht es in der Regel aus, das Einfügen einer Tabelle anzukündigen, etwa durch eine Zeile wie: 
+ »Hier später Tabelle 1 einfügen«
+Erst wenn der Text abgeschlossen ist, sollten die Tabellen in einem letzten Schritt eingereicht werden, da man so nicht mit späteren Umbrüchen kämpfen muss.
+
+=== Referenzen ===
+Referenzen sind ein zentraler Bestandteil jedes wissenschaftlichen Texts. Man unterscheidet Links, Fußnoten und Zitate, die Abgrenzung ist fließend: 
+* Links – in der Regel Weblinks – befinden sich direkt im Text 
+* Fußnoten beinhalten weitere Informationen (einschließlich Zitate), die aber nicht im Haupttext erscheinen sollen 
+* Zitate befinden sich im Text und verweisen auf eine Bibliographie am Ende des Textes 
+Die Verwendung der jeweiligen Formate hängt von der Disziplin ab, so sind Fußnoten zum Beispiel in den Naturwissenschaften nicht üblich. Zitate verwenden einen vorgegebenen [http://citationstyles.org/ Zitierstil], zum Beispiel einer bestimmten Fachzeitschrift und können oft von der Autorin oder dem Autor nicht selbst bestimmt werden. Allgemein verbreitete Zitierstile sind zum Beispiel APA, MLA und Harvard. 
+
+In einem kollaborativen Schreibprojekt sollten sich die Autoren auf eine Literaturverwaltungsprogramm (siehe oben), einen Zitationsstil und die Verwendung von Links und Fußnoten einigen. 
+
+=== Forschungsdaten ===
+Die den Ergebnissen einer Publikation zugrunde liegenden Forschungsdaten werden in der Regel in einem speziellen Forschungsdatenrepositorium abgelehnt. Kleinere Datensätze werden häufig als Supplementary Information an die Publikation angehängt. In beiden Fällen werden diese Daten in der Publikation zitiert, aber nicht selbst in den Text eingefügt.
+
+=== Code ===
+Die Software, die zur Erstellung einer wissenschaftlichen Publikation benötigt wurde, ist nicht selten speziell für das Projekt geschrieben. Ähnlich den zugrundeliegenden Forschungsdaten sollte die Software nach Möglichkeit in einem öffentlich zugänglichen Repositorium zur Verfügung gestellt werden und kann dann von der Publikation zitiert werden. 
+
+[[Datei:Code.png|thumb|400x400px|Abbildung: Beispiel für R Code mit Syntax Highlighting in einem Dokument.]]
+
+Bei kompaktem Code kann der Code direkt im Text integriert werden. Dies gelingt besonders einfach mit Werkzeugen wie [http://yihui.name/knitr/ knitr] (für die Programmiersprache R) und [http://ipython.org/notebook iPython Notebook], mit denen der Code direkt im Dokument eingegeben wird. Als Standard für das Syntax-Highlighting hat sich hier [http://pygments.org/ Pygments] etabliert und wird von vielen Werkzeugen unterstützt.
+
+== Bei Texten in einer anderen Sprache in dieser Sprache denken ==
+Neben der allgemeinen Schwierigkeit, das wissenschaftliche Schreiben zu erlernen, stehen Wissenschaftler häufig vor der Herausforderung, Texte in einer anderen Sprache als ihrer Muttersprache verfassen zu müssen. Das gilt insbesondere für Texte in englischer Sprache, die in vielen Disziplinen der Wissenschaft zum Standard geworden ist. Für deutschsprachige Autorinnen und Autoren ist das Verfassen sprachlich korrekter Texte in Englisch meist ein überwindbares Hindernis. Probleme haben sie jedoch gern mit differenzierten Formulierungen und dem Ausdrücken von subtilen Unterschieden. Als Einstieg empfehlen sich wieder die oben genannten Style Guides, außerdem sollten Wörterbuch und Thesaurus ständige Begleiter sein. Letztere sind am einfachsten in elektronischer Version zu nutzen, wobei die Integration in die Textverarbeitung nur teilweise gelingt, da es nicht um falsch versus richtig geht, sondern um möglichst treffende Formulierungen. In kollaborativen Projekten, in denen keine Muttersprachlerinnen und Muttersprachler dabei sind, ist es anzuraten, den Text nach Fertigstellung sprachlich überprüfen zu lassen. Fehlerhafte Sprache kann die gesamte Wahrnehmung eines Textes verändern, was etwa in einem Reviewprozess schwerwiegende Folgen haben kann.
+
+== Zielgruppen verstehen und entsprechend formulieren ==
+Während wissenschaftliche Texte in erster Linie für andere Wissenschaftlerinnen und Wissenschaftler geschrieben werden, sind insbesondere Open-Access-Publikationen und andere verfügbare Texte natürlich auch für andere Zielgruppen erreichbar. Insbesondere Themen von allgemeinem Interesse wie zum Beispiel Gesundheit oder Klimawandel werden von einer breiten Öffentlichkeit gelesen. Bei jedem Text mit interessantem aber auch möglicherweise kontroversem Inhalt sollte daher auch auf seine allgemeine Verständlichkeit geachtet werden, um spätere Missverständnisse zu vermeiden. Texte, die direkt an eine breitere Zielgruppe adressiert sind, sollten entsprechend formuliert werden.

@@ -1,0 +1,65 @@
+ DOI: '''10.2314/coscv2.0'''
+
+Der Arbeitsalltag von Wissenschaftlerinnen und Wissenschaftlern hat sich in den letzten Jahren dramatisch verändert. Forschen, Schreiben und Publizieren sind mittlerweile stark durch netzbasierte Anwendungen geprägt. Das digitale Zeitalter aber hat nicht nur neue technische Werkzeuge hervorgebracht, sondern auch neue Wege eröffnet, um Wissen zu generieren und zu verbreiten. Dies gilt sowohl innerhalb der akademischen Welt als auch über diese hinaus. Das Arbeiten mit dem Netz stellt unsere bisherigen etablierten wissenschaftlichen Praktiken in Frage. Forschung wird zunehmend vernetzt, kollaborativ, multimedial, trans- bzw. interdisziplinär durchgeführt.
+
+Das vorliegende Handbuch beschreibt diese sich herausbildenden wissenschaftlichen Praktiken. Ziel der Autoren war es dabei, ein praxisnahes und leicht verständliches Handbuch zu schreiben.  
+
+Der Entstehungsprozess des vorliegenden Handbuchs kann gleichzeitig das Potenzial dieser neuen Praktiken demonstrieren: Es handelt sich hier um ein auf einer kollaborativen Plattform verfasstes Buch, dessen erste Version im März 2014 im Rahmen eines Book Sprints an der Technischen Informationsbibliothek (TIB) in Hannover innerhalb eines Zeitraums von drei Tagen entstanden ist. Dabei war die Intention von vornherein, 'How-tos' zu erklären und nicht eine weitere Diskussion über die Bedeutung des digitalen Wandels anzustoßen.   
+
+==== Was ist 'CoScience'? ====
+'CoScience' ist der Name, den wir für unser Book-Sprint-Projekt gewählt haben. Er stellt eine griffige Kurzform des Begriffs ''collaborative science'' dar und bildet die Klammer für die Beiträge dieses Handbuchs. 
+
+Unter 'CoScience' verstehen wir hier die enge und koordinierte Zusammenarbeit verschiedener Akteure zur Erreichung eines definierten wissenschaftlichen Ziels, im Regelfall unter Nutzung digitaler Werkzeuge. Diese Akteure sind in erster Linie Forschende, die gemeinsam und vernetzt an Projekten arbeiten.  
+
+Mit dem 'CoScience'''-''Konzept wollen wir aber auch die Öffnung der Wissenschaft zur interessierten Öffentlichkeit erfassen, denn diese kann über Blogs und soziale Medien einen direkten Einblick in laufende und abgeschlossene Forschung erhalten. Sowohl Citizen-Science-Projekte als auch Crowdsourcing-Projekte beziehen die Öffentlichkeit zusätzlich aktiv in den Prozess des wissenschaftlichen Arbeitens ein. 
+
+Ein weiterer Aspekt, den wir als definierend für 'CoScience' ansehen, ist die Beschleunigung von Forschungsprozessen und die schnelle (manchmal sofortige) Sichtbarkeit von Forschungs(zwischen)ergebnissen, was ein Beitragen oder Weiterbearbeiten durch andere stark vereinfacht. 
+
+Im Rahmen dieses Buches möchten wir verschiedene Aspekte des kollaborativen wissenschaftlichen Arbeitens beleuchten und Handlungsorientierung geben, da wir aus eigener Erfahrung wissen, dass die Änderungen der Forschungskultur steigende Ansprüche an den wissenschaftlichen Nachwuchs stellen. Obwohl im Bereich der Wissenschaft digitale Projekte florieren, sind digitale Praktiken bisher nur selten Bestandteil des akademischen Curriculums. Dieses Handbuch möchte daher (Nachwuchs-)Wissenschaftlerinnen und Wissenschaftler sowie Studierende dabei unterstützen, sich im Dschungel der technischen Möglichkeiten zurechtzufinden und das kollaborative wissenschaftliche Arbeiten als Arbeitsweise zu adaptieren. 
+
+Wir gehen davon aus, dass diese kurzen orientierenden Texte für (angehende) Forscherinnen und Forscher naturwissenschaftlicher, geisteswissenschaftlicher und anwendungsorientierter Fächer, die sich einen ersten Überblick verschaffen wollen, relevant und nützlich sind (auch wenn der Begriff 'Co'''Science'''<nowiki/>'''' '''die beiden letztgenannten auszuschließen scheint).       
+
+== Aufbau ==
+Um das Buch kurz, eingängig und ansprechend zu gestalten, haben wir uns dazu entschieden, den wesentlichen Tätigkeitsfeldern wissenschaftlicher Arbeit jeweils ein Kapitel zu widmen. Der Fokus liegt - in Abgrenzung zu anderen 'Anleitungen' für die jeweiligen Tätigkeitsfelder - immer auf der kollaborativen digitalen Wissenschaft. Dabei konzentrieren wir uns auf die Tätigkeiten, die den Forschungsprozess kennzeichnen, während der Bereich der akademischen Lehre bewusst ausgeklammert wurde. Das hat zwei Gründe: Zum einen hätte eine Aufnahme der Entwicklungen, Methoden und Tools im Bereich des E-Learnings und des kollaborativen Arbeitens in der Lehre den zur Verfügung stehenden Zeitrahmen gesprengt. Zum anderen stehen interessierten Wissenschaftlerinnen bereits entsprechende Handbücher zur Verfügung. An dieser Stelle seien zwei Ressourcen genannt, die ebenfalls im Rahmen von Book Sprints entstanden sind: 
+* [http://booktype.okfn.org/open-education-handbook/_info/ Open Education Handbook] 
+* [http://l3t.eu/homepage/ L3T: Lehrbuch für Lehren und Lernen mit Technologien]  
+Die Autorinnen und Autoren des vorliegenden Handbuchs haben acht übergeordnete Themengebiete identifiziert, die ihrerseits eine unterschiedliche Anzahl an Unterkapiteln enthalten. Jedes dieser Unterkapitel beleuchtet bis zu zehn Aspekte eines Tätigkeitsfelds und führt hilfreiche Beispiele auf. Diese ausgewählten Aspekte erheben weder den Anspruch auf Vollständigkeit noch auf Objektivität, sondern spiegeln durchaus die jeweiligen Interessensgebiete der Autorinnen und Autoren wider. Des Weiteren fungieren die Artikel als eine Art 'Hub', da sie die Leserinnen und Leser über zahlreiche Links auf weitere Quellen und Ressourcen weiterleiten.  
+# '''[[Handbuch CoScience/Literatur recherchieren und verwalten|Literatur recherchieren und verwalten]]'''. Forschungskarrieren werden immer disziplinübergreifender, und gleichzeitig wird immer mehr publiziert. Daher wird es immer wichtiger, passende Literatur zu recherchieren, zu verwalten und mit anderen zu teilen.
+# '''[[Handbuch_CoScience/Finanzieren|Finanzieren]]'''. Ohne Finanzierung gibt es keine Forschung. Was neu ist, was sich ändert, was zu beachten ist und welche Fehler Nachwuchswissenschaftler nicht machen sollten.
+# '''[[Handbuch_CoScience/Organisieren|Organisieren]]'''. Projektorganisation ist in jedem Vorhaben wichtig. In virtuellen Teams gibt es jedoch ein paar zusätzliche Punkte, denen besondere Beachtung geschenkt werden sollte. 
+# '''[[Handbuch_CoScience/Daten sammeln und verarbeiten|Daten sammeln und verarbeiten]]'''. Wie werden in Zeiten vernetzten Arbeitens Daten erhoben und weiterverarbeitet?
+# '''[[Handbuch CoScience/Schreiben|Schreiben]]'''. Hier findet man Hinweise darüber, wie gemeinsam Texte verfasst werden können, wie dies vorzubereiten ist und was zu beachten ist, damit möglichst wenig schief geht.
+# '''[[Handbuch_CoScience/Publizieren|Publizieren]]'''. Welche Möglichkeiten zur Publikation von Forschungsergebnissen gibt es? Wie werden Forschungsdaten publiziert?
+# '''[[Handbuch_CoScience/Präsentieren|Präsentieren]]'''. Wie präsentiere ich die Ergebnisse meiner Forschung innerhalb und außerhalb der wissenschaftlichen Community?
+# '''[[Handbuch_CoScience/Kommunizieren|Kommunizieren]]'''. Das Internet hat die Wissenschaftskommunikation revolutioniert: Hier geht es um Blogs, Twitter, Soziale Netze und neue Veranstaltungsformate.
+
+== Mitschreiben erwünscht ==
+Ein zentrales Merkmal des Handbuchs ist sein offener Charakter. Die erste Version wird im HTML-Format sowie als Buch zur Verfügung stehen. Um das Handbuch zu erweitern, ist ein Mitschreiben möglich und explizit erwünscht.  Wir fordern daher alle Interessierten auf,  mit Kommentaren, Aktualisierungen oder dem Verfassen neuer Artikel zur Verbesserung des Handbuchs beizutragen. Ein Release weiterer Versionen des Handbuchs erfolgt dann, wenn substanzielle Änderungen am Inhalt vorgenommen wurden. Den Autorinnen und Autoren bleibt es vorbehalten, Kommentierungen zu ihren Artikeln nicht oder nur teilweise zu berücksichtigen.
+
+== Alle Autorinnen und Autoren des Handbuchs ==
+Die Autorinnen und Autoren sind (differenziert nach Hauptverantwortlichen und Kontributoren) jeweils zu Beginn der Texte aufgeführt.
+
+Alle Autorinnen und Autoren in alphabetischer Reihenfolge:
+:* [[Benutzer:arningu|Ursula Arning]]
+:* [[Benutzer:bargheerm|Margo Bargheer]]
+:* [[Benutzer:Inablu|Ina Blümel]]
+:* [[Benutzer:Stefan|Stefan Dietze]]
+:* [[Benutzer:Mfenner|Martin Fenner]]
+:* [[Benutzer:Sascha|Sascha Friesike]]
+:* [[Benutzer:CH|Christian Hauschke]]
+:* [[Benutzer:ChristianHeise|Christian Heise]]
+:* [[Benutzer:Lambert Heller|Lambert Heller]]
+:* [[Benutzer:hohmannt|Tina Hohmann]]
+:* [[Benutzer:Robert|Robert Jäschke]]
+:* [[Benutzer:Uk|Ulrich Kleinwechter]]
+:* [[Benutzer:leissc|Caroline Leiß]]
+:* [[Benutzer:lemkea|Dorothea Lemke]]
+:* [[Benutzer:Mk|Mareike König]]
+:* [[Benutzer:Mebema|Martin Mehlberg]]
+:* [[Benutzer:JNeumann|Janna Neumann]]
+:* [[Benutzer:Pampel|Heinz Pampel]]
+:* [[Benutzer:petersi|Isabella Peters]]
+:* [[Benutzer:schmidtb|Birgit Schmidt]]
+:* [[Benutzer:schmitzj|Jasmin Schmitz]]
+:* [[Benutzer:teicherta|Astrid Teichert]]
+:* [[Benutzer:Mtub|Marco Tullney]]

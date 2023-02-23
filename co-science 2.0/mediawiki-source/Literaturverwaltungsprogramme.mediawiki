@@ -1,0 +1,311 @@
+
+ DOI: '''10.2314/coscv2.11'''
+ Link zur Open Video Lecture "Arbeiten mit Literaturverwaltungsprogrammen":
+ http://dx.doi.org/10.5446/15180
+
+Autoren: [https://osl.tib.eu/w/Benutzer:Lemkea Dorothea Lemke], [https://osl.tib.eu/w/Benutzer:teicherta Astrid Teichert]
+[[Datei:Zyklus Phasen des wissenschaftlichen Arbeitens.png|thumb|196x196px|Phasen des wissenschaftlichen Arbeitens]]
+
+== Welche Rolle spielen Literaturverwaltungsprogramme beim wissenschaftlichen Arbeiten? ==
+Kurz gesagt: Literaturverwaltungsprogramme (im Folgenden LVP) dienen dem Sammeln und Strukturieren von Quellen sowie dem korrekten Zitieren, hier insbesondere dem Erstellen von Literaturlisten und -verzeichnissen nach vorgegebenen Richtlinien (Zitationsstilen).
+
+Neben diesen Kernfunktionen bieten viele Systeme Komponenten zur Recherche in Bibliothekskatalogen und Datenbanken, zum Sammeln, Strukturieren und Visualisieren von eigenen Gedanken, zum Annotieren in PDFs, zur Aufgabenplanung und zur Kollaboration und Vernetzung mit anderen Wissenschaftlerinnen und Wissenschaftlern.
+
+Anhand der folgenden vereinfachten Darstellung des wissenschaftlichen Arbeitens wird gezeigt, wie LVP Sie in den einzelnen Phasen und bei unterschiedlichen Aufgaben unterstützen können.<ref>Idee nach Peter Meurer und Manfred Schluchter: ''Einführung in das wissenschaftliche Arbeiten mit Citavi 4.'' <nowiki>''</nowiki>Hinweise zum Schreiben wissenschaftlicher Arbeiten mit der Software »Citavi – Literaturverwaltung und Wissensorganisation«.<nowiki>''</nowiki> Auf Basis des Duden-Buchs »Die schriftliche Arbeit – kurz gefasst« von Jürg Niederhauser., Wädenswil 2013 ([https://www.citavi.com/service/de/docs/Citavi_4_Wissenschaftliches_Arbeiten.pdf]).</ref> Bitte beachten Sie, dass sich die verschiedenen Programme in ihrem Funktionsumfang unterscheiden. Überlegen Sie sich daher genau, welche speziellen Anforderungen Sie an ein Programm stellen (siehe Kap. “Wie finde ich das richtige Literaturverwaltungsprogramm für mich?”).
+
+'''Phase 1: Themenfindung/-zuweisung'''
+
+Egal, ob Sie Ihr Thema selber aussuchen oder mit einem Forschungsthema beauftragt werden, zunächst gilt es zu sondieren, was es bereits an Literatur zum Thema gibt und wie bzw. wo man seine eigene Arbeit in dem Forschungsgebiet einordnen kann. Dazu sind erste Recherchen und ein Einlesen in das Thema nötig. Schon in dieser Phase ist es ratsam, die gefundene Literatur systematisch zu sammeln und zu strukturieren. Sobald das Forschungsthema konkret formuliert wurde, wird eine erste Gliederung erstellt und eine erste Zeitplanung aufgestellt. Eventuell müssen Forschungsanträge geschrieben, für ein Budget gesorgt und Mitforschende gesucht werden.
+
+<u>LVP in der Praxis:</u> In einem LVP können alle Quellen an einem Ort gesammelt und strukturiert werden. Zur Strukturierung der Literatur gibt es hierarchische Kategoriensysteme, die sich bestens eignen, z.B. die Gliederung der eigenen wissenschaftlichen Arbeit abzubilden. Diese können selbst definiert und flexibel angepasst werden, wenn sich die Gliederung während des Schreibens verändert. So haben Sie immer einen guten Überblick über die zu jedem Kapitel bereits gesammelte Literatur und darüber, zu welchen Themen Sie weitere Literatur benötigen. Um die Literatur inhaltlich tiefer zu erschließen, werden Schlagwörter bzw. Tags, Bewertungssysteme u.ä. angeboten. Einige Programme bieten auch die Möglichkeit, eigene Aufgaben anzulegen und zu verwalten. Dabei kann z.T. unterschieden werden zwischen Aufgaben, die sich auf eine Quelle beziehen (z.B. Lesen oder Exzerpieren eines bestimmten Werkes) und allgemeinen Aufgaben, die während des Forschungsprojektes erledigt werden müssen. Einige Programme bieten soziale Netzwerke, über die Sie sowohl interessante Literatur als auch Mitforschende mit ähnlichen Interessensgebieten für einen fachlichen Austausch finden können.
+
+'''Phase 2: Informationsbeschaffung'''
+
+In Phase 2 geht es darum, Informationen zu beschaffen. Dies kann durch systematische und umfassende Recherchen in Katalogen, Datenbanken und dem Internet realisiert werden, schließt aber auch die Erhebung von Daten durch Experimente und Umfragen ein.
+
+<u>LVP in der Praxis:</u> Viele LVP bieten die Möglichkeit, aus dem Programm heraus Recherchen in unterschiedlichen Datenbanken und Katalogen durchzuführen. Dieses Vorgehen ist nicht für jede Datenbank möglich, da gerade kommerzielle Datenbanken oft passwort- oder IP-gesichert sind und Ihnen die erforderlichen Informationen zum Teil nicht zur Verfügung stehen. Es ist auch dann nicht immer ratsam, wenn Sie über diese Informationen verfügen, da meist nur eingeschränkte Recherche- und Filtermöglichkeiten angeboten werden. Für eine schnelle Recherche nach den bibliographischen Daten eines schon bekannten Titels eignet sich diese Suche dagegen gut und ist sehr bequem. Die bibliographischen Daten der gefundenen Quellen können mit einem Klick in meistens guter Qualität in die eigene Literatursammlung übernommen werden. Darüber hinaus ist fast immer ein Import der bibliographischen Daten aus Katalogen und Datenbanken möglich. Viele LVP bieten Zusatzprogramme (Add-Ins, Plug-Ins und Co), die den Import von Quellen, darunter auch Webseiten, erleichtern. Einige Programme bieten hier die Möglichkeit, Webseiten als Screenshot oder PDF zu speichern. Die bibliographischen Angaben können Sie mit den von Ihnen auf Ihrer Festplatte gesammelten Volltexten verknüpfen oder auch Links zu Internetquellen angeben, um ein schnelles Auffinden der Texte sicherzustellen. Zum Teil können mit diesen Zusatzprogrammen nicht nur die formalen Angaben der Quelle übernommen werden, sondern auch Inhalte wie Schlagwörter, Abstracts, Literaturlisten oder Textpassagen, die man zitieren bzw. weiterverwenden möchte. Aus diesen Angaben lassen sich weitere Suchbegriffe für die Recherche gewinnen.
+
+'''Phase 3: Informationsverarbeitung'''
+
+In Phase 3 geht es ans Eingemachte. Sie lesen, exzerpieren, werten Daten und Quellen aus, Sie bewerten gelesene Literatur und fassen zusammen; so halten Sie wichtige Ergebnisse fest.
+
+<u>LVP in der Praxis:</u> Die meisten LVP bieten eine Bearbeitungsfunktion für die von Ihnen gesammelten PDF-Dokumente, in der Textpassagen markiert und kommentiert werden können. Der große Vorteil im Vergleich zur Bearbeitung von PDFs in einem herkömmlichen PDF-Reader ist, dass die Kommentare durch die Suchfunktion des LVP durchsuchbar werden. Und zwar alle auf einmal, nicht nur die des gerade geöffneten PDFs. Zudem können Sie in Ihrem LVP Quellen bewerten und zusammenfassen, den aktuellen Arbeitsstand dokumentieren, also z.B. welche Publikationen schon ausgewertet sind und welche noch darauf warten. Sie halten wichtige Textstellen als Zitate fest ebenso wie eigenen Ideen. Über das Kategoriensystem, welches die Gliederung Ihrer Arbeit widerspiegeln kann, sehen Sie schnell, für welche Kapitel oder Themen Ihnen noch Literatur fehlt. Hier wird noch einmal nachrecherchiert.
+
+'''Phase 4: Textproduktion'''
+
+Jetzt beginnt das große Schreiben. Schreiben, Quellen belegen, korrigieren, redigieren, formatieren, Verzeichnisse erstellen, Nacharbeiten aufgrund der Rückmeldungen z.B. aus einem Peer-Review-Verfahren.
+
+<u>LVP in der Praxis:</u> Für alle, die in Word oder einer alternativen Textverarbeitung (z.B. Open/Libre Office) schreiben, bietet ein LVP den Vorteil, dass man aus einer Vielzahl von vordeﬁnierten Zitationsstilen auswählen kann. Mit Hilfe eines Add-Ins können Sie meist die Zitationen entsprechend des gewählten Stils direkt in Ihre Arbeit einbinden und sich das Literaturverzeichnis automatisch erstellen lassen. Nutzen Sie BibTeX, bieten die gängigen Programme ebenfalls Unterstützung an (siehe Abschnitt Literaturverwaltung für LaTeX-User).
+
+Doch wie war noch mal die genaue Formulierung des Autors xy? Mit Hilfe der Suchfunktion des LVP finden Sie die gewünschte Quelle schnell wieder und können diese problemlos zitieren. Mit einem Klick wird die Quelle in Ihr Dokument eingefügt und das Literaturverzeichnis automatisch aktualisiert. Ebenso einfach können Sie einen Zitationsstil auswählen und wechseln, so dass Zitation im Text und Quellenbeleg im Literaturverzeichnis in gewünschter Form erscheinen. Spätestens zu diesem Zeitpunkt macht sich die gründliche Arbeit und Dokumentation während der Recherche und Auswertung bezahlt.
+
+'''Phase 5: Verbreitung/Veröffentlichung'''
+
+Ist die Publikation erst einmal fertig, soll sie auch mit der Fachwelt geteilt und diskutiert werden.
+
+<u>LVP in der Praxis:</u> LVP mit Social-Software-Funktion bieten die Möglichkeit, ein eigenes Forscherprofil anzulegen. In diesem können neben Forschungsschwerpunkten auch eigene Publikationen verzeichnet werden. Forscher/-innen, die Ihrer Tätigkeit folgen, werden über Ihre neue Veröffentlichung sofort informiert.
+
+An dieser Stelle fängt der Kreislauf an sich zu wiederholen. Forscher/-innen lesen und diskutieren Ihre Ergebnisse, werden zu neuen eigenen Studien angeregt ...
+
+'''Nutzen von Literaturverwaltungsprogrammen'''
+
+Der große Nutzen von LVP ist, dass Sie immer alle Quellen an einem Ort sammeln und diese gut (durch-)suchbar sind. Funktionsumfang und Fokus der einzelnen Programme sind jedoch unterschiedlich. So sind einige Programme eher darauf ausgerichtet, PDFs zu verwalten und zu bearbeiten (z.B. Read Cube,<ref>https://www.readcube.com/</ref> Qiqqa<ref>http://www.qiqqa.com/</ref> u.a.), während bei anderen die bibliographischen Daten und die spätere Zitierung der Quellen im Vordergrund stehen (z.B. Citavi,<ref>[[www.citavi.de]]</ref> EndNote<ref>http://endnote.com/; http://www.adeptscience.de/products/refman/endnote</ref> u. a.).
+
+'''Typologie der Literaturverwaltungsprogramme'''
+
+Grundsätzlich lassen LVP sich in drei verschiedene Kategorien unterteilen:<ref>vgl. Astrid Teichert und Thomas Stöber: <nowiki>''</nowiki>Webbasierte Literaturverwaltung – neue Kooperationsformen und Anwendungsszenarien.<nowiki>'' In: ''B.I.T.online.''</nowiki>Nr. 4 2008, S. 407f. ([http://www.b-i-t-online.de/heft/2008-04/fach3.htm]).
+</ref>
+ 
+# Geschlossene Systeme, bei denen ein einzelner Nutzer seine Daten sammelt und für die Erstellung eigener Publikationen nutzt (z.B. Citavi, Endnote).
+# Halboffene Systeme, bei denen der einzelne Nutzer die Möglichkeit hat, seine Daten in einem begrenzten von ihm kontrollierbaren Bereich mit anderen Nutzern zu teilen (z.B. RefWorks<ref>http://www.refworks.com/de/</ref>)
+# Offene (o.a. Social-Software-) Systeme, in denen es einen gemeinsamen Datenpool gibt, der von allen Nutzern gespeist wird und aus dem sich jeder Nutzer seine individuelle Sammlung bzw. Ansicht generiert (z.B. Mendeley<ref>http://www.mendeley.com/</ref>)
+Diese strengen Kategorien bieten nur eine grobe Einteilung der Programme, da sich deren Funktionen in der Praxis selbstverständlich immer weiterentwickeln und sich kombinierte Systeme herausbilden, die sowohl eine Einzelnutzung, als auch das Teilen der eigenen Daten mit anderen erlauben.<ref>vgl. Matti Stöhr: ''Kombinierte Systeme - Eine Ergänzung der Typologie von Literaturverwaltungssoftware nach Thomas Stöber und Astrid Teichert.'' ([http://www.matti-stoehr.ddrs.de/?p=292])</ref>
+
+== Literaturverwaltung für LaTeX-User ==
+Vor dem Schreiben eines längeren wissenschaftlichen Textes sollten Sie sich Gedanken über ein geeignetes Textverarbeitungsprogramm machen. Vor allem bei naturwissenschaftlichen Texten bietet sich das Textsatzsystem LaTeX in besonderer Weise an, da es sich u.a. sehr gut für das Setzen von mathematischen Formeln und Strukturen eignet. Es handelt sich um ein sehr stabiles System, das für alle gängigen Betriebssysteme bereit steht und frei verfügbar ist. Zudem haben Sie mit dem Programm BibTeX die perfekte Ergänzung, um sich Zitationen im Text und das Literaturverzeichnis in einem Zitationsstil Ihrer Wahl automatisch erzeugen zu lassen. Die in Ihrem Text zitierten Publikationen werden dabei aus einer Textdatei mit der Endung .bib herausgesucht. Diese Datei enthält zu allen Quellen die nötigen bibliographischen Angaben wie Publikationstyp, Autor, Titel etc. im speziellen BibTeX-Format. Die meisten Fachdatenbanken und Bibliothekskataloge bieten Ihnen den Export von Datensätzen im BibTeX-Format direkt an. Bitte überprüfen Sie immer, ob die Qualität der exportierten Daten Ihren Erwartungen entspricht.
+
+'''Literaturverwaltungsprogramm trotz LaTeX?'''
+
+Ist es trotzdem sinnvoll ein LVP zu verwenden, wenn LaTeX und BibTeX die automatische Formatierung von Kurzreferenzen und Literaturverzeichnis übernehmen?
+
+Selbstverständlich können Sie die BibTeX-Datei als reine Textdatei in einem einfachen Editor bearbeiten. Sie sollten aber daran denken, dass dies bei einer großen Sammlung von Literaturnachweisen mit der Zeit sehr mühsam und unübersichtlich wird. Daher empfiehlt es sich bei längeren Arbeiten in jedem Fall, ein LVP einzusetzen. Dabei können Sie aus einer Vielzahl verschiedener Angebote auswählen, die Ihnen zum Teil lediglich eine graphischen Oberfläche oder aber weitreichende Funktionen zur Verfügung stellen. Einfache Systeme sind beispielsweise BibDesk<ref>http://bibdesk.sourceforge.net/</ref> für Mac- oder KBibTeX<ref>http://home.gna.org/kbibtex/</ref> für Linux-Betriebssysteme. Diese verfügen über eine übersichtliche Darstellung der Datensätze, Sortiermöglichkeiten und automatisch erzeugte BibTeX-Keys zur eindeutigen Identifikation der Publikationen. Alle LVP bieten Ihnen die Möglichkeit, Datensätze als .bib-Datei zu exportieren. Bitte beachten Sie dabei, dass Sie nach jeder Änderung der Datensätze im LVP diesen Export wiederholen müssen. Mendeley unterstützt darüber hinaus die automatische Synchronisation der .bib-Datei. Sie sollten aber die exportierte .bib-Datei in jedem Fall kontrollieren, da es beim Erzeugen zu Fehlern kommen kann. Es bietet sich an, eine möglicherweise erforderliche Anpassung dieser .bib-Datei erst nach einem abschließenden Export der Daten vorzunehmen, da diese ansonsten bei jedem erneuten Export bzw. Synchronisieren überschrieben würde. Über die bisher beschriebenen Funktionen hinaus unterstützt das betriebssystemunabhängige, kostenfreie Programm JabRef<ref>http://jabref.sourceforge.net/</ref> das Einfügen von Publikationsnachweisen in Ihr LaTeX-Dokument direkt. Welche der zahlreichen angebotenen Funktionen von Literaturverwaltungsprogrammen Sie nutzen möchten, hängt selbstverständlich immer von Ihrem eigenen Arbeitsstil ab.
+
+== Welche Programme gibt es? ==
+
+=== Auswahl der vorgestellten Programme ===
+Da der Markt an LPVs in den letzten Jahren stark gewachsen ist und einem permanenten Wandel unterliegt, werden an dieser Stelle nur die Programme Citavi, Colwiz,<ref>https://www.colwiz.com/</ref> Docear,<ref>http://www.docear.org/</ref> EndNote, JabRef, Mendeley, RefWorks und Zotero<ref>http://www.zotero.org</ref> vorgestellt. Diese Programme wurden von den Verfassern des Softwarevergleiches Literaturverwaltung<ref>vgl. Dorothea Lemke: ''Softwarevergleich Literaturverwaltung.'' 4. Auflage. Universitätsbibliothek der Technischen Universität München, München 2014 ([https://mediatum.ub.tum.de/node?id=1127579])</ref> in der Annahme gewählt,<ref>vgl. Dorothea Lemke: ''Literaturverwaltungsprogramme im Vergleich – ein ''Werkstattbericht zur 3. Aktualisierung.'' 2013 ''([http://literaturverwaltung.wordpress.com/2013/07/23/literaturverwaltungsprogramme-im-vergleich-einblicke-hinter-den-kulissen/])</ref> dass diese auch in Zukunft angeboten und weiter entwickelt werden. Außerdem soll diese Auswahl zuverlässige Programme für Windows-, Linux- und Mac-User bieten. Zudem sollen Lösungen für verschiedene Arbeitsweisen wie das alleinige oder das kollaborative Arbeiten bzw. für die Nutzung von unterschiedlichen technischen Infrastrukturen wie einem einzelnen Rechner oder mehreren auch mobilen Endgeräten aufgezeigt werden.
+
+Neben kostenlosen und kommerziellen Programmen für unterschiedliche Betriebssysteme werden Programme vorgestellt, die speziell auf LaTeX-User ausgerichtet sind. Die folgende Liste hebt besondere Stärken und Schwächen der Programme hervor. Diese Informationen wurden dem Softwarevergleich Literaturverwaltung vom Juni 2014 entnommen, der eine detaillierte Auflistung der Programmfunktionen bietet.<ref>vgl. Dorothea Lemke: ''Softwarevergleich Literaturverwaltung.'' 4. Auflage. Universitätsbibliothek der Technischen Universität München, München 2014 ([https://mediatum.ub.tum.de/node?id=1127579])</ref>
+
+=== Kommerzielle Literaturverwaltungsprogramme (Citavi, EndNote, RefWorks) ===
+'''<u>Citavi</u>'''
+
+'''Allgemeines:'''
+* Windowsbasiert, Einzelplatz (Citavi Pro) mit Teamfunktion (Citavi Team)
+* Neben den beiden kommerziellen Versionen bietet Citavi eine kostenlose Version (Citavi Free) mit vollem Funktionsumfang aber einer Beschränkung auf max. 100 Titel pro Projekt an
+'''Stärken:'''
+* Wissensorganisation: leistungsstarkes Tool zur Organisation von Zitaten und eigenen Ideen
+* Webseiten können als PDF gespeichert werden (zur Archivierung und Dokumentation)
+* Aufgabenplanung: Tool zur Planung von projekt- und quellenbezogenen Aufgaben
+* Sehr gutes Word-Add-In
+* Sehr intuitiv bedienbar, geeignet für alle Nutzer vom Einsteiger bis zum Profi
+* Hohe Datensicherheit in Teamprojekten möglich, da die Daten in der gesicherten Infrastruktur eigener Server liegen können
+* Citavi Picker: nützliches Tool zur Speicherung von Quellen und deren Inhalten
+* Bisher einzigartig: Zitationsstil-Finder
+* Installation auf USB-Stick möglich<ref>Anleitung: Peter Bonekämper: ''Mobiles Arbeiten mit Citavi auf USB-Sticks. ''([http://www.citavi.com/service/de/docs/Citavi-Guide-USB.pdf])</ref>
+'''Schwächen:'''
+* Bisher keine Webversion (Release einer Webversion ist für 2015 geplant)
+* Für andere Betriebssysteme als Windows nur über eine virtuelle Maschine nutzbar<ref>Anleitung: Swiss Academic Software GmbH: ''Citavi 4: Handbuch.'' Installation auf dem Mac. 2014 ([https://www.citavi.com/sub/manual4/de/index.html?installing_on_a_mac.html])</ref>
+* Teamversion nur über ein gemeinsames Laufwerk nutzbar (eingeschränkter Personenkreis)
+'''<u>EndNote</u>'''
+
+'''Allgemeines:'''
+* Lizenzpflichtige Einzelplatzversion für Windows und Mac; Webversionen
+* Vollwertige Webversion: Für Kunden des Web of Science und EndNote Desktop kostenlos für 2 Jahre nutzbar
+* Kostenlose Webversion “EndNote Basic”: Funktionsumfang, Speicherplatz und Zahl zur Verfügung stehender Zitationsstile ist hier eingeschränkt
+'''Stärken:'''
+* Gutes Word-Add-In
+* Synchronisation mittels Webversion über alle Geräte hinweg
+* iPad-App
+* Referenzen und Ordner können in der Webversion geteilt und im Team bearbeitet werden
+'''Schwächen:'''
+* Nicht sehr intuitiv bedienbar
+* Datensicherheit in der Webversion nicht vom User beeinflussbar, da man Endnote-eigene Server verwendet
+* Volltexte nicht teilbar (in der nächsten Version X7.2 sollen ganze Libraries inkl. Volltexten geteilt werden können)
+'''<u>RefWorks</u>'''
+
+'''Allgemeines:'''
+* Webanwendung; als Einzel- oder Campuslizenz verfügbar
+'''Stärken:'''
+* Bewusste Konzentration auf einfache Handhabung
+* Leicht bedienbares Word-Add-In
+* Freigabe von Daten über RefShare möglich und konfigurierbar
+* Bei Campuslizenz zentraler Zugriff auf uni-eigene Zitierstile
+* RefMobile für verschiedene mobile Endgeräte
+* Integrierter RSS-Feedreader
+* RefGrab-It als Bookmarklet oder Browser Plug-In zum bequemen Sammeln von Daten auf Webseiten
+'''Schwächen:'''
+* Einbindung von Dokumenten (Bildern, PDFs) nur bei Campuslizenzen möglich; Datenvolumen pro Nutzer kann begrenzt werden
+* Datensicherheit nicht vom User beeinflussbar, da man RefWorks-eigene Server verwendet
+
+=== Kostenlose Literaturverwaltungsprogramme (Mendeley, Zotero) ===
+'''<u>Mendeley</u>'''
+
+'''Allgemeines:'''
+* Einzelplatz für Windows, Mac und Linux
+* Webversion kostenlos bis 2 GB Speicher, weiterer Speicher gegen Gebühr
+'''Stärken:'''
+* Ausgeprägte Social-Software-Funktionen
+* Zusammenarbeit in Gruppen gut möglich
+* Auswertung in Altmetrics-Diensten<ref>Tutorial zu Altmetrics: Technischen Universität München, Universitätsbibliothek: ''Altmetrics.'' Alternative Metrics. 2014 ([https://mediatum.ub.tum.de/node?id=1219507])</ref>
+'''Schwächen:'''
+* Keine Recherche in Datenbanken aus der Software heraus
+* Bibliographien können nur durch Copy&Paste der gewünschten Titel erstellt werden (kein direkter Export einer Liste im gewählten Zitationsstil möglich)
+* Umgang mit Nutzerdaten und Urheberrecht steht in der Kritik<ref>vgl. Tobias Maier: ''Mendeley gehört jetzt Elsevier. Und außer den beiden ist keiner begeistert. ''2013 ([http://scienceblogs.de/weitergen/2013/04/mendeley-gehort-jetzt-elsevier-und-auser-den-beiden-ist-keiner-begeistert/])
+</ref><ref>vgl. Beatrice Lugger: ''Mendeley in den Händen von Elsevier.'' Heidelberg 2013 ([http://www.scilogs.de/quantensprung/mendeley-in-den-h-nden-von-elsevier/])</ref> 
+* Datensicherheit bei der Webversion nicht vom User beeinflussbar, da man Mendeley-eigene Server verwendet
+'''<u>Zotero</u>'''
+
+'''Allgemeines:'''
+* Einzelplatz für Windows, Linux und Mac; Webportal zusätzlich nutzbar (begrenzter Speicherplatz frei verfügbar, Zukauf möglich)
+* Kann durch Firefox-Extension direkt im Browser integriert werden, einfache Web-Recherchen möglich
+* Besonders für Studienanfänger und Personen mit kleinen Literatursammlungen geeignet
+* Open Source
+'''Stärken:'''
+* Social-Software-Funkionalitäten über das Webportal
+* Freigabe von Dokumenten über Interessensgruppen, die im Webportal definiert werden können
+* Erstellung von eigenständigen, titelunabhängigen Notizen möglich
+* Daten können auf dem Zotero-Server oder einem eigenen Server gespeichert werden.
+* Webseiten können als Screenshots gespeichert und annotiert werden
+'''Schwächen:'''
+* Keine Recherche in Datenbanken aus Zotero heraus möglich
+'''<u>Colwiz</u>'''
+
+'''Allgemeines:'''
+* Einzelplatz für Windows, Mac und Linux
+* Webversion
+'''Stärken:'''
+* Viele Kollaborationsmöglichkeiten (Kalender, Drive zur Datenablage, Gruppen, Profile, Aufgabenverteilung)
+* App für iOS und Android
+* Integrierter PDF-Reader mit vielen Bearbeitungsfunktionen
+* Intuitiv zu bedienen
+'''Schwächen:'''
+* Referenzen lassen sich nur umständlich mehreren Ordnern zuordnen<ref>vgl. Jana Votteler: ''Colwiz – ''collective wizdom made in Oxford.'' 2014 ''([http://literaturverwaltung.wordpress.com/2014/06/28/colwiz-collective-wizdom-made-in-oxford/])</ref>
+* Nur einfache Suchfunktion innerhalb der eigenen Datenbank
+* Max. 5000 Referenzen, max. 2 GB
+* Fehleranfällig (Absturz der Software und Überlastung der Server; noch im Entwicklungsprozess)
+
+== Literaturverwaltungsprogramme speziell für LaTeX-User (JabRef, Docear) ==
+'''<u>JabRef</u>'''
+
+'''Allgemeines:'''
+* Einzelplatz für Windows, Linux und Mac
+* Kostenlos und Open Source
+'''Stärken:'''
+* Gute Zusammenarbeit mit verschiedenen LaTeX-Editoren
+* BibTeX-Datei wird automatisch aktualisiert
+* Ranking-, Relevanz- und Prioritätsangaben möglich
+'''Schwächen:'''
+* Weder read-only Freigabe, noch gemeinsame Bearbeitung möglich
+'''<u>Docear</u>'''
+
+'''Allgemeines:'''
+* Einzelplatz für Windows, Linux und Mac 
+* Kostenlos und Open Source
+* Auf Nutzer ausgerichtet, die viel mit der Annotations-Funktion für PDFs arbeiten
+'''Stärken:'''
+* Sehr gut zum Exzerpieren und Strukturieren von Literatur geeignet (u.a. per Mind-Map)
+* Gute Wordintegration
+'''Schwächen:'''
+* Relativ hohe Einarbeitungszeit
+* Funktionen der integrierten Literaturverwaltung eingeschränkt gegenüber dem originalen JabRef
+* Erfordert durch Komplexität eine gewisse Technikaffinität
+
+== Literaturverwaltungprogramme und Betriebssysteme ==
+Viele der aufgeführten Programme sind für unterschiedliche Betriebssysteme wie Windows, Mac und Linux verfügbar. Einige sind hingegen für die Verwendung mit speziellen Betriebssystemen konzipiert. Ein Beispiel hierfür ist das Windows-basierte System Citavi.
+
+'''Virtualisierung'''
+
+Um Citavi in einer alternativen technischen Infrastruktur nutzen zu können, müssen Sie einige spezielle Maßnahmen treffen. So können Sie das Programm auf einem Apple-Rechner beispielsweise mit Hilfe einer virtuellen Umgebung mittels z.B. Parallels, VMware Fusion oder Oracle Virtual Box nutzen. Auf den Internetseiten von Citavi<ref>Anleitung: Swiss Academic Software GmbH: ''Citavi 4: Handbuch.'' Installation auf dem Mac. 2014 ([https://www.citavi.com/sub/manual4/de/index.html?installing_on_a_mac.html])</ref> gibt es eine Schritt-für-Schritt-Anleitung zur Installation von Parallels, Windows und Citavi, um eine optimale Nutzung der Komponenten zu gewährleisten. Dabei sollten Sie berücksichtigen, dass es bei den Virtualisierungslösungen kostenlose und kostenpflichtige Versionen gibt. Diese Art der Virtualisierung lässt sich selbstverständlich auch für Linux nutzen, setzt aber voraus, dass Sie zusätzlich zur virtuellen Umgebung eine kostenpflichtige Windows-Distribution verwenden. Wenn Sie die Installation von Windows vermeiden wollen, so besteht die Möglichkeit, die Windows-kompatible Laufzeitumgebung Wine zu verwenden. Diese steht Ihnen kostenfrei für Mac und Linux-Betriebssysteme zur Verfügung. Dabei sollten Sie aber beachten, dass möglicherweise nicht immer die aktuellste Version des Programms unter Wine lauffähig ist. In den einschlägigen Diskussionsforen finden sich derzeit nur Anleitungen zum stabilen Betrieb von Citavi 3.4. unter Wine<ref>vgl. ''ubuntuusers – Forumsbeitrag''. 2013 ''([http://forum.ubuntuusers.de/topic/citavi-und-wine-erfolg/3/#post-6170242])</ref>. Die bisherigen Versuche der Installation der derzeit aktuellen Version 4.4. sind bisher gescheitert. Das Programm Endnote, welches in den Versionen für Mac und Windows vorliegt, kann ebenfalls über Wine auf Linux-Betriebssystemen betrieben werden.
+
+'''Nachteile'''
+
+Bei dem Einsatz des LVP in einer virtuellen Umgebung können einige Nachteile auftreten. So kann das System möglicherweise instabil laufen und vergleichsweise langsam arbeiten. Sowohl Citavi als auch Endnote bieten Ihnen für den Einsatz der Programme unter Wine keine offizielle Unterstützung an. Citavi schreibt hierzu, dass kein Anspruch bezüglich der Performanz, Stabilität oder Kompatibilität von Citavi erhoben wird, wenn das Programm unter nicht offiziell unterstützten Bedingungen betrieben wird.<ref>vgl. Antonio Tejada, [Citavi Customer Service]: ''Running Citavi under Wine''. 2010 ([http://support.citavi.com/forum/viewtopic.php?t=1251]).</ref>
+
+'''Webbasierte Tools'''
+
+Besonders unproblematisch in Bezug auf das Betriebssystem sind webbasierte Tools. Diese sind plattformunabhängig, von jedem internetfähigen Endgerät aus nutzbar und eignen sich besonders gut für eine ortsunabhängige Datenhaltung sowie den Austausch mit anderen.
+
+'''Textverarbeitung'''
+
+Bei der Installation der LVP sollten Sie beachten, dass Ihnen unterschiedliche Varianten von Plug-Ins bzw. Add-Ins zur Unterstützung der Zusammenarbeit mit Word für Windows oder für Mac und Open- bzw. Libre-Office zur Verfügung stehen. Diese bieten unterschiedlich gelungene Unterstützung beim Einfügen von Zitationen und Literaturverzeichnissen in Ihren jeweiligen Text. Die Literaturverwaltungsprogramme unterscheiden sich auch bei der Tiefe der Unterstützung bei der LaTeX/BibTeX-Nutzung (siehe Abschnitt Literaturverwaltung für LaTeX-User).
+
+== Wie finde ich das richtige Literaturverwaltungsprogramm für mich? ==
+Bei der Wahl eines LVP gilt es die eigene Arbeitssituation, die eigenen Anforderungen an den Funktionsumfang des Programmes sowie die eigenen Vorlieben im Handling des Programmes zu berücksichtigen.
+
+=== Die Arbeitssituation ===
+Schauen Sie sich Ihre eigene Arbeitsumgebung an. Viele Faktoren sind einem so selbstverständlich, dass ihre Relevanz in außergewöhnlichen Situationen in Vergessenheit gerät. Man entscheidet sich schließlich nicht jeden Tag für ein LVP. Folgende Fragen sollten Sie bei Ihrer Entscheidung berücksichtigen:
+
+'''Betriebssystem/Geräte'''
+
+Welches Betriebssystem nutzen Sie? Arbeiten Sie immer vom selben Rechner aus oder arbeiten Sie z.B. privat mit einem Mac, bei der Arbeit aber mit einem Windows-Rechner? Dann sollte Ihr Programm für beide Programme verfügbar sein und die Möglichkeit zur Synchronisation bieten. Die gleiche Frage stellt sich, wenn Sie mit Kollegen/-innen gemeinsam an einem Projekt arbeiten. Nutzen Sie neben Ihrem PC weitere Geräte, wie z.B. Tablets? Welche weiteren Geräte verwenden Sie und sind diese kompatibel? Haben Sie auf allen Geräten, mit denen Sie arbeiten, Administrationsrechte, d.h. können Sie dort selber Programme installieren? Gibt Ihnen Ihre Institution hier Vorgaben bei der Wahl von neuen Programmen?
+
+'''Programme'''
+
+Welche Programme verwenden Sie für Ihre Arbeit? Sollten diese kompatibel zu Ihrem LVP sein? Welches Textverarbeitungs- bzw. Textsatzprogramm verwenden Sie? Welchen Browser verwenden Sie? Gibt es Add-Ins, Plug-Ins oder entsprechende Austauschformate? Ist es für Sie wichtig, dass das Programm die Daten in einer BibTeX-Datei speichert, die automatisch aktuell gehalten wird?
+
+'''Lizenzen/Kosten'''
+
+Gibt es an Ihrer Institution bereits Lizenzen? Entstehen Folgekosten, wenn Sie die Institution verlassen oder mehr Speicherplatz benötigen? Gibt es bestimmte Funktionen, die nur gegen ein (zusätzliches) Entgelt zu erwerben sind? Wie viel sind Sie bereit für ein LVP zu zahlen? Sind Updates und neue Versionen inbegriffen?
+
+'''Beteiligte'''
+
+Arbeiten Sie alleine oder im Team? Welche Programme, besonders LVP, nutzen Ihre Kollegen/-innen und warum? Welche Daten sollen geteilt werden (bibliographische Daten, Volltexte, Aufgaben, Zitate und Notizen…)?
+
+Sollen alle die gleichen Rechte haben? Haben alle Zugang zum Programm und zum Speicherort der Daten? Wer pflegt die Daten? Gibt es einen Hauptverantwortlichen?
+
+'''Datensicherheit'''
+
+Wie sicher müssen Ihre Daten sein? Arbeiten Sie mit sensiblen Daten, oder können diese in der Cloud gespeichert werden? Haben Sie einen eigenen Server, auf dem Sie die Daten speichern könnten? Können alle Beteiligten auf diesen Server zugreifen?
+
+=== Der Funktionsumfang ===
+Wie arbeiten Sie? Welche Funktionen sollte ihr LVP dementsprechend haben? Welche wären nice-to-have?
+* Wo recherchieren Sie? Wollen Sie aus dem Programm direkt recherchieren können oder wären Zusatztools, die die direkte Übernahme von Daten aus Datenbanken, Katalogen und Webseiten erleichtern, hilfreicher? 
+* Wo lesen Sie Ihre Literatur? Wollen Sie Ihre elektronischen Dokumente direkt im Programm annotieren können oder haben Sie bereits eine andere Lösung? Auf welchen Geräten bearbeiten Sie Ihre Literatur? Rechner, Tablet, E-Book-Reader, ….? Welche Strukturierungsmöglichkeiten soll das Programm bieten? Sind die Strukturierungsmöglichkeiten in verschiedenen Versionen, z.B. in der Desktop-Version und der Web-Version gleich?
+* Brauchen Sie eine Zitate- und Ideenverwaltung?
+* Brauchen Sie eine Aufgabenplanung?
+* Welche Import- und Exportmöglichkeiten soll das Programm bieten?
+* Was soll die Suchfunktion im Programm können?
+* Wollen Sie über das Programm Kontakt zu anderen Forschern aufnehmen oder pflegen?
+
+=== Support ===
+Wo bekommen Sie Unterstützung, wenn Sie Hilfe im Umgang mit dem Programm benötigen?
+
+Gibt es Kurse zu diesem Programm? Gibt es Selbsthilfematerialien (Handbücher, Skripten, Videos, Foren, …)? Und gibt es diese nur auf werbendem und einführendem Niveau oder auch für fortgeschrittene Anwender? Gibt es Ansprechpartner an Ihrer Institution (z.B. EDV-Abteilung oder Bibliothek)? Bietet der Hersteller selbst ausreichenden Support?
+
+=== Benutzerfreundlichkeit/Usability ===
+Da die Programme sich im Funktionsumfang einander immer stärker annähern, ist letztendlich entscheidend, welches Programm ihnen von der Handhabung her am besten liegt. Laden Sie sich eine Testversion runter und probieren Sie es aus. Finden Sie alle Funktionen, die Sie brauchen? Ist die Darstellung übersichtlich? Können Sie das Programm Ihren Wünschen entsprechend anpassen?
+
+== Literaturverwaltungsprogramme kollaborativ nutzen - Vorteile, Risiken, Möglichkeiten ==
+
+=== Vorteile ===
+'''Referenzen jederzeit für alle verfügbar:''' Die gesammelte Literatur wird zugänglich für alle an einem zentralen Ort gespeichert statt nur auf den Rechnern der einzelnen Wissenschaftler. Es kann ortsunabhängig gearbeitet werden, was vor allem internationale Kooperationen unterstützt.
+
+'''Arbeitsersparnis/-teilung:''' Dadurch, dass alle Referenzen an einem Ort gesammelt und bearbeitet werden, haben Sie im Blick, was Ihre Kollegen schon erarbeitet haben und setzten mit Ihrer Arbeit dort an, wo diese aufgehört haben. Dies erspart Doppelarbeit und fördert den Austausch von Ideen. Zusätzlich lassen sich Aufgaben gezielt im Team verteilen.
+
+'''Neue Trends im eigenen Forschungsbereich:''' Bei Programmen, die eine Social-Network-Komponente haben und eine Auswertung nach aktuellen Forschungsthemen vornehmen, können Sie “neue Trends in der eigenen Disziplin anhand von Lese- und Publikationsverzeichnissen anderer Wissensarbeiter kennenlernen.”<ref>Uta Renken: ''Forscher ohne Grenzen – Soziale Netzwerke für Forscher.'' In: Torsten Eymann (Hrsg.). ''Tagungsband zum Doctoral Consortium der WI 2011.'' 2011, ISBN 1864-9300 (''Bayreuther Arbeitspapiere zur Wirtschaftsinformatik''), S. 146–154 ([http://opus.ub.uni-bayreuth.de/volltexte/2011/856/pdf/widc2011.pdf])
+</ref>
+
+'''Interdisziplinärer Austausch''': Durch die herrschende Transparenz werden Sie eventuell auf neue Forschungsgebiete und -gruppen aufmerksam, die Ihr eigenes Fachgebiet eventuell nur am Rande betreffen, aber zu einem fruchtbaren Austausch führen können. So werden Sie auf Themen aufmerksam, die sonst nicht in Ihrem fachlichen Fokus gelegen hätten, Ihre eigene Arbeit aber bereichern können.
+
+'''Einblick in die Nutzung Ihrer Publikationen durch andere Forscher/-innen:''' Einige Programme mit Social-Network-Funktion bieten eine Statistikfunktion, die Ihnen einen Überblick darüber gibt, wie oft Ihre eigenen Publikationen von anderen Forschern gelesen und geteilt werden.<ref name="lambo">Lambert Heller: ''Bibliographie und Sacherschließung in der Hand vernetzter Informationsbenutzer''. In: <nowiki>''</nowiki>BIBLIOTHEK Forschung und Praxis.<nowiki>''</nowiki>31, Nr. 2 2007, S. 162–172 ([http://www.degruyter.com/dg/viewarticle.fullcontentlink:pdfeventlink/$002fj$002fbfup.2007.31.issue-2$002fbfup.2007.162$002fbfup.2007.162.pdf?t:ac=j$002fbfup.2007.31.issue-2$002fbfup.2007.162$002fbfup.2007.162.xml]).
+</ref><ref>vgl. Uta Renken: ''Forscher ohne Grenzen – Soziale Netzwerke für Forscher.'' In: Torsten Eymann (Hrsg.). ''Tagungsband zum Doctoral Consortium der WI 2011.'' 2011, ISBN1864-9300 (''Bayreuther Arbeitspapiere zur Wirtschaftsinformatik''), S. 146–154 ([http://opus.ub.uni-bayreuth.de/volltexte/2011/856/pdf/widc2011.pdf])</ref>
+
+'''Rezeption eines Themas:''' Die von den Plattformusern verwendeten Tags der Quellen geben Aufschluss über das Interesse, die Rezeption und eventuell die Bewertung dieser Leser.<ref name="lambo" /> Dabei kann ein Vergleich Ihrer eigenen Einschätzung der Publikation bzw. der Forschungsthemas interessant sein.
+
+'''Empfehlung neuer Quellen:''' Einige Programme bieten eine Recommender-Funktion, die Sie auf Quellen aufmerksam macht, die andere Wissenschaftler/-innen gespeichert haben, deren Literatursammlung sich mit der Ihren überschneidet.<ref name="lambo" />
+
+'''Führenden Forschern folgen:''' Social-Network-Funktionen ermöglichen Ihnen, "Entdecker zu entdecken".<ref name="lambo"/> Sie können damit die Erkenntnisse von führenden Wissenschaftlern/-innen für sich nutzen und auf deren Ergebnissen aufbauen.
+
+=== Risiken ===
+'''Sicherheit der Daten:''' Wenn Sie Ihre Literatur online verwalten, habe Sie nur noch eingeschränkt Kontrolle über Ihre Daten und sind darauf angewiesen, dass der Serverbetreiber diese zuverlässig sichert. Zudem müssen Sie sich darauf verlassen, dass die von Ihnen eventuell vergebenen Zugriffsbeschränkungen auf Gruppenmitglieder auch eingehalten werden und Unbefugte keine Rechte an Ihren Daten erhalten. 
+
+'''Sorgfalt der Teammitglieder: '''Die Arbeit in einem Team, bei dem alle Mitglieder volle Bearbeitungsrechte haben, erfordert stets Disziplin und Sorgfalt. Dies gilt sowohl für die Eingabe eigener Daten als auch für den Umgang mit den Daten der Kollegen/-innen.
+
+'''Fehlende Strukturierung und Erschließung:''' Leicht kann es passieren, dass zwar munter gesammelt wird, sich aber keiner zuständig fühlt, diese Literatur auch zu lesen, auszuwerten und strukturiert abzulegen. Dies kann dazu führen, dass die Literatursammlung aufgrund der Fülle der Daten unübersichtlich und für die einzelnen Teammitglieder unbrauchbar wird.
+
+'''Inkonsistenz:''' Wenn im Team nicht genau festgelegt wurde, wie Literatur erschlossen, strukturiert und bewertet wird, z.B. mittels festgelegter Begriffe für Tags/Schlagwörter oder vorher definierter Kriterien für die Bewertung, kann dies schnell zu inkonsistenter Erschließung führen. Dies erschwert jedoch das Weiterarbeiten mit den Quellen.
+
+'''Administration:''' Gibt es keinen Administrator, der sich um die Pflege der Daten kümmert und prüft, ob die Regelungen zur Erschließung praktikabel sind und eingehalten werden, führt dies durch Inkonsistenzen und unkontrolliertes Datenwachstum schnell dazu, dass dieses Tool für das Team unbrauchbar wird. Gerade in Institutionen, in denen eine starke Fluktuation unter den Mitarbeitern herrscht, passiert dies besonders leicht.
+
+'''Langfristige Verfügbarkeit:''' Entscheidet man sich für ein Programm, macht man sich davon abhängig. Wichtig ist hier also, ob man auch langfristig Zugriff auf die Daten hat und, dass dieses Programm vom Anbieter auch in Zukunft noch betrieben und unterstützt wird. Sie sollten aber in jedem Fall darauf achten, dass Sie ausreichend Exportmöglichkeit für Ihre Daten haben, um diese gegebenenfalls in einer eigenen Infrastruktur zu sichern.
+
+'''Vielzahl unterschiedlicher Plattformen:''' Bei der Vielzahl der unterschiedlichen Angebote ist es schwierig, die für das eigene Fach bzw. Wissenschaftsgebiet einschlägige Plattform zu finden. Dies kann schnell dazu führen, dass man sich für viele der Webseiten einen Account einrichtet und sich am Ende nur mehr mit der Administration der eigenen Daten beschäftigt statt mit der eigentlichen wissenschaftlichen Forschung.
+
+'''Transparenz:''' Während in vielen Wissenschaftsbereichen ein Austausch von Informationen über Webplattformen wesentlicher Bestandteil der Forschungsarbeit ist, kann es Gebiete geben, bei welchen Sie Ihre Daten lieber unter Verschluss halten möchten. So kann es z.B. bei patentrechtlichen Themen sinnvoll sein, einen Rückschluss auf die Forschungsergebnisse durch die Auswertung von verwendeter Literatur zu vermeiden und erst nach eigener Publikation der Ergebnisse bzw. gewissen Sperrfristen, Informationen offenzulegen.
+
+=== Möglichkeiten/Fazit ===
+Betrachtet man nun Vor- und Nachteile von kollaborativer Literaturverwaltung wird klar, sie birgt enorme Möglichkeiten, von der Arbeit und den Erfahrungen anderer zu profitieren, sich in der Gruppe effizient zu organisieren und auch trotz räumlicher Entfernung und über Fachgrenzen hinweg gemeinsame Forschungsziele zu verfolgen. Sie birgt aber ebenso Risiken und Abhängigkeiten und erfordert von Ihnen damit mehr denn je einen kritischen und umsichtigen Umgang mit Ihren eigenen Daten.
+
+== Einzelnachweise ==
+<references />

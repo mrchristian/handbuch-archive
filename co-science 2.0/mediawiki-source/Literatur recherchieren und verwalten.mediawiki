@@ -1,0 +1,132 @@
+
+ DOI: '''10.2314/coscv2.1'''
+ Link zur Open Video Lecture "Online-Bibliographien kollaborativ erstellen und teilen":
+ http://dx.doi.org/10.5446/15140
+
+{{Autoren|[[Benutzer:Inablu|Ina Blümel]], [[Benutzer:CH|Christian Hauschke]], [[Benutzer:Robert|Robert Jäschke]]}}
+Kontributoren: [[Benutzer:mk|Mareike König]], [[Benutzer:mebema|Martin Mehlberg]]
+
+
+Ob in Forschungs- oder Publikationsprojekten: Recherche ist essenzieller Bestandteil im Prozess des wissenschaftlichen Arbeitens, und das nicht nur am Anfang eines Projektes, sondern immer wieder und zu unterschiedlichen Projektmomenten. Wer forscht, möchte wissen, was schon geforscht wurde, welche Methoden für ein Projekt anwendbar sind, welche Begrifflichkeiten verwendet werden und welche inhaltlichen, formalen und methodischen Klippen es gegebenenfalls zu umschiffen gilt. Die Verwaltung der gefundenen Quellen ist Teil der Recherche und unter anderem eine wichtige Voraussetzung für korrektes Zitieren. Beim kollaborativen Arbeiten ist das Teilen der recherchierten Information wünschenswert, um den Wissenstand zu homogenisieren und Doppelarbeit zu vermeiden. In vernetzten Projekten besteht die Besonderheit darin, die Recherche so durchzuführen, dass das Ergebnis, also die gefundenen Informationen, allen Projektmitgliedern transparent ist.
+
+Über die Grundlagen (individueller) wissenschaftlicher Informations- und insbesondere Literaturrecherche ist an anderer Stelle bereits vielfach geschrieben worden. Der folgende Text beschreibt Punkte, die für das Recherchieren, Verwalten und Teilen wissenschaftlicher Literatur und ihrer Quellen im Kontext des vernetzten Arbeitens hilfreich sind. Der Fokus liegt hier auf Literatur. Informationen zur Recherche von Forschungsdaten finden Sie im Kapitel [[Handbuch CoScience/Daten sammeln und verarbeiten|Daten sammeln und verarbeiten]].
+
+<!--
+* Fokus bei LV im Team
+* Teil von CoScience, andere Teile: ...
+-->
+
+
+== Generelles Verständnis ==
+Wissenschaftliche Erkenntnisse bauen aufeinander auf. Ideen anderer werden weiterverwendet und -entwickelt. Wichtig ist dabei die Abgrenzung eigener Gedanken und  Entwicklungen von Gedanken und Entwicklungen anderer. Das etablierte Mittel zur Lösung dieser Anforderung ist die ''Zitation – ''fremde Gedanken werden zitiert und mit einer Quelle versehen, ebenso verwendete Methoden. Dadurch haben sich Zitationen zur "Währung der Wissenschaft" entwickelt. ''Wissenschaftliches Arbeiten erfordert die Kennzeichnung von Zitaten und die vollständige Angabe aller verwendeten Quellen''. In (virtuellen) Teams besteht die Herausforderung darin, jedem Teammitglied die Wichtigkeit dieser Aufgabe zu verdeutlichen.<!-- '''TODO: "Vertrauensfrage": Muss man die Informationen der anderen nachvollziehen können oder vertraut man den anderen Teambeteiligten in Ihrer Expertise? (Grundlegende Frage oder hier behandeln?) ''' -->
+
+== Suche in digitalen Inhalten ==
+Digitale Datenrepräsentation bedeutet nicht nur eine Änderung der Art und Weise, wie Inhalte gespeichert und verfügbar gemacht werden, sie ändert auch die Verfahren, mit denen die Daten durchsucht und abgerufen werden können. Im analogen Zeitalter waren die Möglichkeiten, nach Texten mit spezifischen Inhalten zu suchen, beschränkt. Es gab Bibliothekskataloge mit ihren 'Records' (Einträge im Zettelkatalog). Auf der Suche nach einem bestimmten Text half es nicht, nur eine bestimmte Zeile zu kennen. 
+
+Durch zunehmende Verfügbarkeit originär digitaler Volltexte sowie durch umfassendes Scannen und die Anwendung von OCR-Software (OCR steht für ''Optical Character Recognition'') bei ehemals lediglich analog vorliegender (also papierbasierter) Literatur kann ein Text, aus dem man nur den 'Schnipsel' einer einzigen Zeile kennt, gefunden werden. Darüber hinaus ermöglicht die (unter 'Linked Data' subsumierte) Vernetzung von Informationsquellen im Internet neue Formen der Recherche außerhalb des reduzierten Suchraums eines Bibliothekskatalogs.
+
+== Suchstrategien ==
+Meistens kennt man weder das gesuchte Informationsobjekt noch dessen genaue Bezeichnung und oft weiß man nicht, wo es zu finden ist und wie die nötige  Suchanfrage für das sogenannte 'known-item' exakt formuliert wird. Ähnlich gestaltet es sich, wenn nicht nur ein Objekt, sondern eine größere Ergebnismenge gewünscht wird und umfassende Informationen zu einem exakt bestimmbaren Thema gesucht werden. Im Gegensatz dazu ist die explorative Suche – also eine Suche, welche die durch Links hergestellten Beziehungen zwischen den Quellen zur Navigation benutzt – eher ungerichtet, das heißt, man hat keine exakte Vorstellung von der Ergebnismenge oder man weiß zwar ungefähr, wonach man sucht, kann die Anfrage jedoch nicht exakt formulieren. 
+
+Die Art der Information, nach der man sucht, kann selten in präzise und zielführende Suchbegriffe gefasst werden. Wird die Suchanfrage als Text in natürlicher Sprache behandelt, wird gemäß einer Volltextsuche also nur nach deskriptiven Schlüsselworten gesucht, ist die Ergebnismenge (in Bibliothekskatalogen) relativ
+gering. <!-- Google erzielt hier deutlich bessere Ergebnisse. (Knowledge Graph, ..)
+
+
+Im Gegensatz dazu arbeitet die semantische Suche auf der Grundlage semantischer Entitäten. Der durchsuchbare Bestand wird entsprechend
+aufbereitet, und in der Suchanfrage werden eindeutige semantische Entitäten verwendet, sodass die erzielten Suchergebnisse eine höhere Genauigkeit und Vollständigkeit aufweisen. Darüber hinaus können assoziative Beziehungen zwischen den semantischen Entitäten genutzt werden, z.B. für die o.g. explorative Suche, für Browsing oder für Suchvorschläge.
+-->
+
+=== Bibliothekskataloge und Suchmaschinen ===
+Immer mehr wissenschaftliche Zeitschriften stellen bibliografische Daten wie Inhaltsverzeichnisse, Abstracts und Keywords frei ins Internet. Dadurch bieten 
+Suchmaschinen mit der Volltextsuche und der Möglichkeit zur explorativen Suche einen gravierenden Unterschied zur Recherche in traditionellen Bibliothekskatalogen oder in anderen bibliothekarischen Online-Portalen. Der Suchraum dieser Internet-Suchmaschinen umfasst einen großen Teil der im Internet frei verfügbaren Informationsquellen. Er ist also nicht wie in Bibliotheken auf die von der Bibliothek zur Verfügung gestellten und bibliothekarisch erfassten Medien beschränkt. Im Gegenzug sind viele gedruckte Medien in Internet-Suchmaschinen nur schlecht oder gar nicht auffindbar. Sie können Ihre Literaturrecherche auf den Webseiten oder Portalen einer Bibliothek beginnen (auch wenn dies nur noch ein Prozent der Benutzer tun<ref>Cathy De Rosa u. a.: ''[http://www.oclc.org/reports/2005perceptions.en.html Perceptions of Libraries and Information Resources]''[http://www.oclc.org/reports/2005perceptions.en.html .] OCLC Online Computer Library Center, Dublin, Ohio 2005, ISBN: 1-55653-364-0, abgerufen am 13.03.2014.</ref>) oder aber direkt in wissenschaftlichen Suchmaschinen wie [http://www.base-search.net/ BASE] oder [http://scholar.google.de/ Google Scholar] starten, insbesondere wenn Sie nur über 'Textschnipsel' als Ausgangspunkt für die Suche verfügen. Da die Ergebnisse je nach Fachdisziplin stark variieren, verwenden Sie zusätzlich Fachdatenbanken, Produkte wie [http://www.wiso-net.de/ WISO], [http://www.elsevier.com/online-tools/scopus Scopus] oder [http://thomsonreuters.com/thomson-reuters-web-of-science/ Web of Science], die zum Teil aktueller sind als Google Scholar.
+
+== Zugang beachten ==
+Ein in virtuellen Teams mitunter nicht beachteter Aspekt ist der'' – ''je nach Standort beziehungsweise IP-Adresse und eventuell vorliegenden Campuslizenzen'' – ''unterschiedliche Zugang zu den Volltexten der recherchierten Publikationen, sofern es sich nicht um [[Open Access|Open-Access]]-Publikationen handelt. 
+<!--
+''''TODO: Speichern von ''Volltexten''<nowiki> für Zugang im Team, sofern nicht unter Speichern bzw. Teilen abgehandelt'</nowiki>'''
+-->
+== Konsens über Quellen ==
+Je nach Fragestellung sind konkrete Informationsquellen mehr oder weniger geeignet, um verwertbare Ergebisse zu generieren. Obwohl Wikipedia durch die Zeitstempelfunktion<ref>Henning Behme:'' [http://www.heise.de/ix/meldung/Wikipedia-korrekt-zitieren-789044.html Wikipedia korrekt zitieren].''</ref> eigentlich gut zitiert werden kann, ist die Zitierfähigkeit von Wikipedia durchaus umstritten.<ref>http://de.wikipedia.org/wiki/Zitieren_von_Internetquellen#Tipps </ref> Gleiches gilt beispielsweise für Angaben von Meinungsforschungsinstituten, Parteien oder Webseiten von Nichtregierungsorganisationen (NGOs). Ob etwas zitierfähig ist, sollte allen Beteiligten klar sein. Klären Sie möglichst frühzeitig, welche Informationsquellen für Ihre kollaborative Arbeit 'legitim' sind. Wenn ein Teammitglied sich lange mit der Sammlung von Quellen aufhält, die die anderen nicht akzeptieren, kann wertvolle Zeit verschwendet werden.
+
+Finden Sie also einen Konsens, wie recherchiert wird und was als legitimes Informationsmittel gilt.<ref>Morten Hertzum: ''[http://akira.ruc.dk/~mhz/research/Publ/IPM2008_preprint.pdf Collaborative  Information Seeking: The Combined Activity of Information Seeking and Collaborative Grounding]''. In: ''Information Processing &  Management.'' Band 44, Nr. 2, 2008, S. 957-962.</ref><!--
+=== Aktiv recherchieren ===
+'''TODO: Aspekte
+der Literaturrecherche unter besonderer Berücksichtigung neuer Möglichkeiten im
+Netz'''
+* Kataloge/Silos, Discovery Tools oder hausgemachte wie GetInfo? Web of Science, Scopus, ..? vs. Google 
+* Performance Tests: Indexierung, Zugang zu Volltexten, Relevance Ranking, explorative Suche, ..   
+--><!--
+Unterschiedliche Kompetenzen genereller Vorteil der Arbeit in (virtuellen) Teams - nach Einigung (zu Verständnis und Konsens s.o.) 
+Der im obigen Abschnitt als Fallstrick beschriebene verteilte Zugang zu Information kann auch vorteilhaft sein, da sich evtl. Zugangsmöglichkeiten insgesamt erhöhen. schnellere Ergebnisse durch verteilte Kompetenzen und verteilter Zugang 
+-->
+== Alert-Dienste ==
+[[Datei:Screenshot_alert_google_scholar.png|200px|thumb|right|Ein Alert für die Suchanfrage ''folksonomy recommender'' in Google Scholar.]]
+
+Alert-Dienste halten Sie über ein bestimmtes wissenschaftliches Thema auf dem Laufenden und helfen Ihnen, den einmal recherchierten Forschungs- und Wissensstand aktuell zu halten. 
+
+Dies kann auch das Nachverfolgen der Zitationen eigener Publikationen sein, um im Diskurs über das eigene Werk reagieren zu können. Wenn die These, die Sie entwickelt haben, von anderen widerlegt wird, möchten Sie dies schließlich erfahren.
+
+Alerts können Sie zum Beispiel bei Diensten wie Google Scholar, Scopus oder Web of Science einrichten oder mit Hilfe eines ''Feed Readers'' abonnieren. Darüber hinaus können Ihnen die Tools rund um die sogenannten Altmetrics<ref>Jason Priem u.a.: ''[http://altmetrics.org/manifesto/ altmetrics: a manifesto].''</ref> beim Verfolgen wissenschaftlicher Diskurse behilflich sein. Unter Altmetrics versteht man Alternativen zum Impact Factor und anderen konventionell zur Impact-Messung von wissenschaftlichen Publikationen eingesetzten Metriken, zum Beispiel Erwähnungen von Publikationen in Social Networks wie Twitter.
+
+== (Social Media) Monitoring ==
+Informationen, wie mit dem Einsatz der Twitter-Timeline als 'kollaborativer Filter' gezielt fachlich relevanten Benutzern gefolgt werden kann, finden Sie [[Twitter|im entsprechenden Artikel]].
+
+== Literaturangaben speichern ==
+Spätestens wenn Sie Quellen zitieren möchten, ist die Vollständigkeit der Literaturangaben wichtig. Daher sollten Sie schon beim Speichern die Metadaten vervollständigen. Grundsätzlich benötigen Sie mindestens die Angaben, die notwendig sind, um die Quelle später wiederzufinden. Das sind bei Webseiten der Link zur Seite (die URL) sowie das Besuchsdatum, bei 'klassischen' Publikationen Angaben wie Titel, Autor und Jahr. Diese Mindestangaben ermöglichen es Ihnen prinzipiell, die Quelle später wiederzufinden. Sie können jedoch nicht sicherstellen, dass Sie später auf die Literatur zugreifen können, da ein Buch vergriffen oder eine Webseite verschwunden sein könnte.
+Für eine korrekte Zitationsangabe im Text benötigen Sie darüber hinaus je nach Publikationstyp (zum Beispiel ''Buch'', ''Artikel in einer Zeitschrift'' oder ein ''Konferenzbeitrag'') weitere Angaben. Eine Übersicht über die verschiedenen Publikationstypen und die jeweils notwendigen beziehungsweise optionalen Metadaten finden Sie in [http://en.wikipedia.org/wiki/Citation#Content der englischsprachigen Wikipedia] beziehungsweise konkret auf das Beispiel BibTeX bezogen in 
+[http://de.wikipedia.org/wiki/BibTeX#Literaturtypen_.28Entry_Types.29 der deutschsprachigen Wikipedia] <ref>http://de.wikibooks.org/wiki/LaTeX-Kompendium:_Zitieren_mit_BibTeX</ref>. Beispielsweise benötigen Sie für eine Monographie die Angaben ''Autor(en), Titel, Publikationsjahr, Verlag ''und'' ''gegebenenfalls'' Verlagsort'' sowie gegebenenfalls die ''Seitenzahl(en)'', für einen Konferenzbeitrag dagegen die Angaben ''Autor(en), Titel, Publikationsjahr, Buchtitel'' sowie ggf. ''Herausgeber'', ''Band'', ''Nummer'', ''Serie'', ''Seitenzahlen'', ''Adresse'' und ''Organisation'', ''Verlag'' (siehe Abbildungen).
+
+Bibliothekskataloge, Verlagsportale, Datenbanken und wissenschaftliche Suchmaschinen bieten häufig die Möglichkeit, die Daten der gefundenen Literaturquellen in ein Literaturverwaltungsprogramm zu exportieren oder mindestens zwischenzuspeichern und dann im Programm selbst zu importieren. Allerdings sollte man den Eintrag anschließend stets mit dem Dokument (Buch, Papierkopie, PDF) vergleichen und daraufhin überprüfen, ob er tatsächlich auch vollständig und richtig ist. Diese Daten können dann beim Zitieren weiterverwendet werden (mehr dazu finden Sie im Kapitel [[Handbuch_CoScience/Literaturverwaltungsprogramme|Literaturverwaltungsprogramme]]).
+
+<gallery>
+ Datei:Dokumententyp Buch in Zotero.png|Dokumententyp ''Buch'' in Zotero
+ Datei:Dokumententyp Zeitschrift in Zotero.png|Dokumententyp ''Zeitschriftenaufsatz'' in Zotero
+ Datei:Screenshot_bibsonomy_publication_metadata.png|Publikationsmetadaten eines ''Konferenzbeitrages'' in BibSonomy
+ Datei:Dokumententyp Zeitschriftenaufsatz in Citavi.png|Dokumententyp ''Zeitschriftenaufsatz'' in Citavi
+</gallery>
+
+
+Viele Anwendungen geben Ihnen  Hilfestellungen bei der Eingabe, indem Sie notwendige und optionale Angaben hervorheben beziehungsweise die Eingabemaske dem jeweiligen Publikationstyp anpassen. Beachten Sie schon beim Speichern die Gepflogenheiten in Ihrer Disziplin, gegebenenfalls Vorgaben des Herausgebers beziehungsweise Verlags und Anforderungen der verwendeten Anwendung, zum Beispiel zur Schreibung von Personennamen oder zur Verwendung von Abkürzungen bei Zeitschriftentiteln.
+Neben den Metaangaben kann es'' – ''insbesondere bei elektronischen Medien'' – ''sinnvoll sein, direkt eine Kopie zu speichern. Hierbei ist es wichtig, die Vorgaben des Urheberrechts zu beachten. Das bedeutet insbesondere, dass Sie urheberechtlich geschützte Medien nicht mit Kolleginnen und Kollegen teilen dürfen.
+<!-- Bei Webseiten und nicht-textuellen Medien sollten Sie ... '''TODO: Besondere Hinweise für Webseiten und nicht-textuelle Medien - bitte ergänzen, ich bin da nicht der Experte'''
+
+'''TODO: Wie lerne ich, was eine korrekte, vollständige Literaturangabe ist? -> An Beispielen erläutern wäre sicherlich hilfreich.'''
+-->
+== Strukturieren ==
+[[Datei:Screenshot_bibsonomy_tagcloud.png|200px|thumb|right|Tag-Cloud]] 
+Ziemlich bald werden Sie sich die Frage stellen, ob und wie Sie die gespeicherten Literaturreferenzen strukturieren können. Bei einer Sammlung von wenigen Referenzen kommt man sicher noch gut ohne weitere Strukturierung aus, aber je früher man damit anfängt, desto besser. Als Methoden zur Strukturierung von Wissen eignen sich beispielsweise Kategorien, Schlagwörter oder Mindmaps. 
+
+Schlagwörter (oder ''Tags'') sind frei wählbare Wörter, die Sie für jede Literaturreferenz individuell wählen können und die von sehr vielen Anwendungen unterstützt werden. Im Gegensatz zu hierarchischen Strukturen (wie zum Beispiel dem Verzeichnisbaum im Dateisystem ihres Rechners) erzwingen Sie nicht die Einordnung einer Referenz in eine Kategorie. Fügen Sie so viele Schlagwörter zur Referenz hinzu, wie Sie für sinnvoll erachten'' – ''eher mehr als weniger. Aspekte, die Sie mit Hilfe von Schlagwörtern beschreiben könnten, sind zum Beispiel der ''Inhalt'' oder die ''Art'' der Publikation, die ''Autoren'', der ''Verwendungszweck'' (wofür Sie die Publikation benötigen) sowie Angaben darüber, ''wie Ihnen die Publikation gefällt'' oder ''was Sie mit ihr noch vorhaben''.<ref>Scott Golder, Bernado A. Huberman: ''[http://arxiv.org/abs/cs.DL/0508082 The Structure of Collaborative Tagging Systems].'' 2005, CoRR cs/0508082.</ref> Später helfen Ihnen und Ihren Koautorinnen und Koautoren die Schlagwörter, Referenzen wiederzufinden, deren Inhalt schnell zu erfassen oder einen Überblick über Ihre Sammlung zu erhalten (zum Beispiel mittels einer Tag-Cloud'' – ''siehe Abbildung).
+
+== Teilen ==
+[[Datei:Screenshot_bibsonomy_optionen_sichtbarkeit.png|200px|thumb|right|Zugriffsoptionen in BibSonomy]]
+
+In virtuellen Teams ist das Teilen der gesammelten Literatur(angaben) wünschenswert beziehungsweise sogar notwendig. Dabei ist zu unterscheiden, mit wem man teilen möchte. Man kann mit den Koautorinnen und Koautoren beziehungsweise Kollaborateurinnen und Kollaborateuren teilen, um auf dem gleichen Wissenstand zu sein, Doppelarbeit zu vermeiden oder auf interessante Literatur hinzuweisen. Eine andere Art des Teilens besteht darin, seine Literatursammlung öffentlich verfügbar zu machen, und zwar entweder, um gemeinsam eine Wissensbasis zu einem Thema aufzubauen oder um seine Fachcommunity auf interessante Literatur hinzuweisen.
+Bei den webbasierten Lösungen ist das Teilen meistens Standard: Ihre Literaturreferenzen werden also für die Öffentlichkeit sichtbar gespeichert, falls Sie nicht eine andere Auswahl treffen.  
+
+Dies ist jedoch nicht in jedem Nutzungsszenario wünschenswert: Wer mit Interviews oder vertraulichen Informationen umgeht, sollte beachten, dass der Schutz der Daten bei der Speicherung im Internet sichergestellt ist. Auch wenn ein Literaturverwaltungsdienst die Möglichkeit bietet, Volltexte auf Servern zu speichern oder zu synchronisieren, ist dies bei Dokumenten mit persönlichen Informationen (Patientendaten) oder vertraulichen Unterlagen aus Unternehmen nicht empfehlenswert.
+
+== Notizen ==
+Viele Literaturverwaltungsprogramme bieten die Möglichkeit, Quellen oder Zitate mit Notizen zu versehen. Schon wenn man alleine an einem Projekt arbeitet, können Notizen oder Zusammenfassungen die Einordnung einer Quelle zu einem späteren Zeitpunkt erleichtern. In Teams ist die Annotation der Quellen auch aus der Sicht der gruppeninternen Kommunikation sinnvoll, etwa wenn angegeben wird, warum eine Publikation in die gemeinsame Literatursammlung aufgenommen wurde. Solche Notizen'' – ''zum Beispiel "Bitte in Kapitel 3 einarbeiten!" - können ein nützlicher Bestandteil der Projektkommunikation sein (mehr dazu im Kapitel [[Handbuch_CoScience/Organisieren|Organisieren]]).
+Neben ausformulierten Notizen können Titel in einigen Literaturverwaltungsprogrammen auch bewertet oder mit anderen Titeln verknüpft werden. Bei Bewertungen sollte man mit der gebotenen Sorgfalt vorgehen, da diese (insbesondere, wenn sie öffentlich sind) heikel sein können und die Gefahr von Missverständnissen besteht.
+
+[[Datei:Screenshot_bibsonomy_review.png|565px|thumb|center|Bewertung einer Publikation]]
+
+== Zitieren ==
+Im Wesentlichen gibt es zwei Arten der Zitation: die wörtliche Übernahme  von Textteilen und sinngemäße Zitate.'' ''Beim sinngemäßen Zitieren verwenden Sie die Quelle als Bestandteil beziehungsweise Grundlage Ihrer eigenen Formulierungen. Wörtliche Zitate müssen ''hervorgehoben'' (in der Regel durch Anführungsstriche), ''unverfälscht'' (also 'wörtlich') und ''unter Angabe der Quelle'' wiedergegeben werden. Sinngemäßen Zitaten'' folgt eine Quellenangabe.''
+
+
+[[Datei:Beispiel_zitation.png|500px|thumb|center|Beispiel für eine sinngemäße Zitation<ref>Michael Goossens, Frank Mittelbach und Alexander Samarin: ''Der LaTeX-Begleiter.'' Addison-Wesley, Bonn/Paris 1994.</ref>]] 
+
+Quellenangaben bestehen meistens aus einem Kürzel, welches auf einen Eintrag im Literaturverzeichnis am Ende des Dokumentes verweist. In einigen Disziplinen ist es auch üblich, die eingeklammerte Quellenangabe im sogenannten Harvard-Format direkt hinter dem Zitat aufzuführen, also zum Beispiel '(Smith 2012: 20)'. 
+
+Für die Form des Kürzels und insbesondere die Form der im Literaturverzeichnis aufgeführten Quellenangaben gibt es zahlreiche sogenannte ''Zitierstile''. Die Literaturverwaltungsprogramme [http://www.mendeley.com/ Mendeley] und [http://zotero.org Zotero] unterstützen beispielsweise über 6.750 dieser Zitierstile auf der Basis der [http://citationstyles.org/ Citation Style Language] (CSL). Der zu verwendende Zitierstil wird im Allgemeinen vom Herausgeber beziehungsweise Verleger ihrer Publikation vorgegeben. Die folgende Abbildung zeigt beispielhaft dieselbe Publikation in drei verschiedenen Stilen. 
+
+[[Datei:Beispiel_zitationsstile_chicago_ieee_pnas.png|500px|thumb|center|Dieselbe Literaturreferenz in den drei Zitierstilen ''Chicago'', ''IEEE'' und ''PNAS''.]] 
+
+Je nach dem von Ihnen verwendeten Literaturverwaltungsprogramm wählen Sie lediglich einen geeigneten Zitierstil aus. Die Formatierung des Dokumentes inklusive Literaturverzeichnis wird dann von der Anwendung durchgeführt. 
+
+Weitere Hinweise finden Sie auch in der [http://en.wikipedia.org/wiki/Citation englischen Wikipedia].<!--'''TODO: etwas zu Integration Literaturverwaltungs-Tools mit Textverarbeitung?''' -->
+
+== Einzelnachweise ==
+<references />

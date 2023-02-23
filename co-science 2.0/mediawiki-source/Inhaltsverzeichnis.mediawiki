@@ -1,0 +1,30 @@
+
+'''Version 2.0''' (Release: 30. April 2015)
+ DOI (gesamtes Handbuch): '''10.2314/coscv2'''
+
+== Inhaltsverzeichnis ==
+
+<div class="BookToc">
+* [https://test.handbuch.tib.eu/w/index.php?title=Handbuch_CoScience/Einleitung&stableid=3246 Einleitung: Der Begriff 'CoScience', Aufbau dieses Handbuch, Liste aller Autorinnen und Autoren]
+* [https://test.handbuch.tib.eu/w/index.php?title=Handbuch_CoScience/Gute_wissenschaftliche_Praxis&stableid=3394 Gute wissenschaftliche Praxis]
+* [https://test.handbuch.tib.eu/w/index.php?title=Handbuch_CoScience/Literatur_recherchieren_und_verwalten&stableid=3395 Literatur recherchieren und verwalten]
+** [https://test.handbuch.tib.eu/w/index.php?title=Handbuch_CoScience/Literaturverwaltungsprogramme&stableid=3396 Literaturverwaltungsprogramme]
+* [https://test.handbuch.tib.eu/w/index.php?title=Handbuch_CoScience/Organisieren&stableid=3397 Organisieren]
+* [https://test.handbuch.tib.eu/w/index.php?title=Handbuch_CoScience/Daten_sammeln_und_verarbeiten&stableid=3369 Daten sammeln und verarbeiten]
+* [https://test.handbuch.tib.eu/w/index.php?title=Handbuch_CoScience/Schreiben&stableid=3252 Schreiben]
+* [https://test.handbuch.tib.eu/w/index.php?title=Handbuch_CoScience/Publizieren:_ein_%C3%9Cberblick&stableid=3398 Publizieren: ein Überblick]
+** [https://test.handbuch.tib.eu/w/index.php?title=Handbuch_CoScience/Open_Access&stableid=3399 Open Access]
+** [https://test.handbuch.tib.eu/w/index.php?title=Handbuch_CoScience/Freie_Lizenzen_und_Nachnutzung&stableid=3255 Freie Lizenzen und Nachnutzung]
+** [https://test.handbuch.tib.eu/w/index.php?title=Handbuch_CoScience/Publikation_von_Forschungsdaten&stableid=3400 Publikation von Forschungsdaten]
+** [https://test.handbuch.tib.eu/w/index.php?title=Handbuch_CoScience/Peer_Review&stableid=3385 Peer Review]
+* [https://test.handbuch.tib.eu/w/index.php?title=Handbuch_CoScience/Pr%C3%A4sentieren&stableid=3258 Präsentieren]
+* Kommunizieren
+** [https://test.handbuch.tib.eu/w/index.php?title=Handbuch_CoScience/Aspekte_der_Kommunikation_mit_Wissenschaftsblogs&stableid=3259 Aspekte der Kommunikation mit Wissenschaftsblogs]
+** [https://test.handbuch.tib.eu/w/index.php?title=Handbuch_CoScience/Aspekte_der_Kommunikation_mit_Twitter&stableid=3260 Aspekte der Kommunikation mit Twitter]
+* Online-Identitätsmanagement
+** [https://test.handbuch.tib.eu/w/index.php?title=Handbuch_CoScience/Soziale_Netzwerke_f%C3%BCr_Forschende&stableid=3391 Soziale Netzwerke für Forschende: Eine Einführung]
+** [https://test.handbuch.tib.eu/w/index.php?title=Handbuch_CoScience/Akademisches_Identit%C3%A4tsmanagement&stableid=3392 Akademisches Identitätsmanagement]
+* [https://test.handbuch.tib.eu/w/index.php?title=Handbuch_CoScience/Messung_von_wissenschaftlichem_Impact&stableid=3309 Messung von wissenschaftlichem Impact]
+</div>
+
+[[Kategorie:Buch]]

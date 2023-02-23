@@ -1,0 +1,120 @@
+
+ DOI: '''10.2314/coscv2.2'''
+ Link zur Open Video Lecture "Projektmanagement in vernetzten Forschungsprojekten":
+ http://dx.doi.org/10.5446/15181
+
+{{Autoren|[[Benutzer:CH|Christian Hauschke]], [[Benutzer:ChristianHeise|Christian Heise]]}}
+Kontributoren: [[Benutzer:mk|Mareike König]]
+
+
+: "Vertrauen unter den Partnern in einer VO [Virtuellen Organisation, Anm. der Autoren] ist ein entscheidender Faktor, da weder die rigiden formalen Verpflichtungen wie in einer klassischen, hierarchischen Organisation noch freie Marktbeziehungen innerhalb der VO bestehen."<ref>Rittenbruch, Markus; Poschen, Meik; Kahler, Helge; Törpel, Bettina (2001), "Kooperationsunterstützung in einer teambasierten Virtuellen Organisation: Eine Langzeit-Fallstudie". In: Rohde, Markus; Rittenbruch, Markus; Wulf, Volker (Hrsg.), ''Auf dem Weg zur virtuellen Organisation: Fallstudien, Problembeschreibungen, Lösungskonzepte''. Heidelberg: Physica. pp.55-78. http://dx.doi.org/10.1007/978-3-642-93644-9_4, S. 59</ref>
+
+Dieser Text beschäftigt sich mit dem Organisieren in vernetzten, wissenschaftlichen Projekten. Wir möchten dazu zehn wichtige Punkte für die erfolgreiche Projektorganisation vorstellen. Neben organisatorischen Aspekten werden auch technische Einsatzszenarien erläutert und anhand von Beispielen veranschaulicht.
+
+''CoScience''-Projekte unterscheiden sich in einigen Punkten maßgeblich von 'herkömmlichen' analogen Projekten. Dabei steht das Arbeiten in virtuellen Umgebungen vor allem unter dem Verdacht weniger verbindlich zu sein als bei der lokalen Vorort-Zusammenarbeit. Dies sollte Konsequenzen für die Projektorganisation haben.
+
+== Definieren Sie klare und gemeinsame Ziele und Aufträge ==
+: „Projektziele sind die Aufstellung von möglichst quantifizierten Anforderungen, die erfüllt sein müssen, damit ein Projekt als erfolgreich abgeschlossen betrachtet werden kann.“ <ref>[https://de.wikipedia.org/w/index.php?title=Projektziel&oldid=126083148 Projektziel] auf Wikipedia. Abgerufen am 3. März 2014.</ref>
+
+Anders gesagt: Ohne eine verständliche Formulierung des Projektziels ist ein Scheitern des Projektes vorprogrammiert. Allen Mitgliedern eines Teams muss jederzeit klar sein, an welchem Punkt das Projekt steht. Die Zieldefinition ist daher elementarer Bestandteil der Projektorganisation. Die Projektziele sollten stets überprüfbar sein. Ist die Projektdefinition unklar oder interpretationsfähig, ist eine Projektbewertung nur schwer möglich. Hat man ein gemeinsames Ziel definiert, ist die Unterteilung in Teilziele oft hilfreich. Dadurch können selbst große Projekte handhabbar werden.
+
+Aus diesen Teilzielen oder 'Meilensteinen' können konkrete Aufgaben entwickelt werden. Aufgaben müssen, wie die Ziele, verständlich und überprüfbar formuliert sein. Darüber hinaus ist es hilfreich, Fristen zu setzen und Abhängigkeiten zu definieren. Wenn Aufgabe A erledigt sein muss, bevor mit der Arbeit an Aufgabe B begonnen werden kann, sollte das den Beteiligten bewusst sein.
+
+Die klare Definition der Ziele und Aufträge sollte natürlich in jedem Projekt höchste Priorität haben. Besondere Aufmerksamkeit sollten Sie dieser Aufgabe jedoch widmen, wenn Ihr Team untereinander nicht in ständigem Austausch steht und die einzelnen Projektteilnehmer (teil-)autonom arbeiten. Bei unklaren Aufträgen ist es nicht unwahrscheinlich, dass Teilaufgaben nicht oder nicht so umgesetzt werden, dass das Projekt mit den Ergebnissen weiterarbeiten kann.
+
+== Ziele evaluieren und korrigieren ==
+Geben Sie Ihren Projekten Raum zur Veränderung. Die Festlegung von Meilensteinen und Aufgaben ist wichtig, aber kein Selbstzweck. Wenn es die Gegebenheiten erfordern, kann eine Umformulierung der Ziele unumgänglich sein.
+
+Ein beharrliches Festhalten an ursprünglichen Zielen trotz veränderter Umstände ist selten sinnvoll. Von der (Open-Source-)Softwareentwicklung, in der seit vielen Jahren international und oft nur online vernetzte Kollaborateure in erstaunlicher Effizienz zusammenarbeiten, können CoScience-Projekte in dieser Hinsicht viel lernen. Zum Beispiel vom ''Agile Manifesto''<ref>http://agilemanifesto.org/</ref>, das in Reaktion auf unflexible Projektmanagementstrukturen entstanden ist. Einer von vier Forderungen aus diesem Manifesto lautet: "Responding to change over following a plan".<ref>Vgl.: Cockburn A.; Highsmith J. (2001) Agile Software Development: The People Factor. ''Computer'' : innovative technology for computer professionals, 34 (11), S. 131-133. http://dx.doi.org/10.1109/2.963450</ref>
+
+== Benennen Sie Verantwortlichkeiten, Rollen und Verantwortliche ==
+Bei vernetzten Projekten stellt die klare Aufgabenverteilung eine wesentliche Herausforderung dar. Nur wenn die Rollen und Verantwortlichkeiten aller Teilnehmer eindeutig sind, können solche Projekte erfolgreich sein. Die klare Verteilung stellt sicher, dass alle Teilnehmer ein deutliches Verständnis des Projektes haben. Da der kurze Dienstweg bei solchen Projekten oft nicht vorhanden ist, muss genauestens geklärt werden, wer in welchen Situationen Entscheidungen trifft und wer diese Entscheidungen umsetzt. Bei dem Einsatz von Projektverwaltungs- oder Kommunikationsoftware sollten Sie versuchen, diese Rollen und Verantwortlichkeiten eins zu eins abzubilden.
+
+== Kommunizieren Sie über und in Ihrem Projekt ==
+: „Verwenden Sie Projektmanagement-Software als Werkzeug - nicht als Substitut für eine effektive Planung oder zwischenmenschliche Fähigkeiten.“ <ref>Kerzner, Harold R. (2013) ''Project Management: A Systems Approach to Planning, Scheduling, and Controlling'', Wiley, 11. Aufl., ISBN: 978-1-118-02227-6</ref>
+
+In dezentralen Projekten besteht die Gefahr, dass die Beteiligten über unterschiedliche Informationen bezüglich des Projektes verfügen. Um daraus resultierende Probleme zu verhindern, sollten alle Projektfortschritte (und auch Rückschläge) dokumentiert werden. Dabei ist es wichtig, ein gemeinsames, von allen akzeptiertes Werkzeug zu finden. 
+
+Es gibt zahlreiche Tools, die diesen Prozess unterstützen. Neben komplexer Projektmanagementsoftware wie Microsoft Project gibt es zahlreiche webbasierte und auch leichtgewichtigere Alternativen. Je nach Projektumfang und den Vorlieben des Teams können dabei sogenannte ''Bugtracker''<ref>[https://de.wikipedia.org/wiki/Bugtracker Bugtracker] in Wikipedia</ref> sinnvoll sein. ''Bugtracker ''stammen ursprünglich aus der Software-Entwicklung und dienen dazu, Fehler in der Software zu melden und deren Beseitigung zu dokumentieren. Einige dieser ''Bugtracker'' sind nach und nach um Projektmanagementfunktionen wie Roadmap und Zeiterfassung erweitert worden.
+
+[http://www.mantisbt.org/ Mantis] ist ein Beispiel für einen einfach gehaltenen, webbasierten Open-Source-Bugtracker.
+
+Auch [http://www.redmine.org/ Redmine] ist eine webbasierte Open-Source-Lösung, die jedoch einen weitaus größeren Funktionsumfang bietet. Neben der Aufgabenplanung stehen unter anderem ein Wiki zur gemeinsamen Erarbeitung von Dokumenten oder ein internes Blog zur Information des Teams zur Verfügung.
+[[Datei:Redmine Navigation.png|thumb|937x937px|Werkzeuge innerhalb des Bugtrackers Redmine.]]
+
+Dass eine Software mehr Funktionen aufweist als eine andere, sollte nicht ausschlaggebend für ihre Auswahl sein. Im Gegenteil, ist doch ein simples Werkzeug in heterogenen Teams oft schneller einsetzbar. Und weniger Zeit für technische Erklärungen bedeutet auch, mehr Zeit für die Arbeit an den Inhalten des Projekts zu haben.
+
+Als 'soziales Schmiermittel'<ref>Vgl. König, René; Nentwich, Michael (2012) ''Cyberscience 2.0: Research in the Age of Digital Social Networks'', Frankfurt am Main: Campus-Verlag, S. 60.</ref> für virtuelle Teams eignet sich darüber hinaus der [[Handbuch_CoScience/Zehn_Aspekte_der_Kommunikation_mit_Twitter|Einsatz von Twitter]] sehr gut. Anders als beim Chat müssen dabei nicht alle Projektteilnehmerinnen und -teilnehmer gleichzeitig anwesend sein.
+
+== Dokumentieren Sie Fortschritte offen und transparent ==
+Eine gute externe Kommunikation der Fortschritte hat bei vernetzten Projekten mehrere Vorteile: Erstens erhöht sie die Verbindlichkeit auf die Teilnehmenden, da die einzelnen Schritte der Projektarbeit von jedem jederzeit einsehbar sind. Zweitens erhöht sie die Identifikation durch die Teilnehmenden und drittens ermöglicht sie das Einholen von externem Know-how. 
+
+Außerdem sollte die externe Kommunikation auch als Marketingmaßnahme vor der letztendlichen Fertigstellung der Publikation oder des Projekts verstanden werden. Hierfür eignen sich vor allem Blogs und Social-Media-Kanäle, da diese einfach aufzusetzen und zu verwalten sind. Die Nutzung der neuen Möglichkeiten für eine offene Wissensverbreitung neben den konventionellen Wegen der nicht-elektronischen Publikationen stellt einen weiteren Vorteil der transparenten und offenen Dokumentation des Projektfortschritts dar.
+
+Die Wahl der Instrumente für die Dokumentation sollte sich dabei am Projektrahmen orientieren. Sind Blogs ein gängiges Informationsmedium in der eigenen Fachcommunity, dann ist [[Handbuch CoScience/Zehn Aspekte der Kommunikation mit Wissenschaftsblogs|ein Projektblog ein probates Kommunikationsmittel]]. Andere Projekte fahren sehr gut mit Mailinglisten, mit Social Networks und Twitter oder auch einer Mischung aus all dem. Für die Dokumentation von virtuellen Treffen und für Protokolle eignen sich sogenannte Etherpads, die als webbasierter Editor die gleichzeitige und kollaborative Bearbeitung von Texten ermöglichen.
+
+[http://wikidata.org Wikidata] ist ein gutes Beispiel für ein Projekt, in dem verschiedene Instrumente zur transparenten Projektkommunikation verwendet werden. Wöchentlich wird der Fortschritt des Projektes über eine Mailingliste und im projekteigenen Wiki bekannt gegeben. In der Mailingliste folgt oft ein reger Austausch mit externen Interessierten über die jeweils im Projekt anstehenden Arbeitsschritte. Dies beinhaltet Lob, kann aber auch kritisch sein. Alle Projektmitglieder sollten sich über die Konsequenzen der offenen Projektkommunikation bewusst sein. Mehr Informationen zu den Risiken und Chancen der frühen und externen Projektkommunikation finden Sie im Kapitel [[Handbuch_CoScience/Kommunizieren|Kommunizieren]].
+
+== Finden Sie eine gemeinsame Sprache ==
+Bei vernetzten Projekten muss von Anfang an klar sein, dass alle Teilnehmerinnen und Teilnehmer denselben Wortschatz verwenden. Denn nicht nur die Ziele müssen unter den Teilnehmern gleich verstanden und kommuniziert werden, sondern auch Begrifflichkeiten und die Art der Kommunikation im Projektverlauf. Dazu eignen sich vor allem strukturierte Formate der Kommunikation von denen wir bereits einige vorgestellt haben. In den regelmäßigen Konferenzen sollte genau darauf geachtet werden, ob alle Teilnehmer nicht nur den gleichen Informationsstand und Projektfortschritt haben, sondern auch von den gleichen Begrifflichkeiten ausgehen. Hier muss der Grundsatz gelten: Lieber einmal mehr nachfragen, um Missverständnisse früh zu vermeiden.
+
+Vor allem in multilingualen Teams muss allen Teilnehmern klar sein, dass Wörter wie ''scope'', ''stakeholder'' und so weiter meist unterschiedliche kulturelle und begriffliche Bedeutungen haben. Das gilt auch für viele Begriffe, selbst wenn die Teilnehmerinnen und Teilnehmer die gleiche Sprache sprechen. Deshalb ist es ratsam, im Zweifelsfall mit Umfragesystemen wie [http://www.limesurvey.org/de/ LimeSurvey] oder anderen offenen Systemen Begrifflichkeiten abzufragen, um einen einheitlichen Stand zu erlangen oder Begrifflichkeiten in einem Wiki gemeinsam zu definieren. Diese Auflistung der kritischen Begrifflichkeiten eines Projekts können darüber hinaus auch für die externe Kommunikation genutzt werden.
+
+== Nutzen Sie Werkzeuge und Prozesse, die allen Beteiligten bekannt und einfach zugänglich sind ==
+Generell ist es sinnvoll, in einem Projekt nur Werkzeuge zu verwenden, die allen Beteiligten vertraut sind. Dies gilt umso mehr, wenn die Beteiligten nicht an einem Ort sind. Sitzt man zusammen in einem Raum, in einem Haus, so besteht stets die Möglichkeit, andere Mitarbeiterinnen und Mitarbeiter bei technischen oder organisatorischen Problemen zu Rate zu ziehen. Sitzt man jedoch an unterschiedlichen Standorten, vielleicht sogar in unterschiedlichen Zeitzonen, ist dies nur eingeschränkt oder gar nicht möglich.
+
+Schwierigkeiten, die dabei regelmäßig auftreten sind technische Inkompatibilitäten. Wenn ein gemeinsames Werkzeug gesucht wird, ist zum Beispiel darauf zu achten, dass es für alle zugänglich ist. Ein eigentlich fantastisches Werkzeug für das Betriebssystem Windows ist untauglich, wenn kooperierende Teammitglieder Linux oder Mac OS einsetzen. Deshalb ist der Einsatz von plattformübergreifenden Softwarelösungen für den Webbrowser im Rahmen von CoScience Projekten klar zu empfehlen.
+
+Auch gemeinsame Prozesse sollten allen vertraut sein und transparent kommuniziert werden. Weiß ein Team-Mitglied nicht, was die anderen von ihm erwarten, ist Reibung vorprogrammiert.
+
+Achtung: Selbst bei Werkzeugen, die vermeintlich allen Beteiligten bekannt sind, kann es durch individuell unterschiedliche Arbeitsweisen oder Kenntnisse zu Problemen bei der gemeinsamen Anwendung kommen. Unterschätzen Sie daher nicht die Notwendigkeit, die gemeinsamen Werkzeuge ordentlich einzuführen und den Umgang mit ihnen gegebenenfalls auch zu unterstützen.<ref>Thomas, Dominic M.; Bostrom, Robert P.; Gouge, Marianne (2007) Making knowledge work in virtual teams. ''Communications of the ACM'', 50 (11), Pages 85-90.
+http://dx.doi.org/10.1145/1297797.1297802</ref>
+
+== Fordern Sie verbindliche Regelmäßigkeiten von allen Beteiligten ein ==
+Regelmäßige Verpflichtungen zum Austausch sind für gemeinsame Forschungs- und Publikationsprojekte im Netz besonders wichtig. Nur regelmäßig stattfindender Austausch mit einem formalisierten Ablauf schafft den Grad an Verbindlichkeit, der für dezentrale Forschungs- und Publikationsprojekte bei vernetzter Zusammenarbeit von besonders hoher Bedeutung ist. Denn gerade bei kooperativer Arbeit über das Netz herrscht eingangs eine Wahrnehmung geringerer Verbindlichkeit vor.
+
+Eine Möglichkeit für einen formalisierten Ablauf stellt die Einführung eines Project Trackers und regelmäßige internetbasierte Telefon- und Audio/Video-Konferenzen dar. Diese können mit offenen Programmen wie Mumble oder geschlossenen Systemen wie Google Hangouts oder Skype veranstaltet werden. Egal welches Tool gewählt wird, ein gemeinsames Verständnis der Informations- und Beschlusslage im Rahmen des regelmäßigen Austauschs ist essentiell, da genau diese fehlende Kommunikation oftmals der Grund für das Scheitern ist. 
+
+Wer sich dazu verpflichtet, regelmäßig öffentlich über den Stand des Projektes zu berichten, schlägt somit gleich zwei Fliegen mit einer Klappe.
+
+== Archivieren Sie Projekte von Anfang an ==
+Digital gespeichertes Wissen aus vernetzten Projekten birgt immer die Gefahr, die gesammelten Daten und Informationen zu verlieren. Es sollte mit dem Beginn des Projektes darüber nachgedacht werden, wie das Thema Archivierung adressiert werden kann. Eine Dokumentation des gesamten Tuns sollte selbstverständlich sein.
+
+== Planen Sie das Scheitern ein ==
+Unser gegenwärtiges wissenschaftliches Reputations- und Karrieresystem honoriert in erster Linie Erfolge in Forschungs- und Publikationsprojekten. Das Scheitern ist dabei selten ein öffentliches Thema und wird selten kommuniziert oder publiziert. Dabei können besonders in vernetzten Projekten alle durch die Offenheit aus dem Scheitern anderer lernen.
+
+Im Rahmen von vernetzten Arbeiten ist es deshalb besonders wichtig, dass von Beginn an ein gemeinsames Szenario für das Scheitern definiert wird, da hier generell oftmals weniger Verbindlichkeit vorherrscht. Dazu sollte auch geklärt werden, dass das Scheitern von allen Teilnehmenden offen als Möglichkeit akzeptiert wird. 
+
+Da Projekte häufig an falschen Zielen scheitern, kann nur eine klare, gemeinsame Definition der Ziele, Verantwortlichkeiten und der KPIs (''Key Performance Indicators'') helfen, das Scheitern früh zu erkennen. Ein klassisches Anzeichen für ein Scheitern ist das Ignorieren und Verschweigen von Problemen innerhalb der Teilnehmergruppen – dem muss entgegengearbeitet werden, denn auch im wissenschaftlichen Rahmen verhindert der rechtzeitige Ausstieg weitere Kosten.
+
+Andere können nur dann aus dem Scheitern lernen, wenn die Möglichkeit des Scheiterns Teil der Projektplanung ist und dieses Scheitern auch kommuniziert wird. Das gilt für Publikationen und Projekte. Oftmals müssen hierfür jedoch Kommunikationsweisen und Leistungsmessungen in der Institution überprüft und überarbeitet werden.
+
+Übrigens: Immer mehr Wissenschaftlerinnen und Wissenschaftler fordern, auch negative Ergebnisse zu veröffentlichen. Inzwischen gibt es sogar Journals wie das [http://www.jnrbm.com Journal of Negative Results in BioMedicine], das ausschließlich Forschungsergebnissen aus 'gescheiterter' Forschung publiziert. Dies ist besonders wichtig für 'negative' klinische Studien mit Patienten, da ein [http://de.wikipedia.org/wiki/Publikationsbias ''Publication Bias''] entsteht, wenn selektiv nur die positiven Studien berichtet werden. Insbesondere bei größeren Projekten sollte daher auch bei einem Scheitern die Publikation der Ergebnisse immer ein Ziel bleiben.
+
+== Streben sie Projekt-Retrospektiven an ==
+Die Retrospektive im Rahmen von Projekten beschreibt den konstruktiven Rückblick auf das Geschehene. Sie ist ein wichtiger Bestandteil in agilen Projektmanagement-Methoden <ref>Kerth, N. L. (2003). Post mortem: IT-Projekte erfolgreich auswerten. mitp-Verlag.</ref>. Auch im Rahmen von wissenschaftlichen Projekten können diese Rückblicke besonders hilfreich sein, um aus der Vergangenheit zu lernen und für kommende Projekte zu besser zu planen und sollten eigentlich einen festen Bestandteil von Projekten darstellen <ref>Birk, A., Dingsøyr, T., & Stålhane, T. (2002). Postmortem: Never leave a project without it. IEEE software, 19(3), 43-45</ref>. Die an einem Projekt beteiligten Forscher und Forscherinnen können in abschließenden Treffen oder bei der Erreichung von Projektmeilensteinen gemeinsam zurückschauen und bewerten, was gut und was schlecht gelaufen ist. Wenn diese Treffen strukturiert ablaufen, können so einfach Aspekte gesammelt und Maßnahmen zur Verbesserung der Zusammenarbeit entwickelt werden. 
+
+Diese Verbesserungen können vielschichtig sein: Höhere Produktivität, weniger Fehler, bessere Entscheidungsfindung und Entwicklung von Regeln und vieles mehr <ref>Nelson, R. Ryan. "Project retrospectives: evaluating project success, failure, and everything in between." MIS Quarterly Executive 4.3 (2005): 361-372</ref>.
+
+Retrospektiven sollten in den folgenden Schritten durchgeführt werden:
+
+* Begrüßung, Vorstellung und gemeinsame Klärung der Ziele des Rückblicks
+* Beantwortung der Fragen durch alle Projektmitarbeiter:
+** Wie ist das Projekt gelaufen:
+*** Was war gut? 
+*** Was war schlecht?
+** Was kann (noch) besser laufen:
+*** Welche Dinge haben mich behindert?
+* Erfahrung gewinnen: 
+** Warum sind die Dinge wie sie sind?
+* Konkrete Maßnahmen beschließen (umsetzbare Maßnahmen nach SMART): 
+** Was wollen wir konkret in Zukunft ändern?
+* Dokumentation (alle müssen zu einem gemeinsamen Verständnis kommen)
+* Abschluss
+
+Teilnehmen sollten möglichst viele der Projektbeteiligten und die Retrospektiven sollten nach Möglichkeit von externen Kollegen moderiert werden. Setzt man diese Methode regelmäßig und konsequent ein kann sie ein optimales Mittel zur kontinuierlichen Verbesserung sein. 
+
+
+
+== Einzelnachweise ==
+<references />

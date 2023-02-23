@@ -1,0 +1,226 @@
+
+ DOI: '''10.2314/coscv2.8'''
+ Link zur Open Video Lecture "Gute wissenschaftliche Praxis": 
+ http://dx.doi.org/10.5446/15235
+
+
+Autoren: [https://osl.tib.eu/w/Benutzer:bargheerm Margo Bargheer,] [https://osl.tib.eu/w/Benutzer:schmidtb Birgit Schmidt]
+
+== Einführung ==
+Unser Wissenschaftssystem
+kombiniert Akteure und Infrastrukturen, doch in erster Linie stellt wissenschaftliches Handeln einen dialogischen, häufig medial vermittelten Kommunikationsprozess dar. Ziel dieses Prozesses ist Erkenntnisfortschritt. Damit
+dies gelingt, braucht es Verlässlichkeit der Strukturen, etwa bei der Ausstattung mit Ressourcen, vor allem aber Verlässlichkeit in der
+Kommunikation. Die Grundlage einer so gestalteten Wissenschaft müssen daher Vertrauen und Redlichkeit bilden. So betonte es auch die von der Deutschen
+Forschungsgemeinschaft (DFG) eingesetzte Kommission „Selbstkontrolle in der
+Wissenschaft“ gegen Ende der 1990er Jahre. Die Kommission und ihre Empfehlungen resultierten aus einem Skandal um die Krebsforscher Friedhelm Herrmann und Marion
+Brach, der seinerzeit nicht nur die Universität Ulm zutiefst erschütterte. Über
+ein Jahrzehnt hinweg hatten diese Forscher ihre Daten manipuliert sowie Ideen und
+Ergebnisse anderer Forschergruppen kopiert und in zahlreichen
+wissenschaftlichen Publikationen verwendet. <ref>Koenig, Robert (1997). Panel Calls Falsification in German Case 'Unprecedented'. Science 277, 15 August 1997, S. 894, http://www.albany.edu/~scifraud/data/sci_fraud_4005.html</ref> Der Fall zeigte in beklemmender
+Deutlichkeit, dass hier nicht nur persönliches Versagen zweier Menschen vorlag,
+sondern dass die eigentlich notwendige Selbstkontrolle der Wissenschaft einer
+kriminellen Energie von Akteuren nicht entgegengewirkt hatte. An die Seite der
+Ahndung wissenschaftlichen Fehlverhaltens mussten auch wirksame Maßnahmen zu
+ihrer Vermeidung treten. Solche Maßnahmen können persönlich motiviertes
+Fehlverhalten wie die unredlich gefertigten Dissertationen politischer Akteure wie zu Guttenberg oder Koch-Merin nur schwerlich verhindern. Manipulierte
+Publikationslisten in Drittmittelanträgen oder der japanische Fall von Datenmanipulation in der Stammzellforschung – unter anderem durch einen
+Hinweis auf verdächtige Bilddaten auf der Peer-Review-Plattform PubPeer  aufgedeckt<ref>Alicia Shiu: The STAP scandal: a post-pub peer review success story, Publons Blog, 27 June 2014, http://blog.publons.com/post/90031790568/the-stap-scandal-a-post-pub-review-success-story; Academic Scandal Shakes Japan, New York Times, 6 July 2014,http://www.nytimes.com/2014/07/07/world/asia/academic-scandal-shakes-japan.html</ref> – , verdeutlichen jedoch, dass die heutigen Bedingungen des
+wissenschaftlichen Arbeitens erheblichen Druck auf die Akteure ausüben. In dem
+Bestreben, in der Wissenschaftskonkurrenz zu bestehen, bedienen sich einige unredlicher Methoden, sei es aus Nachlässigkeit, Fahrlässigkeit, Absicht oder sogar Vorsatz. Dass hierbei der Übergang fließend sein kann und daher bereits unabsichtliche Fehler zu ahnden sind, betonte bereits C. P. Snow in seiner 1959 erschienenen Wissenschaftsnovelle ''The Affair'', die auf einem realen Betrugsfall aus den 1930er Jahren um den Physiker Emil Rupp beruht:
+
+''„''The only ethical principle which has made science possible is that the truth shall be told all the time. If we do not penalize the false statements made in error, we open up the way, don’t you see, for false statements by intention. And of course a false statement of fact, made deliberately, is the most serious crime a scientist can commit.''“ ''<ref>Snow, Charles Percy: The Affair, London 1960</ref>
+
+== Prinzipien guter wissenschaftlicher Praxis ==
+Redliches wissenschaftliches Verhalten wird zwar als unerlässlich für die Wissenschaft betrachtet, jedoch ist man sich der Fehlbarkeit der Akteure bewusst und benötigt daher eine klare Differenzierung zwischen 'richtig' und 'falsch', was durch das Begriffspaar 'gute wissenschaftliche Praxis' (englisch ''research integrity'' ) und 'wissenschaftliches Fehlverhalten' (englisch ''research misconduct'') ausgedrückt wird. Prinzipien guter wissenschaftlicher Praxis formulieren Standards und Handlungsleitlinien für einen verantwortungsvollen Umgang mit den Prozessen und den Beteiligten der wissenschaftlichen Arbeit. Angelehnt an den ''European Code of Conduct for Research Integrity''<ref>The European Code of Conduct on Research Integrity (lead author: Pieter Drenth)  http://www.esf.org/fileadmin/Public_documents/Publications/Code_Conduct_ResearchIntegrity.pdf, dazu auch Global Research Council (2013). Statement of Principles and Actions for Shaping the Future: Supporting the Next Generation of Researchers,http://www.globalresearchcouncil.org/statement-principles-research-integrity</ref>  listen wir hier die Prinzipien guter wissenschaftlicher Praxis auf:
+* ''Ehrlichkeit'' in der Präsentation von Forschungszielen und -ergebnissen, insbesondere unter Hinweis auf die verwendeten Methoden und Prozesse. 
+* ''Verlässlichkeit'' in der Durchführung der Forschung (sorgfältig und mit Aufmerksamkeit für Details) sowie in der Kommunikation von Ergebnissen (vollumfänglich, ohne Verzerrungen/Bias). 
+* ''Objektivität:'' Interpretationen und Schlüsse müssen auf Fakten und Daten beruhen, die einer Prüfung standhalten. Die Sammlung, Analyse und Interpretation der Daten ist transparent und nachvollziehbar hinsichtlich der wissenschaftlichen Argumentation zu gestalten. 
+* ''Unabhängigkeit ''der Forschung von beauftragenden oder interessierten Dritten, von ideologischen oder politischen Gruppierungen, von ökonomischen oder finanziellen Interessen. 
+* ''Offene Kommunikation'' über die Ergebnisse der wissenschaftlichen Arbeit gegenüber der Fachgemeinschaft und der allgemeinen Öffentlichkeit. Hierfür ist eine geeignete Speicherung und Zugänglichmachung der Daten erforderlich. 
+* ''Sorgfaltspflicht'' hinsichtlich der Teilnehmer und Gegenstände der Forschung, seien es Menschen, Tiere, die Umwelt oder kulturelle Objekte. Forschung basierend auf menschlichen oder tierischen Beteiligten sollte immer die Prinzipien von Respekt und Fürsorge beachten. 
+* ''Fairness ''in der Referenzierung von verwendeten Vorarbeiten, die Rechte und Interessen der Kollegen beachtend. 
+* ''Verantwortung für die nachwachsende Wissenschaftlergeneration: ''Die Ausbildung und Betreuung junger Wissenschaftlerinnen und Wissenschaftler ist auf Standards für die Betreuung zu gründen.<ref>Zielführend hierfür sind insbesondere Rahmenleitlinien und -vereinbarungen für die Betreuung wissenschaftlicher Promotionen. Vgl. z.B. Niedersächsische Leitlinien zur Promotion: http://www.mwk.niedersachsen.de/aktuelles/presseinformationen/gute-beratung-und-hohe-qualitaetsstandards--128883.html, Universität Bielefeld: https://www.uni-bielefeld.de/nachwuchs/pdfs/LeitlinienBetreuungUniBi2010504.pdf, Technische Universität Berlin: https://www.tudoc.tu-berlin.de/fileadmin/f22/Einrichtungsdaten/V_NW/Dokumente-Prom-dt/Rahmenleitlinien_Mai_2011.pdf</ref> 
+Um diese Prinzipien effektiv zu implementieren, empfiehlt der ''European Code of Conduct for Research Integrity''nach Handlungsfeldern geordnete Regeln für gute wissenschaftliche Praxis: 
+# '''Daten:''' alle primären und sekundären Daten sind in einer sicheren und abrufbaren Form zu dokumentieren und zu archivieren. Die Daten sollten zur Überprüfbarkeit den Kollegen zugänglich sein. Dabei ist die Freiheit der Wissenschaftler zu garantieren, zu wählen, mit wem sie zusammenarbeiten.   
+# '''Verfahren:''' jede Forschung sollte in einer Weise durchgeführt werden, die Fehler aus Nachlässigkeit, Eile und Unachtsamkeit vermeidet. Wissenschaftler sollten ihre aus Förderanträgen eingegangenen Verpflichtungen einhalten. Mit der Umwelt ist sorgfältig und ressourcenschonend umzugehen. Auftraggeber und Sponsoren sind über die rechtlichen und ethischen Verpflichtungen des Wissenschaftlers in Kenntnis zu setzen, inklusive der Wichtigkeit, Ergebnisse zu publizieren. Datenschutzbestimmungen sind einzuhalten. Förderzuwendungen sind angemessen transparent zu machen (z.B. in Publikationen und Forschungsberichten).  
+# '''Verantwortung: '''alle Subjekte der Forschung – Menschen, menschliches Material und Tiere oder Gegenstände und Artefakte – sind mit Respekt und Sorgfalt zu behandeln. Gesundheit, Sicherheit oder Wohlergehen lebender Wesen dürfen nicht unnötig gefährdet werden. Entsprechende Vorgaben für den Umgang mit diesen Forschungssubjekten sind einzuhalten. Tiere sollten in der Forschung nur eingesetzt werden, wenn alternative Methoden als inadäquat erwiesen sind und der zu erwartende Nutzen den Schaden übersteigt.
+# '''Publikationsprozess: '''Ergebnisse sind in einer offenen, transparenten sowie akkuraten Weise und so schnell wie möglich zu veröffentlichen, es sei denn dass ein berechtigter Schutz des geistigen Eigentums eine Verzögerung erfordert (z.B. Patentierung). Alle Autoren, falls nicht anderweitig gekennzeichnet, müssen voll für den Inhalt der Publikation verantwortlich zeichnen. Gast- oder Ehrenautorenschaft (guest or ghost authorship) sind nicht akzeptabel. Die Nennung und die Reihenfolge der Autoren sollte mit allen Beteiligten vereinbart werden, idealerweise zu Beginn des Publikationsprojektes. Alle Autoren müssen Interessenkonflikte benennen. Intellektuelle Beiträge weiterer Personen sollten genannt und korrekt zitiert werden. Ehrlichkeit und Richtigkeit ist in der Kommunikation mit der Öffentlichkeit und den Medien zu gewährleisten. Finanzielle und andere Förderung sollten angegeben werden.
+# '''Begutachtung:''' Editoren oder Gutachter mit potentiellen Interessenkonflikten sollten eine Mitarbeit im Publikationsprozess ablehnen oder diesen der Leserschaft mitteilen. Gutachter sollten objektiv und sachlich kommentieren und beurteilen und dabei die gebotene Vertraulichkeit im Verfahren einhalten. Gutachter sollten nicht ohne Einwilligung der Autoren Gebrauch von Erkenntnissen oder Materialien aus den ihnen begutachteten Manuskripten machen. Dieselben Regeln sind bei der Begutachtung von Förderanträgen oder Bewerbungen um Stellen, Beförderung oder anderweitige Anerkennung zu beachten. 
+Dass es beim Begutachten wissenschaftlicher Publikationen oder Anträgen Regelungsbedarf gibt, verdeutlicht zum Beispiel der „Open Science Peer Review Oath“ vom Oktober 2014<ref>The Open Science Peer Review Oath: Aleksic, Jelena et al. retrieved from ZENODO, DOI 10.5281/zenodo.12273</ref>, der angelehnt an den Eid des Hippokrates Gutachtern Hilfestellung bietet, worum es eigentlich bei der Begutachtung wissenschaftlicher Arbeit geht: nämlich gemeinsam an einem integren und verantwortungsvollen Erkenntnisprozess zu arbeiten.
+
+=== Transparenz über die Beiträger im Forschungs- und Publikationsprozess ===
+Wissenschaftliche Ergebnisse sind oftmals das Ergebnis der Zusammenarbeit vieler Beteiligter. Der Publikationsprozess erfordert, dass diese Zusammenarbeit formalisiert dargestellt wird, indem z.B. Autoren und Beiträger in bestimmter Form zu nennen sind. Zur Wahrung der guten wissenschaftlichen Praxis sollten alle am Forschungs- und Publikationsprozess Beteiligten entsprechend in ihren verschiedenen Rollen gewürdigt und korrekt genannt werden. Zahlreiche Zeitschriften offerieren inzwischen die Möglichkeit, die Autoren und andere Beiträger explizit zu kennzeichnen<ref>z.B. Angabe der Rollen der Autoren bei eLife: http://elifesciences.org/content/3/e03433/article-info</ref>. Die wesentlichen Rollen seien hier kurz vorgestellt:
+* Autor: trägt einen wesentlichen Teil zur Konzeption der Arbeit und/oder der Analyse und Interpretation der Daten bei, trägt zur Niederschrift und/oder Revision bei, bestätigt die Endfassung und zeichnet verantwortlich für wesentliche Teile des Werkes.<ref>Vgl. die strikter formulierten Kriterien des International Committee of Medical Journal Editors, http://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html</ref>
+* Datenmanager: erhebt die Daten, selektiert, säubert, dokumentiert und archiviert diese.
+* Datenanalyst: selektiert, bereinigt, analysiert und visualisiert die Daten, um daraus mittels verschiedener wissenschaftlicher Methoden Schlüsse zu ziehen.
+* Projektsponsor: sorgt für die notwendigen Ressourcen des wissenschaftlichen Vorhabens
+* Wissenschaftlicher Leiter: leitet das wissenschaftliche Vorhaben und steuert die Beiträge der Beteiligten.
+Mit dem Ziel, einen Standard zu etablieren, stellt derzeit das Projekt CRediT eine ausführliche Taxonomie von Rollen zur Diskussion. Diese umfasst insgesamt vierzehn verschiedene Rollen: Konzeptualisierung, Methodologie, Software, Validierung, formale Analyse, wissenschaftliche Untersuchung,  Bereitstellung von wissenschaftlichen Materialien und Ressourcen, Datenkuratierung, Schreiben des Entwurfs, Review und Editierung des Textes, Visualisierung, Supervision, Projektadministration und schließlich Fördermittelakquise. Mittels einer Online-Umfrage wurde diese Klassifikation bereits einem ersten Test unterzogen.<ref>http://credit.casrai.org/proposed-taxonomy/; Allen, Liz et al: Publishing: Credit where credit is due, Nature, 16 April 2014, http://www.nature.com/news/publishing-credit-where-credit-is-due-1.15033</ref>
+
+== Was versteht man unter wissenschaftlichem Fehlverhalten? ==
+Wissenschaftliches Fehlverhalten lässt sich grundsätzlich als „Verhalten von Wissenschaftlern, das unbeabsichtigt oder beabsichtigt gegen ethische oder wissenschaftliche Standards verstößt“ definieren [10, FN 3, S. 3]. Zur Verbesserung der Übersichtlichkeit haben wir die Formen des Fehlverhaltens vereinfacht und in eine Tabellenform gebracht, auch wenn die Zuordnung in der Praxis sich oft unübersichtlich und mehrschichtig darstellt. Wissenschaftliches Fehlverhalten lässt sich wie folgt klassifizieren<ref>Best Practices for Ensuring Scientific Integrity and Preventing Misconduct,http://www.oecd.org/science/sci-tech/40188303.pdf, Organization for Economic Co-operation and Development (OECD) (2007). </ref>.   
+
+=== Typologie von Fehlverhalten ===
+{|
+ 
+  |
+'''Unlauterer Umgang mit Ergebnissen'''
+* Erfundene Ergebnisse oder Daten (data fabrication)
+
+* Verfälschte Ergebnisse (data  falsification; unvollständige oder unzulässig interpretierte Daten, unlautere Datenauswertung)
+* Unredlicher Umgang mit geistigem Eigentum wie widerrechtliches Aneignen des geistigen Eigentums von Anderen (Ideendiebstahl, Fremdplagiat) oder Mehrfachveröffentlichung von eigenen Ergebnissen ohne Nennung der Primärquelle („Eigenplagiat“)
+  
+  |
+'''Unlauteres Forschungsverhalten'''
+* Unzulässige Forschungsmethoden  (Gefahr für Forschungssubjekte, Verstoß gegen Datenschutz oder Tierschutz, Gefahr  für Umwelt oder Mitakteure)
+
+* Unzulänglicher Versuchsaufbau  bzw. unzulängliches Forschungsdesign
+* Unzulängliche Verarbeitung von  Messergebnissen und Primärdaten  
+ 
+ |-
+  |
+'''Fehlverhalten  im Datenmanagement '''
+* Unzulängliches Forschungsdatenmanagement: Mangelnde bzw. mangelhafte Archivierung und Dokumentation von  Primärdaten, materiellen Daten, Proben, Artefakten und Laborbüchern
+
+* Zurückhalten von Daten gegenüber  der wissenschaftlichen Community oder Öffentlichkeit wider besseres Wissen 
+
+* Widerrechtliches Verweigern von  Daten 
+  |
+
+'''Fehlverhalten im Publikationsprozess'''
+* Autorschaft ohne ausreichenden  Beitrag zur Publikation, „Ehrenautor“
+
+* Verweigern berechtigter  Autorenschaft
+
+* Unangemessene Autorenreihung
+
+* Unangemessene Partitionierung  von Ergebnissen „Salamitaktik“
+
+* Unkorrekte (unvollständige oder  gefälschte) Publikationslisten
+
+* Versäumnis, Interessenskonflikt  zu publizieren
+ 
+ |-
+  |
+'''Soziales Fehlverhalten'''
+* Sabotage oder Behinderung der  Arbeit Anderer
+
+* Behinderung der  wissenschaftlichen Arbeit Anderer durch Missbrauch von Herausgeberschaft / Gutachtertätigkeit  
+
+* Zustimmungsverweigerung wider  Treu und Glauben
+
+* Missbrauch von  Abhängigkeitsverhältnissen
+
+* Unzulängliche Betreuung des  wissenschaftlichen Nachwuchses 
+
+* Soziale Übergriffe und  Diskriminierung
+  |
+''' '''
+* Vertrauensbruch oder Unterlassen  des Einholens von Einverständnis­erklärungen
+
+* Decken des wissenschaftlichen  Fehlverhaltens Anderer aus persönlichen Gründen oder Vorteilsnahme
+
+* Unredlicher Umgang mit  „Whistleblowern“
+
+* Absichtliches oder fahrlässiges  Anschuldigen Anderer wegen wissenschaftlichen Fehlverhaltens
+ 
+ |-
+  |
+'''Administratives Fehlverhalten'''
+* Verstoß gegen  Verwendungsrichtlinien
+
+* Erschleichen von Drittmitteln
+  |
+''' '''
+* Verschwendung von Drittmitteln  oder Grundausstattung aus Fahrlässigkeit oder persönlicher Gier
+ 
+|}  
+
+Ein Teil des beschriebenen wissenschaftlichen Fehlverhaltens stellt einen Gesetzesbruch dar, etwa Betrug, Verstoß gegen den gesetzlich geregelten Datenschutz oder Verleumdung, was die eindeutige Beurteilung des Fehlverhaltens und dessen Ahndung erleichtert. Anders als in der gesetzlich geregelten Rechtsordnung gilt beim Verdacht auf wissenschaftliches Fehlverhalten jedoch nicht die Unschuldsvermutung und damit vorrangige Beweispflicht der Anklage. Vielmehr gilt, dass die wissenschaftlichen Akteure aktiv mitwirken müssen, um einen Verdacht auszuräumen. Diese Umkehrung der Beweislast wird aus der Selbstverpflichtung zur Einhaltung der Guten wissenschaftlichen Praxis hergeleitet, die für alle Wissenschaftlerinnen und Wissenschaftler an Forschungseinrichtungen und Hochschulen bindend ist, etwa durch formalisierte Verfahren im Rahmen der Arbeitsaufnahme oder durch verbindliche Ordnungen und Satzungen. Diese Regeln werden als so verbindlich angesehen, dass auch ein unwissentlicher Verstoß gegen die Gute wissenschaftliche Praxis geahndet werden kann. Damit wird der hohen Bedeutung von Vertrauen und Redlichkeit Rechnung getragen, welche diese für die Wissenschaft haben. Das Gros der wissenschaftlichen Fehlverhaltensfälle wird wohl unauffällig unter den Beteiligten geklärt, auch wenn zu befürchten ist, dass bereits dies nur diejenigen Fälle sind, in denen ein Fehlverhalten überhaupt auffällt oder geäußert wird. Umfragen <ref>Z.B. Titus, Sandra L.; Wells, James A.; Rhoades, Lawrence J. (2008): Repairing research integrity, nature Vol 453, No. 19, June 2008,http://www.ori.dhhs.gov/sites/default/files/gallup_commentary.pdf 
+Fanelli D (2009) How Many Scientists Fabricate and Falsify Research? A Systematic Review and Meta-Analysis of Survey Data. PLoS ONE 4(5): e5738. doi:10.1371/journal.pone.0005738 
+Okonta and Rossouw BMC Medical Ethics 2014, 15:25 http://www.biomedcentral.com/1472-6939/15/25, doi:10.1186/1472-6939-15-25</ref> und Erfahrungen aus unseren eigenen Lehrveranstaltungen zeigen nämlich, dass wissenschaftliches Fehlverhalten in einem Klima der Angst und Abhängigkeit ausgezeichneten Nährboden findet und dementsprechend oft gedeckt bleibt, weil die Opfer oder Zeugen des Fehlverhaltens sich als machtlos empfinden oder es de facto sind. Dieser traurigen Tatsache trägt das System der Ombudsleute (Ombudsman, Ombudsfrau) Rechnung. Der Begriff stammt aus dem Schwedischen und bezeichnet von einer Institution eingesetzte Vertrauenspersonen, welche im Wissenschaftssystem auf Augenhöhe und unter dem Siegel der Verschwiegenheit zunächst beraten und Lösungswege aufzeigen sollen, wenn ihnen ein Verdacht von wissenschaftlichem Fehlverhalten zur Kenntnis gebracht wird. Ombudsleute sollen nicht an der Klärung und Ahndung beteiligt sein, sondern im Einverständnis mit den Anzeigenden den Fall an Untersuchungskommissionen übergeben, auch wenn in der Realität hier nicht immer sauber getrennt wird. Eskaliert ein Fall, weil er sich im Laufe der Untersuchung bestätigt oder im Zusammenhang mit einer Publikation bereits öffentlich geworden ist, greifen in der Regel festgelegte Selbstkontrollmechanismen der wissenschaftlichen Einrichtungen. Ist ein Fehlverhalten belegt, führt dies in der Regel zu Konsequenzen an der Einrichtung. „So … werden im Rahmen der rechtlichen Möglichkeiten die im Einzelfall erforderlichen dienst-, arbeits-, hochschul-, zivil- oder strafrechtlichen Maßnahmen durch die Präsidentin oder den Präsidenten veranlasst“, regelt es die Göttinger Ordnung <ref>Ordnung der Georg-August-Universität Göttingen zur Sicherung guter wissenschaftlicher Praxis (gültig ab 21.12.2012), https://www.uni-goettingen.de/de/gute-wissenschaftliche-praxis--ombudsangelegenheiten-/223832.html</ref>. Auch die Deutsche Forschungsgemeinschaft hat klare Verfahrensregeln. Je nach Art und Schwere des festgestellten Fehlverhaltens kann der Hauptausschuss schriftliche Rügen bis hin zu mehrjährigen Antragssperren verhängen, aber auch die Rücknahme von Förderentscheidungen sowie den Ausschluss in DFG-Gremien beschließen. Unabhängig davon kann es auch zu weiteren zivilrechtlichen Forderungen oder strafrechtlichen Konsequenzen kommen. 
+
+== Gründe des Fehlverhaltens und mögliche Abhilfe ==
+Für wissenschaftliches Fehlverhalten lassen sich zahlreiche dem Wissenschaftsbetrieb immanente Gründe aufzählen, wie problematische Abhängigkeitsverhältnisse und hoher Konkurrenzdruck vor allem zu Beginn von wissenschaftlichen Laufbahnen, ausgeprägter Publikationsdruck bei der Fortsetzung einer Karriere („publish or perish“), der hohe Druck laufend Drittmittel einzuwerben, sowie die immer stärker geforderte Inszenierung und Vermarktung wissenschaftlicher Ergebnisse. Entsprechende Maßnahmen im Sinne einer „Entschleunigungsstrategie“ können zur Abhilfe beitragen: die Eindämmung der Publikationsflut, eine dauerhafte und verlässliche Grundfinanzierung der Wissenschaft, eine stärkere Gewichtung der qualitativen (statt quantitativ-bibliometrischen wie Impact Factor) Beurteilung der wissenschaftlichen Leistungen <ref>Press Release No. 8 | 28. March 2014 "DFG Modifies Rules for Publication Lists" http://www.dfg.de/en/service/press/press_releases/2014/press_release_no_08/index.html</ref>, eine Ächtung von strategischer Autorenschaft, die Eindämmung von fremdverfassten Drittmittelanträgen, eine transparente und sorgfältige Darstellung der Datenerhebung sowie die Vermeidung von kurzen Zeitverträgen.<ref>Vgl. z.B. Wie die Wissenschaft Integrität und Qualität sichern kann, Thesenpapier der Gäste des 4. Berliner Wissenschaftsgesprächs der Robert Bosch Stiftung, November 2009,http://www.bosch-stiftung.de/content/language1/downloads/Thesenpapier_BWG_4.pdf</ref> Die folgende Tabelle bezieht sich weniger auf kriminelle Energien oder persönliche Geltungssucht von wissenschaftlichen Akteuren, sondern versucht vielmehr, systemimmanente Gründe zu identifizieren, denen neben Durchsetzung von Regeln und der Selbstkontrolle langfristig nur über eine Änderung der Rahmenbedingungen beizukommen ist. 
+
+=== Mögliche Gründe und Rahmenbedingungen von wissenschaftlichem Fehlverhalten ===
+{|
+ 
+  |
+'''Unlauterer Umgang mit Ergebnissen'''
+* Mangelnde Anerkennung von negativen oder widersprüchlichen Ergebnissen, „positive bias“ bei Verlagen und Institutionen
+* Problematische Anreiz- und Evaluierungssysteme (z.B. Impact Factor)
+* Ausbildungsmängel und problematische Praktiken in der Forschungsumgebung
+* Hektik und Kontrollmangel
+  
+  |
+'''Administratives Fehlverhalten'''
+* Unzulängliche Standards und Normen am Arbeitsplatz, mangelndes Controlling 
+* Fehlende Infrastruktur zum Projekt- und Forschungsdatenmanagement
+* Ausbildungsmängel 
+* Fehlende Konzepte zu kollaborativem Arbeiten und Nachnutzung von Ergebnissen
+ 
+ |-
+  |
+'''Fehlverhalten im Publikationsprozess'''
+* Problematische Abhängigkeitsverhältnisse
+
+* Hoher Konkurrenzdruck
+
+* Mangelnde Regelungen auf der Verlagsseite 
+
+* Problematische Anreiz- und Evaluierungssystem (z.B. Impact Factor)
+
+* Unzulängliche und intransparente Forschungsinformationsstrukturen 
+  
+  |
+
+'''Soziales Fehlverhalten'''
+* Problematische Anreiz- und Evaluierungssysteme
+* Problematische Arbeitsbedingungen (Ressourcenmangel, Konkurrenzdruck) 
+* Intransparente Verfahren von Mittelvergaben, Begutachtung und Evaluierung (Kartellbildungen, Oligopole)
+* Mangelhafte Strukturen zur Betreuung des wissenschaftlichen Nachwuchses 
+* Mangelndes Problembewusstsein und Klima der Ignoranz („unser Stall ist sauber“)
+|}
+'''''
+
+== Was erwarten die Forschungsförderer? ==
+[[Datei:DFG_-_Verfahren_wiss_Fehlverhalten.jpeg|thumb|500x500px|Abbildung: DFG - Verfahren bei Verdacht auf wissenschaftliches Fehlverhalten]]
+Die DFG setzte sich Ende der 1990er Jahren im genannten Fall Hermann/Brach mit einem besonders schwerwiegenden wissenschaftlichen Fehlverhalten auseinander und löste diese Vertrauenskrise in der für sie als Selbstverwaltungsorgan der Wissenschaft typischen Weise: eine internationale Kommission erarbeitete Empfehlungen – in der Form von Verhaltensregeln für den „Normalbetrieb“ von Wissenschaft und Verfahrensregeln für die Aufdeckung und Ahndung von abträglichen Verhaltensweisen. Diese Regeln der „Selbstkontrolle der Wissenschaft“ sollen hier nicht ausgeführt werden [siehe 17], sie umfassen interpersonelle Komponenten (Betreuung des wissenschaftlichen Nachwuchses etc.), den Umgang mit wissenschaftlichen Ergebnissen und Produkten (Publikationen, Daten), der Begutachtung (Peer Review) sowie ein System der vertrauensvollen und vertraulichen Regelung von Konfliktfällen (Ombudspersonen).  
+
+Im Juli 2013 veröffentlichte die DFG einige Ergänzungen der DFG-Empfehlungen von 1998. Insbesondere wurde eine neue Empfehlung zu Hinweisgebern (Whistleblower) aufgenommen: äußern Wissenschaftler einen Verdacht auf wissenschaftliches Fehlverhalten, so dürfen ihnen daraus keine Nachteile für ihr wissenschaftliches oder berufliches Fortkommen entstehen. Zum Schutz der Hinweisgeber und der Betroffenen unterliegt die Arbeit der Ombudspersonen höchster Vertraulichkeit. Die DFG besteht dabei darauf, dass Hinweisgeber sich mit ihrem Verdacht nicht zuerst an die Öffentlichkeit wenden und bezeichnet diesen Vorgriff selbst als eine Verletzung der Prinzipien guter wissenschaftlicher Praxis. Gerade dieser Aspekt wird  kontrovers diskutiert, weil er der Arbeit von Enthüllungsplattformen wie VroniPlag die Grundlage entziehen könnte.<ref>Hochschulinformationssystem eG
+Pressemitteilung 12.7.2013: "Neue DFG-Empfehlungen zum Whistleblowing werden kontrovers diskutiert"; http://www.his.de/presse/get_pressedata/1248/get_pressedata_show</ref> Auch andere Empfehlungen wurden überarbeitet, etwa hinsichtlich der Aufbewahrung von Primärdaten (u.a. Regelung von Nutzungsrechten, Aufbewahrungsdauer und Dokumentation), der Betreuung des wissenschaftlichen Nachwuchses und der Autorenschaft (deutliche Abgrenzung von Autoren und Beiträgern).
+
+== Wie gehen wissenschaftliche Einrichtungen vor? ==
+Die deutschen Hochschulen und außeruniversitären Forschungsorganisationen haben alle den DFG-und HRK-Empfehlungen entsprechende Richtlinien und ein System von Ombudspersonen bzw. Gremien installiert.<ref>Empfehlung der 14.
+HRK-Mitgliederversammlung vom 14.5.2013, online verfügbar unter http://www.hrk.de/uploads/tx_szconvention/Empfehlung_GutewissenschaftlichePraxis_14052013_02.pdf</ref><ref>Deutsche Forschungsgemeinschaft (DFG). Gute wissenschaftliche
+Praxis, http://www.dfg.de/foerderung/grundlagen_rahmenbedingungen/gwp/ 
+Max Planck Gesellschaft: https://www.mpg.de/199453/ombubspersonRichtlinien.pdf,
+Helmholtz Gemeinschaft: http://www.helmholtz.de/forschung/gute_wissenschaftliche_praxis/,
+Fraunhofer-Gesellschaft: http://www.fraunhofer.de/de/ueber-fraunhofer/mission-leitbild/forschung.html,
+Leibniz-Gemeinschaft: http://www.leibniz-gemeinschaft.de/forschung/gute-wissenschaftliche-praxis/</ref> Die HRK empfiehlt ihren Mitgliedern zur Prävention und Mediation ein aus mindestens drei Personen bestehendes Ombudsgremium, an das sich Hochschulangehörige in Fragen guter wissenschaftlicher Praxis und vermutetem Fehlverhaltens wenden können. Es wird dabei als Aufgabe der jeweiligen Hochschule angesehen, „dass die Ombudspersonen in ihre Arbeit bestmöglich eingeführt werden und dass sie in der Einrichtung bekannt sind.“ Wie Kommissionen zusammengesetzt sind und Verfahren organisiert werden, liegt im Ermessen der Hochschulen. Wenn aber Verfahren wegen wissenschaftlichen Verhaltens notwendig werden, sollen sie „im Interesse aller Beteiligten mit hoher Stringenz und in zeitlich überschaubaren Rahmen durchgeführt werden“.<ref>Empfehlung der 14. HRK-Mitgliederversammlung vom 14.5.2013, online verfügbar unter http://www.hrk.de/uploads/tx_szconvention/Empfehlung_GutewissenschaftlichePraxis_14052013_02.pdf</ref> Die Ombudspersonen/-gremien in den Institutionen finden zudem in dem Ombudsmann für die Wissenschaft<ref>http://www.ombudsman-fuer-die-wissenschaft.de/
+</ref> und dem europäischen Netzwerk von Research Integrity Offices enrio.eu Unterstützung und Gelegenheit zum Austausch.
+
+== Welche Rolle spielen Verlage? ==
+Verlage spielen eine zentrale Rolle bei der Qualitätssicherung von Publikationen, indem sie eingereichte Beiträge auf ihre grundsätzliche Eignung prüfen, den Begutachtungsprozess organisieren und zusammen mit den Herausgebern neue Standards etablieren wie z.B. die Veröffentlichung und Begutachtung der zugrunde liegenden Daten. Gleichzeitig haben Verlage in den hochrangigen Journals, in denen eine Publikation für Autoren besonders karriereförderlich ist, eine ausgeprägte Tendenz zur Veröffentlichung von aufsehenerregenden oder sogar bahnbrechenden Ergebnissen und damit einen katalytisch wirkenden "positive bias". Kommt es nun zu einem wissenschaftlichen Fehlverhalten im Zusammenhang einer Publikation, ist damit auch die Qualität der Arbeit des jeweiligen Verlags in Frage gestellt, was einen Reputationsverlust nach sich ziehen kann. Zahlreiche Zeitschriften und Verlage sind deshalb Mitglied des Committees on Publication Ethics (COPE)<ref>http://publicationethics.org</ref>, das Leitlinien für den Umgang mit Autoren, Gutachtern, Editorial Boards und allen Qualitätssicherungsverfahren veröffentlicht hat. Regelmäßig ergibt sich im Publikationsprozess die Notwendigkeit, nach der Veröffentlichung Fehler zu korrigieren, die dann als Korrekturen („Corrigenda“) oder Widerrufe (“retractions”) erscheinen und mitunter dem wissenschaftlichen Fehlverhalten zuzuordnen sind. So zeigen Stichprobenuntersuchungen auf der Basis von biomedizinischen und lebenswissenschaftlichen Publikationen in der Datenbank PubMed<ref>http://www.ncbi.nlm.nih.gov/pubmed</ref>, dass die Überzahl solcher Meldungen nicht auf der Basis von Fehlerkorrekturen erfolgt (ca. 1/5 der Fälle), sondern auf Fälle von nachgewiesenem oder vermutetem Betrug, einer Mehrfachpublikation oder Plagiat (zusammen ca. 2/3).<ref>Vgl. Fang, Ferric C.; Steen, R. Grant; Casadevall, Arturo, Misconduct accounts for the majority of retracted scientific publications, PNAS 2012 109, doi:17028-17033</ref> Der Blog Retraction Watch<ref>http://retractionwatch.com/</ref> sammelt seit 2010 Widerrufsfälle, um diese breiter bekannt zu machen, den Umgang mit diesen Fällen zu dokumentieren und solche Zeitschriften und Verlage zu beobachten, in denen diese Fälle gehäuft auftreten. In den letzten Jahren haben sich zudem Werkzeuge wie CrossCheck (in Zusammenarbeit mit der Plagiat-Erkennungssoftware iThenticate)<ref>http://www.ithenticate.com/products/crosscheck</ref> etabliert, mit denen Verlage und Zeitschriftenherausgeber prüfen können, ob bereits ein ähnlicher Artikel vom selben oder einem anderen Autor veröffentlicht wurde, um Eigen- und Fremdplagiate aufzudecken. 
+
+Einen weitergehenden Ansatz verfolgen COPE, das Directory of Open Access Journals (DOAJ), die Open Access Publishers Association (OASPA) und die World Association of Medical Editors (WAME) mit den „Principles of Transparency and Best Practice in Scholarly Publishing“<ref>http://oaspa.org/principles-of-transparency-and-best-practice-in-scholarly-publishing/</ref>. Diese Leitlinien sollen die Qualitätsstandards im Publikationswesen und zugleich die Filterfunktion der initiierenden Mitgliedsorganisationen stärken. Denn obwohl allgemein die gegenseitige Begutachtung, das „peer review“, als unerlässlich für die Qualitätssicherung wissenschaftlicher Publikationen gilt, ist der Prozess prinzipiell fehlerbehaftet und vor allem wegen seiner Intransparenz in der Kritik.<ref>http://wowter.net/2013/12/24/towards-five-stars-transparent-pre-publication-peer-review/</ref> Einen neuen und vielversprechenden Ansatz stellt daher das Open Peer Review dar, bei dem zusammen mit der finalen Publikation – zum Teil in einem stufenweisen Prozess – die ursprüngliche Einreichung, die Kommentare der Gutachter (ggf. mit Namen), die Antwort des Autors und Kommentare der Leser veröffentlicht werden (vgl. z.B. Copernicus Publications, Frontiers, BMJ Open und eLife in unterschiedlichen Ausprägungen). Parallel zum verlagsseitig organisierten Begutachtungsprozess operieren Peer Review Plattformen wie Publons und Peerage of Science<ref>https://publons.com/, https://www.peerageofscience.org/</ref> , indem sie die Gutachtertätigkeit in den Mittelpunkt stellen und Reviews sammeln, die vor oder nach der Publikation erfolgen. Damit erheben sie die Gutachten selbst in den Rang eines Forschungsoutputs und setzen Anreize für Gutachter, diese zum Teil ihrer Curriculum Vitae zu machen (z.B. via Verknüpfung mit ORCID wie bei Publons).
+
+== Bewusstseinsbildung beim wissenschaftlichen Nachwuchs ==
+Zentral für den wissenschaftlichen Nachwuchs ist die Praxiserprobung der eigenen Kenntnisse in der wissenschaftlichen Arbeit und je nach Disziplin ggf. die Realisierung erster Publikationen. Hierbei ist es wichtig, gute wissenschaftliche Praxis zu fördern und sicherzustellen – das heißt zu vermitteln, welche Regeln es zu beachten gilt und auf die man sich berufen kann, sowie Unterstützung in Zweifelsfällen und bei Konflikten anzubieten. Auch wenn sich wissenschaftliches Fehlverhalten schon allein wegen der in Abschnitt „Gründe des Fehlverhaltens und mögliche Abhilfe“ genannten Missstände wohl nie ausmerzen lässt, kann unserer Meinung nach die Bewusstseinsbildung als eine Stärkung des wissenschaftlichen „Immunsystems“ gelten, welches Wissenschaftler befähigt, dem bestehenden Druck besser gewappnet zu sein und Versuchungen nicht nachzugeben. Und es ist dabei nicht nur das Klima der Redlichkeit und des sozialen Miteinanders zu erhalten, sondern gleichermaßen die Verlässlichkeit der Ergebnisse als Grundlage weiteren wissenschaftlichen Handelns.
+
+An deutschen Universitäten wird der guten wissenschaftlichen Praxis daher zunehmend Aufmerksamkeit gewidmet, insbesondere im Kontext von Graduiertenzentren oder -akademien<ref>z.B. Informationsseite der Göttinger Graduiertenschule Gesellschaftswissenschaften: http://www.uni-goettingen.de/de/221853.html</ref>. So hat die Goethe Universität Frankfurt eine Umfrage zum Bewusstseinsstand unter Doktoranden durchgeführt und erstellt derzeit ein e-Learning Tool zum Thema „Good Scientific Practice during the PhD“.<ref>http://www.uni-frankfurt.de/48913882/Good-Scientific-Practice</ref> Einen praktischen Überblick für Doktoranden für den Bereich des Publizierens mit Hinweisen zu guter Praxis bietet die von norwegischen und dänischen Bibliotheken aufgebaute Plattform PhD on Track.<ref>http://www.phdontrack.net/</ref>
+
+Ein Curriculum für Lehrveranstaltungen zum Thema wurde erstmals 2008 vom Ombudsman für die Wissenschaft in Auftrag gegeben.<ref>Sponholz, Gerlinde: Curriculum für Lehrveranstaltungen zur „Guten wissenschaftlichen Praxis“ für alle wissenschaftlichen Disziplinen (Stand: 2012) http://www.ombudsman-fuer-die-wissenschaft.de/index.php?id=6096</ref> Dieses ist inzwischen mehrfach überarbeitet sowie fachübergreifend angelegt und setzt auf frühzeitige Sensibilisierung des wissenschaftlichen Nachwuchses. Dieses beispielhafte Curriculum erarbeitet anhand von Fallstudien (die häufig auf realen Fällen beruhen) die zentralen Themen der guten wissenschaftlichen Praxis, etwa den Umgang mit Daten, Autorenschaft und Publikationsprozess, Forschungskarrieren und Nachwuchsbetreuung, Interessenskonflikte, Ursachen von und Umgang mit Fehlverhalten, Ombudswesen und Förderung der Guten wissenschaftlichen Praxis in der eigenen Einrichtung. Im englischen Sprachraum gibt es ein vielfältiges Angebot an Lernmaterialien und Kursen, auf die hier gleichfalls hingewiesen sei.<ref>z.B. http://ccnmtl.columbia.edu/projects/rcr/index.html</ref>
+
+Um möglichst viele Nachwuchswissenschaftler nachhaltig zu schulen, initiierte das Präsidium der Universität Göttingen 2012 auf der Basis des genannten Curriculums<ref>Sponholz, Gerlinde: Curriculum für Lehrveranstaltungen zur „Guten wissenschaftlichen Praxis“ für alle wissenschaftlichen Disziplinen (Stand: 2012) http://www.ombudsman-fuer-die-wissenschaft.de/index.php?id=6096</ref> ein 60-stündiges Training „train the teacher“, das Lehrende aus allen Fakultäten und übergreifenden Einrichtungen (Graduiertenkollegs, Bibliothek, Hochschuldidaktik etc.) befähigte, ihrerseits Lehrveranstaltungen zur guten wissenschaftlichen Praxis anzubieten. Grund für dieses Vorgehen war die Erkenntnis, dass gute wissenschaftlichen Praxis vor allem eine Frage der Bewusstseinsbildung ist, die nicht hinlänglich in wenigen Doppelstunden im Frontalunterricht vermittelt werden kann, sondern fachspezifisch zu vermitteln ist und erst in der persönlichen Auseinandersetzung nachhaltig wirkt. Die Praxiserfahrung zeigt, dass eine Auseinandersetzung an mehreren Punkten in der Ausbildung die größte Wirkung entfaltet, indem während oder gegen Ende des Masterstudiums eine allgemeine Einführung in das Thema erfolgt, die mit einer intensiven Lehrveranstaltung während der Promotion oder ersten eigenen wissenschaftlichen Arbeit vertieft wird. Wenn die Teilnehmenden während einer der intensiven Lehrveranstaltung äußern, dass in ihren Instituten oder Laboren noch kein ausreichendes Bewusstsein zur guten wissenschaftlichen Praxis oder sogar zweifelhafte Praktiken existieren, verdeutlicht dies die Notwendigkeit, auch die bereits etablierten Wissenschaftler in die Bewusstseinsbildung zur Wahrung der guten wissenschaftlichen Praxis einzubeziehen. In Göttingen händigt die Präsidentin Ulrike Beisiegel – die selbst lange Jahre als Ombudsperson für die Wissenschaft fungiert hat – allen Neuberufenen persönlich die Ordnung zu Sicherung der guten wissenschaftlichen Praxis aus. Dies mag nur ein kleiner symbolischer Akt sein, doch er verdeutlicht die Verbindlichkeit des Regelwerks und die Notwendigkeit eines Klimas des Vertrauens. 
+
+== Ausblick ==
+Die Regeln für gute wissenschaftliche Praxis sind stark miteinander verzahnt, lassen sich zum Teil jedoch auch gezielt separat adressieren. So entwickeln im Bereich Forschungsdaten derzeit zahlreiche wissenschaftliche Einrichtungen differenzierte Leitlinien sowie Infrastrukturen und Dienste, um Wissenschaftler und Wissenschaftlerinnen bei der Umsetzung von guter Praxis zu unterstützen.<ref>Exemplarisch seien hier drei im Juli 2014 veröffentlichte Forschungsdatenpolicies genannt: Universität Bielefeld, https://data.uni-bielefeld.de/de/policy; Humboldt Universität zu Berlin, http://www.cms.hu-berlin.de/ueberblick/projekte/dataman/policy; Georg-August-Universität Göttingen, http://www.uni-goettingen.de/de/488918.html</ref> Wissenschaftlerinnen und Wissenschaftlern steht heute ein breites Angebot an technischen Lösungen wie Datenbearbeitungs- und Visualierungssoftware (vielfach Open Source), Versionierungssysteme sowie digitale Speicherlösungen und Repositorien zur Verfügung.<ref>Vgl. die Programmiersprachen R und Python für Datenanalyse/-visualisierung, GitHub für Versionierung und Veröffentlichung von Code und die Verzeichnisse von Forschungsdatenrepositorien re3data.org und databib.org. </ref> Diese unterstützen beim Umgang mit Forschungsdaten, indem sie die Dokumentation von Prozessierungsschritten und das Prinzip der Reproduzierbarkeit („Reproducible Research“) zum Bestandteil des wissenschaftlichen Erkenntnisprozesses machen: von der Auswahl, Manipulation und Exploration bis hin zur Visualisierung der Daten. Der öffentliche Zugang zu Publikationen und den zugrundeliegenden Daten sowie den verwendeten Methoden und Werkzeugen wird zunehmend zu einer Grundbedingung guter wissenschaftlicher Praxis – nur so lassen sich die wissenschaftlichen Ergebnisse und Daten prüfen und von anderen weiter verwenden (im Sinne von „Open Science“). Auch die Praxis der Begutachtung wird selbst zu einem Kontinuum und endet nicht mit der Veröffentlichung wie oben im Kontext von Reviewplattformen bereits erläutert. 
+
+Diese Methoden zu definieren und zu lehren sowie zum guten Standard der Wissenschaft zu machen, obliegt der Wissenschaftsgemeinschaft selbst. Wissenschaftsförderer und Verlage sowie weitere Akteure tragen jedoch durch ihre enge Zusammenarbeit mit Wissenschaftlerinnen und Wissenschaftler und ihre jeweiligen Anreizsysteme und Dienstleistungen entscheidend dazu bei, diese nachhaltig zu etablieren. Dass es dabei nicht um eine Überreglementierung der Wissenschaft und ihrer Akteure geht, sei noch einmal verdeutlicht. Damit Wissenschaft das Vertrauen in sich selbst und das der Öffentlichkeit genießt, muss sie redlich betrieben werden. Dies betrifft vor allem die Ergebnisse von wissenschaftlichem Handeln, welche Mensch und Umwelt heute und in Zukunft beeinflussen, seien es Klimaforschung, Armutsberichte oder medizinische Forschung. Auf die Redlichkeit des zugrunde liegenden Erkenntnisprozesses sollen und müssen wir uns verlassen können. 
+
+== Einzelnachweise ==
+<references />
+
+[[Kategorie: Gute wissenschaftliche Praxis]] 

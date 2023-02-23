@@ -1,0 +1,100 @@
+
+ DOI: '''10.2314/coscv2.52'''
+
+{{Autoren|[[Benutzer:Mtub|Marco Tullney]], [[Benutzer:JNeumann|Janna Neumann]]}}
+
+== Bedeutung freier Lizenzen ==
+Ein Kernbestandteil von Open-Access-Definitionen und anderen Offenheitsdefinitionen ist die pauschale Einräumung von Nachnutzungsrechten. Diese Rechte werden in der Regel durch Nutzungslizenzen vergeben und zielen darauf ab, dem Nutzer Rechtssicherheit in der Nachnutzung von Information zu geben.
+
+Sinnvoll ist es dabei, auf schon existierende und standardisierte Lizenzen zurückzugreifen und nicht eine eigene, explizit für ein Dokument oder einen Datensatz abgestimmte Lizenz zu erstellen. Grund dafür ist u. a., dass bei standardisierten Lizenzen die Möglichkeit gegeben ist, diese nachhaltig zu etablieren.
+
+Um eine möglichst breite Nachnutzung zu ermöglichen, wird empfohlen, eine möglichst freie Lizenz (s. a. Abschnitt: [[#Etablierte Lizenzen: Creative-Commons-Lizenzen|Etablierte Lizenzen: Creative-Commons-Lizenzen]]) auszuwählen. Gerade im Kontext von 'CoScience' scheint eine freie Nutzungslizenz sinnvoll, um das kollaborative Arbeiten, z. B. an einem Text, unkompliziert zu ermöglichen.
+
+Wenn keine Nutzungslizenzen vergeben werden, greift in den meisten Fällen das Urheberrecht. Wann ein Werk dem Urheberrecht unterliegt, regelt in Deutschland das [http://www.gesetze-im-internet.de/urhg/BJNR012730965.html| Urheberrechtsgesetz (UrhG)]. Weiteres dazu findet sich auch im Abschnitt [[#Urheberrecht: AutorInnen bestimmen|Urheberrecht: Autorinnen bzw. Autoren bestimmen]].
+
+== Urheberrecht: Autorinnen bzw. Autoren bestimmen ==
+Das deutsche Urheberrecht geht (in der Theorie) von relativ starken Autorinnen und Autoren aus: Wer ein Werk geschaffen hat, kann selber entscheiden, ob und wie es veröffentlicht wird und wie es in Umlauf gebracht wird. Möchte jemand anderes als die Urheberin oder der Urheber das veröffentlichte Werk in Umlauf bringen, verwerten oder verändern, ist dazu eine temporäre oder dauerhafte Erlaubnis der Urheberin oder des Urhebers nötig. Klassischen Verlagsveröffentlichungen liegen oftmals Verträge zugrunde, denen zufolge alle Verwertungsrechte der Urheberinnen und Urheber komplett (für die gesamte Dauer des Urheberrechtsschutzes, für alle Sprachen, für alle Publikationsarten etc.) und exklusiv (so dass zukünftig ausschließlich der Verlag anderen Nutzungsrechte einräumen kann) an den Verlag übertragen wird.
+
+Aber dies geschieht nur, wenn Urheberinnen und Urheber - diejenigen, die erarbeitet und geschrieben haben - einwilligen. Wer einen kostenlosen Zugang und die freie Nutzung der eigenen Werke möchte, wird diesen Weg vermeiden. Dennoch benötigen andere Menschen die belegbare Erlaubnis zur Nutzung. Dies kann in Form eines individuell geschlossenen Vertrages geschehen ("folgende Rechte eingeräumt zur Nutzung des Fotos auf allen Webseiten des Projekts X…") oder in Form von durch die Urheberin oder den Urheber vergebenen Lizenzen, die die Allgemeinheit zur Nutzung unter bestimmten Bedingungen berechtigt.
+
+== Etablierte Lizenzen: Creative-Commons-Lizenzen ==
+: ''„Wir empfehlen CC-BY oder eine äquivalente Lizenz als optimale Lizenz für die Veröffentlichung, Verbreitung, Nutzung und Wiederverwendung wissenschaftlicher Arbeiten.“'' <ref>Budapester Open Access Initiative [http://www.budapestopenaccessinitiative.org/boai-10-translations/german-translation BOAI10 Recommendations]. Zuletzt abgerufen am 13.03.2014.</ref>
+Publikationen, die kostenlos im Netz lesbar sind, bedienen sich häufig der 'Creative-Commons-Lizenzen'. Die 'Creative-Commons-Lizenzen' bestehen dabei aus insgesamt [https://creativecommons.org/licenses/ sechs verschiedenen Lizenzen], die sich aus der Kombination verschiedener einschränkender Merkmale ergeben. Allen 'Creative-Commons-Lizenzen' ist gemeinsam, dass sie aus drei Elementen bestehen: einem verbindlichen Lizenzvertrag, einer allgemeinverständlichen Beschreibung und einer maschinenlesbaren Fassung.
+
+Während CC-BY und CC-BY-SA sich weitgehend im Einklang mit der Berlin Declaration und der Budapest Open Access Initiative befinden, sind die restlichen Lizenzen im Sinne von Open Access eher problematisch zu sehen. Eine Übersicht gibt die nachfolgende Tabelle:
+
+{| class="wikitable"
+! freie Nachnutzbarkeit
+! eingeschränkte Nachnutzbarkeit
+|-
+| style="text-align:center;"| Attribution (CC BY) 
+| style="text-align:center;"| Attribution-ShareAlike (CC BY-SA)
+|-
+| 
+| style="text-align:center;"| Attribution-NoDerivs (CC BY-ND) 
+|-
+| 
+| style="text-align:center;"| Attribution-NonCommercial (CC BY-NC) 
+|-
+|
+| style="text-align:center;"| Attribution-NonCommercial-ShareAlike (CC BY-NC-SA) 
+|-
+|
+| style="text-align:center;"| Attribution-NonCommercial-NoDerivs (CC BY-NC-ND)
+|}
+
+=== Neuerungen bei der CC-4.0-Lizenzen ===
+
+Während in früheren Fassungen der 'Creative-Commons-Lizenzen' eine Vielzahl von Portierungen in länderspezifische Fassungen (z.B. [https://creativecommons.org/licenses/by/3.0/de/ Creative Commons Namensnennung 3.0 Deutschland]) existierte, sollen die Lizenzen der Version 4 nur noch in Ausnahmefällen portiert werden. An der Einteilung in die genannten unterschiedlich eingeschränkten Varianten hat sich nichts geändert. Änderungen haben sich insbesondere dadurch ergeben, dass nun Datenbanken unter 'Creative-Commons-Lizenzen' gestellt werden können (auch so genannte sui-generis-Datenbanken in den (europäischen) Ländern, in denen überhaupt jemand die Nutzung solcher Datenbanken reglementieren kann). Es wird in den Lizenzen der Version 4.0 festgehalten, dass Text- und Datenmining keine Bearbeitung darstellt und deshalb auch CC-BY-ND-lizenziertes Material in solchen Auswertungen mit aufgenommen werden kann.
+
+=== CC-Lizenz für Open Access ===
+Als eine Art Standard-Lizenz für Open-Access-Veröffentlichungen hat sich die 'Lizenz Creative Commons Attribution' (CC-BY, im Deutschen: 'Namensnennung') etabliert. Diese Lizenz verzichtet auf Einschränkungen, die mit den Anforderungen der Berlin Declaration kollidieren (NC, ND) oder die die Nachnutzung aus anderen (von manchen Offenheits-Befürworterinnen und -Befürwortern durchaus gewünschten) Gründen beschränken (SA). Weitere Lizenzen die als 'Open' betrachtet werden sind auf der [http://opendefinition.org/licenses/ Webseite zur Open Definition] aufgelistet.
+
+* Verlage nennen, evtl. auf Wechsel hin zu CC-BY verweisen
+* http://www.e-learning.tu-darmstadt.de/media/elc/openlearnware/lehrmaterialien_verffentlichen/cc-lizenzen_ueberblick.jpg einbauen?
+* Druck von Förderern und Institutionen wie z.B. Helmholtz
+* Zusatzkosten für freie Lizenzen sind schädlich
+* Problem des vagen Open-Access-Begriffs, Zusammenhang mit der Verwendung nicht-freier Lizenzen, z.B. bei DeGruyter
+
+== Lizenzen vergeben ==
+(…)
+
+== Forschungsdaten: Besondere Anforderungen ==
+=== Forschungsdaten und Urheberrecht ===
+
+Ob Forschungsdaten dem Urheberrecht unterliegen, ist eine oft gestellte Frage, die nicht immer sofort eindeutig beantwortet werden kann. Grundsätzlich unterliegen Rohdaten (z. B. Daten die von einem Gerät produziert wurden) zunächst einmal nicht dem Urheberrecht. Grund dafür ist, dass ein Werk nur nach Urheberrecht geschützt werden kann, wenn es "persönliche geistige Schöpfungen" (UrhG §2 Abschnitt 2) sind.
+Die Frage, ob die Schöpfungshöhe der Daten ausreichend im Sinne des Gesetzes ist, muss also immer im Einzelfall geprüft und entschieden werden.
+
+Bei Datensammlungen findet sich im Urheberrechtsgesetz (UrhG) in §4 (2) eine Sonderregelung zum Urheber. Im Sinne des Gesetzes unterliegen damit "systematisch oder methodisch angeordnete" (UrhG) Datensammlungen dem Urheberrecht.
+
+=== Datenschutz ===
+
+Sobald wissenschaftliche Forschungsdaten einen Personenbezug haben, sind die Vorschriften des [http://www.gesetze-im-internet.de/bdsg_1990/ Bundesdatenschutzgesetz] (BDSG), der [http://www.datenschutz.de/recht/fundament/ldsg/ Landesdatenschutzgesetze] und aus dem [http://www.gesetze-im-internet.de/sgb_5/ Sozialgesetzbuch] zu beachten. Dies trifft z.B. oftmals auf medizinische Forschungsdaten zu. Der Datenschutz regelt v. a. den Umgang mit den über eine Person gespeicherten Daten und den Schutz der Persönlichkeitsrechte. Personenbezogene Daten sind nach §3 (1), BDSG „Einzelangaben über persönliche oder sachliche Verhältnisse einer bestimmten oder bestimmbaren natürlichen Person"<ref>Bundesdatenschutzgesetz, § 3, http://www.gesetze-im-internet.de/bdsg_1990/__3.html</ref>. Daher müssen Forschungsinstitute oder -archive vor der Speicherung personenbezogener Daten die schriftliche Einwilligung des Betroffenen (gemäß §126 (1) Bürgerliches Gesetzbuch<ref>Bürgerliches Gesetzbuch, http://www.gesetze-im-internet.de/bgb/</ref>) einholen. Nach dem BDSG gilt in der wissenschaftlichen Forschung ein Anonymisierungsgebot. Das bedeutet, dass ein Datensatz keine Daten mehr enthalten darf, mit denen Personen eindeutig identifiziert werden können. 
+
+Die Anforderungen des Datenschutzen sollten nach Möglichkeit bereits bei der Erfassung und Aufbereitung der Daten berücksichtigt werden und nicht zur Einschränkung der Zugänglichkeit oder Nachnutzbarkeit herangezogen werden. Bei weiteren Fragen zum Datenschutz kann auch immer der jeweils in einer Institution zuständige Datenschutzbeauftragte kontaktiert werden.
+
+== Lizenzen im internationalen Kontext ==
+Das Urheberrecht richtet sich nach dem so genannten [https://de.wikipedia.org/wiki/Schutzlandprinzip Schutzlandprinzip], so dass die Zulässigkeit von Werken von den Gesetzen desjenigen Staats abhängt, in dem die Nutzung stattfindet. Dieses Prinzip führt bei Internetpublikationen, die in allen Staaten genutzt werden können, zu einer sehr verwirrenden Rechtslage, weil je nach Standort unterschiedliche Regelungen gelten. Probleme für die freie Nutzung wissenschaftlicher Publikationen und Daten könnten auch dort entstehen, wo beispielsweise die Nutzung in Deutschland legal ist (z.B. auf Grundlage der Panoramafreiheit oder eines Zweitverwertungsrechtes), aber von Rechteinhaberinnen und Rechteinhabern z. B. in den USA unter Hinweis auf die US-amerikanische Rechtslage behindert wird.
+
+== Jenseits expliziter Lizenzen: Gemeinfreiheit und fair use ==
+* Erinnerung an nationale Gesetze
+* aber Abschätzung wichtig, wo man sich Ärger einhandelt
+* Verweis auf copyfraud, illegitime Beschränkungen in Archiven, Museen etc. (evtl. noch ein Seitenkommentar zur Stabi Berlin und ihrer Unterzeichnung der Berlin Declaration mit Einschränkung)
+
+== Nachnutzung ermöglichen ==
+Es ist gut, wenn Texte einfach gelesen werden können (und wissenschaftliche Daten eingesehen werden können). Doch was kann man damit machen – jenseits des Lesens und Zitierens? Schon das Weitergeben an andere Kolleginnen oder Kollegen bedarf der Erlaubnis der Urheberinnen oder Urheber. Dies gilt erst recht für viele andere Formen der Nachnutzung, insbesondere solche, die das ursprüngliche Werk verändern. Auch die kommerzielle Nachnutzung von Wissenschaftsergebnissen wird häufig kontrovers diskutiert.
+
+Einige Beispiele für die Bearbeitung und Nachnutzung von Texten oder Daten können sein: 
+* (Ganze) Texte werden kopiert und verbreitet
+* Teile eines Texte werden kopiert und in einen anderen Text mit einem neuen Kontext eingefügt
+* 'alte' Daten werden mit 'neuen' Daten gemixt und in einen neuen Zusammenhang gebracht (Text- und Datamining)
+* bereits bestehende Daten werden bspweise für eine neue Interpretation ausgewertet
+
+Angesichts von Internet, auch einer sich veränderden Kultur des Umgangs mit vorgefundenen Daten (wie z. B. ''remixing'' von Daten, sich daraus ergebener neuer Kontext etc.) und Computerskills ist es besonders wichtig, die rechtlichen Rahmenbedingungen zu formulieren (und als Nachnutzerin und Nachnutzer einzuhalten). Forschungsergebnisse (als Texte, Daten etc.) zugänglich zu machen und auch eine direkte Weiterverwendung zu erlauben (wobei ja Wissenschaft schon immer eher Remix als Schöpfung ist), befördert Wissenschaft unmittelbar. Auch jenseits direkter Kollaboration erlaubt die Nachnutzbarkeit von Materialien die Erstellung von wissenschaftlichen Arbeiten, die auf bereits existierenden Ergebnissen aufbauen.
+
+Eine besondere Bedeutung kommt der Nachnutzbarkeit auch im Kontext von ''Citizen Science'' zu.
+
+* Transfer von Wissenschaft in die Gesellschaft
+
+== Einzelnachweise ==
+<references />

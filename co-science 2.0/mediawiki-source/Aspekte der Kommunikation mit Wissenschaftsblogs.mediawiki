@@ -1,0 +1,215 @@
+
+ DOI: '''10.2314/coscv2.71'''
+
+{{Autoren|[[Benutzer:Mk|Mareike König]], [[Benutzer:Lambert_Heller|Lambert Heller]] }}
+
+== Einleitung ==
+Wissenschaftsblogs stellen ein sehr gutes Mittel dar, um mit Fachkolleginnen und -kollegen sowie der interessierten Öffentlichkeit zu kommunizieren und Ergebnisse aus der laufenden Forschung zu publizieren. Dies lässt sich formal und technisch begründen: Blogbeiträge sind im Internet frei zugänglich und damit über Suchmaschinen auffindbar und im Netz sichtbar. Blogs sind technisch einfach zu bedienen, die Software ist in der Grundausstattung zumeist kostenlos, wenn auch mit Werbung versehen. Blogs bieten die Möglichkeit, Einblicke in die eigene 'Werkstatt'<ref>Mounier, Pierre (2013) Die Werkstatt öffnen: Geschichtsschreibung in Blogs und
+ Sozialen Medien. In: Haber, Peter; Pfanzelter, Eva (Hg.), 
+Historyblogosphere. Bloggen in den Geschichtswissenschaften, München, Oldenbourg, S. 51-60, [http://www.degruyter.com/view/books/9783486755732/9783486755732.51/9783486755732.51.xml http://www.degruyter.com/view/books/9783486755732/9783486755732.51/9783486755732.51.xml]</ref> zu geben und Zwischenergebnisse zu präsentieren. Über die Kommentarfunktion kann man mit der Fachcommunity und der Öffentlichkeit in einen Austausch treten, womit wissenschaftliche Diskussion direkt, in Echtzeit und an verteilten Orten geführt werden kann und dies früher, als es bisher zumeist der Fall war. Blogs ermöglichen neben der Publikation von Texten auch das Einbinden von Hyperlinks sowie multimedialen Formaten wie Abbildungen, Videos und MP3-Dateien. Blogbeiträge können problemlos und transparent aktualisiert und damit auf dem neuesten Stand gehalten werden. 
+
+Potenziell stellen Wissenschaftsblogs eine Konkurrenz für die klassischen Kommunikations- und Publikationsorte wie Zeitschriften dar. In der Praxis scheinen sie aber die bisherigen Praktiken der wissenschaftlichen Kommunikation wie Gespräche, Vorträge, E-Mails und klassische Veröffentlichungen um ein neues Format zu ergänzen. Nach heutigem Stand verdrängen Wissenschaftsblogs bisherige Kommunikationsformate nicht, sondern bieten über ihre spezifischen Eigenschaften – und hier vor allem der vernetzten, direkten, schnellen und multimedialen Kommunikation und der Möglichkeit des Austauschs über Kommentare – eine tatsächlich andere und zusätzliche Form der Wissenschaftskommunikation. Dies wird in äußerst vielfältiger Weise genutzt, wie ein Blick auf die derzeitige bunte und lebendige Blogpraxis zeigt (siehe unten). 
+ 
+
+== Warum bloggen? ==
+Die Gründe, warum Wissenschaftlerinnen und Wissenschaftler bloggen, sind sehr vielfältig und individuell geprägt.<ref>Vgl. Graf, Klaus, König, Mareike (2012) Forschungsnotizbücher im Netz: Weblogs in der deutschsprachigen Geschichtswissenschaft. In: 
+WerkstattGeschichte 61, S. 76–87, hier S. 79-81, PDF: http://werkstattgeschichte.de/werkstatt_site/archiv/WG61_076-087_GRAF_NETZ.pdf.</ref>  Zunächst sind Wissenschaftsblogs Publikations- und Kommunikationsorte, über die der Bloggende frei und nach eigenem Ermessen verfügen kann. In der Freiheit, Inhalt, Stil, Beitragslänge und Publikationsrhythmus im Wissenschaftsblog selbst bestimmen zu können, liegt eine der Stärken dieses Formats. Diese Selbstbestimmung ist auch ein Grund, warum Wissenschaftsbloggen Spaß macht.  
+
+Zu den im Wissenschaftsbereich immer wieder genannten Gründen, warum gebloggt wird, gehören z.B.:  
+* Inhalte im Open Access veröffentlichen  
+* Thesen ausprobieren, Gedanken strukturieren  
+* Selbstkritische Reflektion des eigenen Tuns  
+* Schreiben üben   
+* Blogbeiträge als Vorstufe für einen Vortrag, eine Publikation erarbeiten   
+* Austausch und Diskussion  
+* Vernetzen, Gleichgesinnte finden  
+* Dokumentation eines Forschungsprojektes, Archivfunktion, digitaler Zettelkasten, Aufbau einer thematischen Informationssammlung  
+* Aufbau einer digitalen Identität, Eigen-PR, PR für ein Projekt   
+* Publikationsprozess durchlaufen: Loslassen üben  
+* Spaß am Bloggen    
+Diese Liste ließe sich ohne Schwierigkeiten um weitere Punkte verlängern, gibt es doch vermutlich so viele Gründe zu Bloggen, wie es Wissenschaftsbloggende gibt.<ref>Vgl. Scherz, Sabine (2013)  "Warum sollte ich als Wissenschaftler/in bloggen?" In: [http://redaktionsblog.hypotheses.org/1209 Redaktionsblog]. Zuletzt aufgerufen 13.03.2014.</ref>  Gewöhnlich ändern und erweitern sich die Gründe, wenn man mit dem Bloggen begonnen hat und es können Gründe für das Bloggen zentral werden, an die man zu Beginn gar nicht gedacht hat.     
+
+Achim Landwehr, Professor für Geschichte an der Universität Düsseldorf, formuliert die Gründe, warum er bloggt, so:     
+
+"Wenn ich also im Netz blogge, warum tue ich das? Weil es eine wichtige Möglichkeit ist, die Wissenschaft aus ihren spezialisierten Kreisen herauszuholen; weil es eine Einladung an diejenigen sein kann, die noch 
+nicht einmal wussten, dass sie nichts von dem wussten, was sie per Suchmaschine gefunden haben; weil es eine unverzichtbare Erweiterung wissenschaftlicher Kommunikation ist. Papierwelt und Netzwelt haben sich dabei schon längst verschränkt. Es sind nicht nur Blogs, die zu Büchern werden, es sind nicht nur Internetinhalte, die auf Bücher verweisen, es
+<nowiki> </nowiki>sind ebenso zahllose Artikel, die nicht mehr in Papierform erscheinen, weil sie schon im Netz stehen, und es sind unzählbare Fußnoten, die sich mit Links anfüllen. Für Qualität an sich bürgt weder das eine noch das andere Medium. Dafür sind schon die Menschen verantwortlich, die hinter den Inhalten stehen, ganz gleich wo sie erscheinen."<ref>Kommentar von Achim Landwehr zum Beitrag von Valentin Groebner (2014) Heißes Zeug, kühle Speicher, graue Literatur. In: [http://public-history-weekly.oldenbourg-verlag.de/2-2014-6/heisses_zeug/ Public History Weekly].</ref>     
+
+== Ein Blogprojekt entwickeln und ein Blog eröffnen ==
+Mit dem Wissenschaftsbloggen zu beginnen ist denkbar einfach: WordPress, Blogger und Tumblr sind gängige Blogsoftware, mit denen man mit wenigen Klicks und einer Anmeldung ein Weblog kostenlos eröffnen kann. In ihren Grundfunktionen sind die Angebote zumeist kostenlos, allerdings muss Werbung auf dem eigenen Blog in Kauf genommen werden. In der kostenlosen Version gibt es zumeist keine eigenständige URL, sondern eine URL wie'' titeldesblogs.wordpress.com''.    
+
+Grundsätzlich ist es sinnvoll, sich zunächst Gedanken zu machen über den Titel des Blogs, ggf. Untertitel, die URL, ggf. Mitautoren, in welcher Sprache man bloggen möchte, wie die Einstellung der Kommentare erfolgen soll (ob moderiert oder frei) sowie über die generellen Ziele, die man mit dem Bloggen verfolgt. Anders als bei einer Homepage ist es nicht notwendig, sich vorweg eine Struktur für das Blog zu überlegen. Generell gibt es eine umgekehrt chronologische Reihenfolge, das heisst der neueste Beitrag steht immer oben. Der inhaltliche Zugang über Schlagworte und ggf. auch Kategorien wächst mit jedem Blogbeitrag (siehe unten Abschnitt [[Bloginhalte strukturieren und vernetzen: Kategorien, Schlagworte, Blogroll und Links]]).   
+
+Es wird empfohlen, das Impressum des eigenen Blogs auszufüllen. Außerdem sollten die eigenen Bloginhalte unter einen Creative Commons-Lizenz gestellt werden (siehe unten Abschnitt 9). Seit September 2013 vergibt die Deutsche Nationalbibliothek ISSN für Wissenschaftsblogs. Diese kann dort direkt beantragt werden, sobald das Blog einige Zeit aktiv ist.   
+
+Es ist ratsam, sich einer Blogplattform oder Bloggemeinschaft anzuschließen, um von vornherein die Sichtbarkeit und Vernetzung des eigenen Weblogs zu erhöhen. Darüber hinaus profitiert man von der bereits etablierten Leserschaft dieser Portale sowie vom technischen Know-How der Gemeinschaft bzw. der Portalbetreiber.  
+
+Für Geisteswissenschaftler, die ihr Blog nicht selbst hosten möchten oder können und sich zudem von Anfang an in ihrer Community vernetzen wollen, bietet die Blogplattform [http://de.hypotheses.org/ ''de.hypotheses.org''] eine Alternative. Das Angebot der Plattform ist kostenlos und umfasst u.a. das Aufsetzen, Hosting und Archivieren der Blogs sowie technischen Support per E-Mail, über die sozialen Netze oder per Telefon. Die Blogbeiträge der Community werden über die Sozialen Medien der Plattform verteilt, womit eine große Sichtbarkeit und Verbreitung erreicht wird. Von Vorteil ist außerdem die europäische Vernetzung im Portal. Das Angebot richtet sich an die wissenschaftliche Fachcommunity. Ein Blogantrag wird online auf der Unterseite "[http://de.hypotheses.org/blog-eroffnen Blog eröffnen]" von de.hypotheses.org gestellt.
+
+== Wissenschaftliche Blogs: Welche Typen lassen sich unterscheiden? ==
+Idealtypisch werden drei Arten von wissenschaftlichen Blogs unterschieden: 1. Blogs einer Wissenschaftlerin oder eines Wissenschaftlers, in denen die Person und ihr (nicht nur) wissenschaftliches Tun im Mittelpunkt stehen. 2. Themenzentrierte Wissenschaftsblogs, die sich an die eigene Fachcommunity, aber auch an die interessierte Öffentlichkeit wenden. 3. Thematische Forschungsblogs, die sich in erster Linie an Expertinnen und Experten aus derselben akademischen Disziplin wenden und in denen aus der laufenden Forschung berichtet wird.<ref>Vgl. die Unterscheidung bei: Bader, Anita; Fritz, Gerd; Gloning, Thomas (2012) DigitaleWissenschaftskommunikation 2010–2011. Eine Online Befragung,Gießener Elektronische Bibliothek
+[geb.uni-giessen.de/geb/volltexte/2012/8539/].</ref>  
+
+Die hier vorgeschlagene Typologie von Wissenschafsblogs dient als Anregung für diejenigen, die selbst ein Blog eröffnen wollen. Sie bildet die lebendige und bunte Wissenschaftsblogosphäre in ihrer Komplexität nur in Teilen und vor allem idealtypisch ab. Die Blogpraxis zeigt viele Mischformen der hier aufgeführten Blogtypen. Prinzipiell können Wissenschaftsblogs alleine oder als Gemeinschaftsblogs geführt werden. Wissenschaftsblogs können einem engen Thema gewidmet oder themenübergreifend sein. Wie die Beobachtung zeigt, zeichnen sich formal die folgenden Typen ab: 
+* themenübergreifende Wissenschaftsblogs 
+* themenzentrierte Forschungsblogs 
+* Dissertations-/Habilitationsblogs 
+* Blogs zu einem Forschungsprojekt 
+* Blogs von Forschungseinrichtungen (Institut, Bibliothek, Archiv, ...) 
+* Themenblog 
+* Tagungsblogs 
+* Seminarblogs 
+* Quellenblogs 
+* Blogs zu einer Debatte 
+* Methodenblogs 
+* Blogs zu einer Publikation 
+* Fotoblogs 
+* wissenschaftliche Comicblogs 
+
+* ...      
+Weitere Formen sind denkbar und werden sich sicherlich in den nächsten Jahren herausbilden.      
+
+== Worüber bloggen? Themen für ein Wissenschaftsblog finden ==
+Die Frage, was in Wissenschaftsblogs publiziert wird, soll hier nicht normativ beantwortet werden, denn erlaubt ist, was gefällt. Prinzipiell bieten Blogs die Möglichkeit, losgelöst von gängigen Beschränkungen des Wissenschaftsbetriebs eigene Textgenres, Inhalte und Stile auszuprobieren. Dies kann, muss aber nicht genutzt werden. Eine Besonderheit ist dabei, dass aus der laufenden Forschung berichtet wird und viele Wissenschaftsblogs Werkstattberichte enthalten. Geschrieben wird dann über die eigenen Schritte, Fortschritte, Rückschritte, Zögerlichkeiten, Verunsicherungen, Blockaden, Frust oder Entdeckerfreude. Damit können sich Blogbeiträge von 'fertigen' Beiträgen in Zeitschriften oder Sammelbänden unterscheiden.  
+
+Bei den Beiträgen kann grundsätzlich unterschieden werden zwischen dem unkommentierten Publizieren von Links oder Hinweisen, und ausgearbeiteten, einer wissenschaftlichen Fragestellung folgenden Blogbeiträgen. Die Frage, worüber gebloggt wird, ist darüber hinaus sicherlich abhängig von den eigenen Blogzielen sowie vom Blogtyp, den man betreibt. Ein Blick auf die derzeitige Blogpraxis von Wissenschaftlerinnen und Wissenschaftlern bietet generelle Anregungen zu möglichen Themenkategorieren: 
+
+* Hinweise auf Neuerscheinungen aus dem eigenen Themenbereich
+* Hinweise auf Veranstaltungen / Ausstellung etc., an denen man teilnimmt, die man organisiert, die im eigenen Themenbereich stattfinden
+* weitere Neuigkeiten aus den eigenen Interessensgebieten 
+* Meta-Themen der eigenen Arbeit: z.B. Archiverfahrung, Erfahrung aus der Lehre 
+* Schriftliche Kurzinterviews mit Kollegen oder für die eigene Arbeit interessante Personen 
+* Vorstellung ähnlicher Projekte (vielleicht als Gastbeitrag) 
+* Vorstellen einer Quelle, die man im Rahmen der eigenen Recherche gefunden hat 
+* Methodenorientierte Beiträge 
+* Einzelaspekte der eigenen Forschungsarbeit
+Anregungen für Blogthemen kann man sich aus der Wissenschaftsblogosphäre holen. Auch Twitter ist eine geeignete Nachrichtenquelle, um Themen für das eigene Wissenschaftsblog zu finden.<ref>Vgl. Scherz, Sabine (28.5.2013) "Wie finde ich Themen für mein Wissenschaftsblog?" In: [http://redaktionsblog.hypotheses.org/1217 Redaktionsblog].</ref> Generell gilt hier, dass es vor allem am Anfang schwieriger sein kann, geeignete Themen für das eigene Weblog zu finden. Wie so oft macht hier Übung den Meister und regelmäßiges Bloggen und Lesen anderer Wissenschaftsblogs führt auch dazu, dass einem Themen für das Bloggen wie von alleine einfallen.
+
+Wer ohnehin das Ziel verfolgt, sich mit dem Wissenschaftsblog zu vernetzen, sollte sich um Gastbeiträge bemühen und Kolleginnen und Kollegen, die zu ähnlichen Themen oder einem ähnlichen Aspekt arbeiten, einladen, ihr Projekt auf dem Wissenschaftsblog vorzustellen.     
+
+Laut einer Ende 2013 durchgeführten Umfrage in den USA bloggen 41% der Wissenschaftsblogger Kritik am akademischen Betrieb.<ref>Vgl. Lugger, Beatrice (28.11.2013) "Worüber Wissenschaftler bloggen". In:
+[http://www.scilogs.de/quantensprung/worueber-wissenschaftler-bloggen/ Quantensprung].</ref>     
+
+== Wie bloggen? Einen persönlichen Stil entwickeln ==
+Was bisher über Blogtypen und Beiträge gesagt wurde, gilt auch für den Schreibstil, der in Wissenschaftsblogs angewandt wird: Auch hier gilt, dass es keine engen Vorgaben gibt und Wissenschaftsbloggende von größtmöglichen Freiheiten profitieren können. Gerade diese Befreiung von oftmals als beengend wahrgenommenen wissenschaftlichen Schreibgepflogenheiten ist mit dafür verantwortlich, dass Wissenschaftsbloggen Spaß macht.    
+
+In der Praxis sind Blogbeiträge zumeist kurz, umfassen manchmal nur einen Link. Im Stil sind sie persönlich und subjektiv gefärbt. Sie können in Ich-Form geschrieben werden, was in wissenschaftlichen Texten ansonsten oftmals als deplaziert gilt. Viele Blogbeiträge unterscheiden sich aber nicht grundsätzlich von Artikeln in wissenschaftlichen Publikationsorganen und entsprechen den wissenschaftlichen Gepflogenheiten in Stil und Zitierform vollauf.
+
+Sabine Scherz gibt in einem Beitrag Tipps für das Schreiben von Blogbeiträgen in Wissenschaftsblogs. "Schreiben Sie einfach!", ist dabei ihre Regel Nummer eins.<ref>Scherz, Sabine (05.06.2013) "Texte für das Wissenschaftsblog schreiben, wie?" In: [http://redaktionsblog.hypotheses.org/1220 Redaktionsblog].</ref> Das bedeutet möglichst kurze Sätze und keine verwinkelten Einschübe. Dies gilt umso mehr, da Blogtexte zumeist online gelesen werden. Weitere Tipps von ihr sind Authentizität, Begeisterung rüber bringen und kurze Texte schreiben. Oftmals ist es sinnvoller, aus einer längeren Story einen Mehrteiler zu machen als nur einen, aber langen Beitrag zu veröffentlichen. 
+
+Auch beim Schreiben gilt: Ausprobieren! Ein Wissenschaftsblog eignet sich hervorragend, um sich im Schreiben zu üben. Es gehört auch zur Praxis, Blogbeiträge befreundeter Wissenschaftlerinnen und Wissenschaftler Korrektur zu lesen und dafür im Gegenzug eigene Artikel korrigiert zu bekommen. 
+
+Weitere Hinweise zum wissenschaftlichen Schreiben finden Sie im Kapitel '[[Handbuch CoScience/Schreiben|Schreiben']] in diesem Handbuch.
+
+== Bloginhalte strukturieren und vernetzen: Kategorien, Schlagworte, Blogroll und Links ==
+Blogbeiträge werden in umgekehrter chronologischer Reihenfolge auf dem Blog angezeigt, das heisst der neueste Beitrag steht immer ganz oben. Um einen inhaltlichen Zugriff auf Ihr Blog zu gewährleisten, werden Schlagworte für einzene Beiträge vergeben und die Beiträge Kategorien zugeordnet, die Sie vorher festlegen. Die Schlagworte können dann in einer Schlagwortwolke (Cloud Tag) angezeigt werden. Das am häufigsten verwendete Schlagwort ist dabei am größten. 
+
+Es ist sinnvoll, möglichst immer die gleichen Schlagworte zu vergeben. Man sollte für sich vorher festlegen, beispielsweise wie bei den Schlagworten in Bibliothekskatalogen immer den Singular eines Wortes zu verwenden und nicht einmal "Blog", ein anderes mal "Blogs" verwenden. Zumeist hilft die Software des Blogs dabei, indem bereits verwendete Schlagworte angezeigt werden, so dass auch Tippfehler vermieden werden können. In Katalogen werden zumeist nicht mehr als fünf Schlagworte pro Beitrag verwendet. Im Einzelfall kann es sinnvoll sein, von dieser Regel abzuweichen. Schlagwortkategorien sind: Personenamen, geographische Namen, Sachschlagworte, Zeitschlagworte und Formschlagworte (Karte, Quelle, Atlas, Brief).
+
+Die inhaltliche Erschließung über Kategorien wächst in der Regel mit der Anzahl der Artikel. Oftmals werden in den Blogs formale und inhaltliche Kategorien vermischt. Die am häufigsten verwendeten formalen Kategorien sind z.B. 'Rezensionen', 'Tagungen', 'Veröffentlichungen', 'Projektmitarbeiter', 'Ausstellungen'. Inhaltliche Kategorien richten sich nach dem Thema Ihres Blogs. Sie sollten eher weit gefasst sein.
+
+Ein typisches Werkzeug für die Vernetzung in der Blogosphäre ist die sogenannte 'Blogroll'. Darunter versteht man eine Linkliste von thematisch ähnlichen oder einfach interessanten Blogs, die zumeist auf der Startseite des Blogs in einem Widget angezeigt werden. Da Verlinkung und Vernetzung zentrale Elemente von Blogs sind, sollten Sie diese Möglichkeit ausgiebig nutzen.
+
+== Interaktivität entwickeln: Kommentare und Vernetzen ==
+Es wird oftmals beklagt, dass in Wissenschaftsblogs zu wenig kommentiert wird bzw. dass die Anzahl der Kommentare rückläufig ist. Unklar ist derzeit, ob es in dieser Hinsicht einen signifikanten Unterschied zwischen geistes- und naturwissenschaftlichen Blogs gibt. Für die Rückläufigkeit der Anzahl könnten die Sozialen Netze verantwortlich sein, haben sich doch manche Diskussionen auf Twitter, Google+ oder Facebook verlagert. Da Interaktion jedoch als ein zentraler Punkt bei der Kommunikation mit Wissenschaftsblogs gesehen wird, wird durch das Ausbleiben von Kommentaren eine der grundsätzlichen Legitimationen des Wissenschaftsbloggens berührt. Eine der häufig gestellten Fragen ist daher, wie man mehr Interaktivität auf dem eigenen Blog generieren kann. Dabei sollten Kommentare jedoch nicht als Selbstzweck missverstanden oder überschätzt werden, zumal auch die Qualität der Kommentare eine wesentlich Rolle spielt, um als hilfreich oder anregend wahrgenommen zu werden.  
+
+Zunächst sei angemerkt, dass generell Meta-Themen häufiger Kommentare erhalten als thematische wissenschaftliche Blogbeiträge, ganz einfach deshalb, weil der Kreis derjenigen, die sich als Experten trauen, etwas dazu zu sagen, bei wissenschaftlichen Themen kleiner wird. Auch werden Beiträge, die einen pointierten Standpunkt haben eher kommentiert, als rein deskriptive Texte, die nicht zur Diskussion herausfordern. Wer also Kommentare provozieren möchte, sollte in seinen Texten polemisierend Stellung beziehen, etwas, was nicht unbedingt immer zu den Beiträgen im Wissenschaftsblog passt.             
+
+Zu bedenken ist außerdem, dass Kommentare und Vernetzung in Wissenschaftsblogs keine Einbahnstraße sind. Wer Kommentare bei sich im Blog haben möchte, sollte anfangen, in anderen Weblogs zu kommentieren. Tipps dazu, wie man 'richtig' kommentiert, finden sich in einem Blogbeitrag von John Scalzi.<ref>Vgl. Scalzi, John (18.09.2012) "How to be a good commenter". In: [http://whatever.scalzi.com/2012/09/18/how-to-be-a-good-commenter/ Whatever].</ref> Dazu gehört auch, ein möglichst umfangreiches Verlinken anderer Beiträge und das Vernetzen mit anderen Blogs, eine Aufnahme von thematisch ähnlichen oder interessanten Weblogs in eine Blogroll (siehe oben), die regelmäßig gepflegt und erweitert werden sollte. Nur wer den Aspekt der Vernetzung und der Interaktion, die das Soziale Netz im Allgemeinen und Weblogs im Besonderen prägen, selbst ernst nimmt, wird mit dem eigenen Blog Teil dieses Netzes und kann Kommentare erwarten. Oftmals dauert es auch eine Zeit, bis ein neues Blog wahrgenommen wird und Kommentare erhält. Auch aus diesem Grund ist ein Anschluss an eine Blogplattform sinnvoll, bekommt man dort doch die Leserschaft quasi gleich mitgeliefert.                                       
+
+Im umgekehrten Fall kann es passieren, dass man Kommentare im eigenen Wissenschaftsblog erhält, auf die man aufgrund des Stils und Inhalts gerne verzichtet hätte. Nicht vergessen, dass Sie verantwortlich für Ihren Publikationsort 'Wissenschaftsblog' sind und damit auch dafür, was in den Kommentaren steht. Volksverhetzende Kommentare dürfen Sie ohnehin nicht freischalten bzw. müssen Sie schnellstmöglich löschen. Beleidigende und unsachliche Kommentare müssen Sie nicht freischalten, zumal die Gefahr besteht, dass dieser Ton dann bei den anderen Kommentatoren Schule macht. Auf keine Fall sollten Sie Kommentare inhaltlich ändern oder Teile daraus löschen. Wenn Sie sich für eine Publikation entscheiden, dann in ihrer originalen Form.                                                      
+
+Als 'Hausherrin' bzw. 'Hausherr' Ihres Blogs sollten Sie außerdem Interaktivität zeigen und auf die Kommentare eingehen und die Diskussion lenken.                                                     
+
+== Wann ist ein Wissenschaftsblog erfolgreich? ==
+Der Erfolg eines Wissenschaftsblogs richtet sich in erster Linie daran, mit welchen Zielen und aus welchen persönlichen Gründen die oder der Bloggende das eigene Wissenschaftsblog betreibt. Wer in erster Linie Schreiben üben und sich im Durchlaufen eines Publikationsprozesses erproben möchte, wird vorrangig auf die eigene Bewertung des Schreibprozesses sowie u.U. auf Rückmeldungen bezüglich des Stils angewiesen sein.
+
+Wem es um Verbreitung und Archivierung von Inhalten, um Vernetzung und um Sozialprestige geht, wird die Statistiken des eigenen Blogs im Auge behalten und die Anzahl der Zugriffe über die Zeit verfolgen. Wichtig sind in dieser Optik außerdem Kommentare zu den Beiträgen sowie Trackbacks und Pingbacks, die darauf hinweisen, dass das Blog in anderen Wissenschaftsblogs zitiert wird. Hinweise zu Blogstatistiken sowie zur Tatsache, dass alles immer "eine Frage der Interpretation" ist, finden sich in einem Blogbeitrag von Wenke Bönisch.<ref>Vgl. Bönisch, Wenke (01.10.2013). "Social Media Monitoring für Wissenschaftler/innen". In: [http://digigw.hypotheses.org/205 Digitale 
+Geschichtswissenschaft].</ref>
+
+Die rein quantitative Messung des Erfolgs des eigenen Blogs über die Statistiken wird durch eine qualitative Komponente ergänzt: Wichtig erscheint nicht nur der hohe Zugriff, sondern die Wahrnehmung durch die Personen, die an einem ähnlichen Thema arbeiten und mit denen eine Vernetzung daher besonders sinnvoll erscheint. Kevin Smith hat das Konzept des "unerwarteten Lesers"<ref>Vgl.  Smith, Kevin (15.11.2011). "The unexpected reader". In: [blogs.library.duke.edu/scholcomm/2011/11/15/the-unexpected-reader/ Scholarly
+Communication @ Dukes]</ref> entwickelt, sind Blogbeiträge doch Open Access zugänglich und können so Personen über Suchmaschinen oder Links auf das eigene Weblog gelangen, die bisher nichts von dessen Existenz wussten.
+
+Darüber hinaus weist das Konzept der "stillen Konversation"<ref>Vgl. Dacos, Marin (23.07.2009). 
+"La conversation silencieuse". In: [blog.homo-numericus.net/article191.html Homo 
+Numericus].</ref> auf eine Wahrnehmung der Blogs hin, die über den statistisch messbaren, letztlich homogenen Bereich der Blogosphäre hinaus weist. Gemeint ist damit, wenn man im analogen Raum beispielsweise am Rande einer Tagung auf einen Blogbeitrag angesprochen wird oder über andere Wege wie per E-Mail Rückmeldung zum Wissenschaftsblog erhält.   
+
+Damit ein Weblog Aufmerksamkeit, Kommentare und eine regelmäßige Leserschaft erhält, sind laut Marc Scheloske drei Aspekte zu beachten: Persönlichkeit, Frequenz und Dialogfähigkeit.<ref> 
+Scheloske, Marc (13.03.2012). "Wege aus der Nische: Was man von erfolgreichen 
+Wissenschaftsblogs lernen kann". Anmerkungen zur Tagung »Weblogs in den 
+Geisteswissenschaften«. In: [http://www.wissenswerkstatt.net/2012/03/13/wege-aus-der-nische-was-man-von-erfolgreichen-wissenschaftsblogs-lernen-kann/ Wissenswerkstatt].</ref> Mit Persönlichkeit ist gemeint, dass die Beiträge die Persönlichkeit des Bloggenden deutlich machen. Sie sollten engagiert und pointiert geschrieben sein und die Meinung des Wissenschaftsbloggenden deutlich machen und damit zum Kommentieren auffordern. Als Mindestfrequenz für die Veröffentlichung von Blogbeiträgen sieht Scheloske einen Beitrag pro Woche an. Schließlich sollte der Wissenschaftsbloggende seine Dialogfähigkeit unter Beweis stellen, indem er auf die Kommentare zu seinen Beiträgen eingeht und Fragen beantwortet. Spätestens jeder fünfte Kommentar sollte demnach wieder vom Bloggenden selbst kommen.       
+
+== Rechtliche Fragen rund ums Bloggen ==
+Wissenschaftsbloggen wirft eine Reihe von rechtlichen Fragen auf, die von der Ausgestaltung eines Impressums über die Nutzung von Abbildungen und Videos bis hin zur Lizenzierung eigener Texte reicht. 
+
+Prinzipiell gelten für Wissenschaftsbloggende dieselben rechtlichen  Bestimmungen wie für die Ersteller von Webseiten. Bei der Übernahme von Inhalten (Bild, Video, Text, Tonaufnahme) für das eigene Blog müssen Urheberrechte beachtet werden. Wichtige Hinweise zum
+Urheberrecht, zum Impressum, zur Nutzung von Bildern und zu weiteren rechtlichen Fragen bietet die Artikelserie „Blog und Recht“ im Weblog [http://archiv.twoday.net/ Archivalia], derzeit in sieben Teilen: 
+* Blog & Recht 1: Darf ich Bilder lebender Personen veröffentlichen? http://archiv.twoday.net/stories/156271221/
+
+* Blog & Recht 2: Darf ich mein Blog mit einem Porträtfoto von mir schmücken? http://archiv.twoday.net/stories/156272358/
+
+* Blog & Recht 3: Brauche ich ein Impressum? http://archiv.twoday.net/stories/165211515/
+
+* Blog & Recht 4: Wie nutze ich Bilder unter freier Lizenz korrekt? http://archiv.twoday.net/stories/219051498/
+
+* Blog & Recht 5: Darf ich alte Bilder nutzen? http://archiv.twoday.net/stories/219051661/
+
+* Blog & Recht 6: Darf ich ein fremdes Video einbetten? http://archiv.twoday.net/stories/404099696/
+
+* Blog & Recht 7: Hafte ich für Links? http://archiv.twoday.net/stories/453148108/
+
+Um die Zirkulation von digitalen Inhalten im Internet zu vereinfachen, wurde mit [http://de.creativecommons.org/ Creative Commons] eine Initiative entwickelt, mit der auch eigene Inhalte (Text, Bild, Ton, Video...) für die weitere Benutzung lizenziert werden können (zu Creative Commons Lizenzen siehe auch Beitrag '[[Freie Lizenzen und Nachnutzung]]'). Für das eigene Wissenschaftsblog ist die CC-Lizenz BY, empfehlenswert.<ref>Vgl. Graf, Klaus (02.11.2013). "Warum die freie Lizenz Creative Commons Attribution (CC-BY) für Wissenschaftsblogs wichtig ist". In: [http://redaktionsblog.hypotheses.org/1769 Redaktionsblog].</ref>  
+
+== Wissenschaftsblogs finden ==
+Blogbeiträge können mit Suchmaschinen einfach gefunden werden, da sie in der Regel öffentlich Open Access publiziert sind. Möchte man gezielt Wissenschaftsblogs zum eigenen Themenbereich finden, so bietet sich der Weg über wissenschaftliche Blogportale an. 
+
+Für die Geistes- und Sozialwissenschaften ist auf europäischer Ebene das nicht-kommerzielle Blogportal [http://hypotheses.org/ hypotheses.org] und seine Sprachunterportale wie z.B. [http://de.hypotheses.org/ de.hypotheses.org] für den deutschsprachigen Bereich eine erste Anlaufstelle. Hypotheses.org bietet einen [http://www.openedition.org/catalogue-notebooks Katalog], der die Blogs der Plattform verzeichnet. Der Zugang darin ist nach Blogtyp, Sprache, Land der Publikation oder auch Thema möglich. Ein Blogaggregator für die deutschsprachige Geschichtswissenschaft ist [http://planet-clio.org/ Planet Clio].
+
+Für die Naturwissenschaften ist die vom Spektrum-Verlag betriebene Blogplattform [http://www.scilogs.de/ SciLogs - Tagebücher der Wissenschaft] von Bedeutung.
+
+Weitere Blogportale bzw. Verzeichnisse für Wissenschaftsblogs sind ScienceSeeker und [http://researchblogging.org/ Research Blogging]. 
+
+Einige Universitäten haben Plattformen für die Wissenschaftsblogs ihrer Mitarbeiterinnen und Mitarbeiter eröffnet, dazu gehören das [http://blog.stanford.edu/ Standford Blog Directory], die Übersicht der [http://blogs.hopkins-interactive.com/ Johns Hopkins University] oder das Portal der [http://carnets.parisdescartes.fr/ Université Paris Descartes 5]. 
+
+Darüber hinaus existieren Blogverzeichnisse wie das als Wiki organisierte [http://www.academicblogs.net/ Academic Blog Portal], das jedoch in den letzten Jahren nicht mehr gepflegt zu sein scheint.
+
+== Referenzen für weitere Informationen zum Wissenschaftsbloggen ==
+'''Literatur''':
+
+Anita Bader/Gerd Fritz/Thomas Gloning: Digitale Wissenschaftskommunikation 
+2010–2011. Eine Online Befragung,Gießener Elektronische Bibliothek 2012
+[geb.uni-giessen.de/geb/volltexte/2012/8539/].
+
+Dacos, Marin: La conversation silencieuse, Blogbeitrag 23.7.2009, in: Blog: Homo 
+Numericus [blog.homo-numericus.net/article191.html].
+
+Graf, Klaus, König, Mareike: Forschungsnotizbücher im Netz: Weblogs in der deutschsprachigen Geschichtswissenschaft, in: 
+WerkstattGeschichte 61 (2012), S. 76–87, PDF: http://werkstattgeschichte.de/werkstatt_site/archiv/WG61_076-087_GRAF_NETZ.pdf.
+
+Haber, Peter / Pfanzelter, Eva (Hg.): Historyblogosphere. Bloggen in den Geschichtswissenschaften, München (Oldenbourg) 2013, 
+
+http://www.degruyter.com/view/product/216968. ISBN 978-3-486-75573-2.
+
+König, Mareike: Die Entdeckung der Vielfalt: Geschichtsblogs auf der internationalen 
+Plattform hypotheses.org, in: Peter Haber, Eva Pfanzelter (Hg.): Historyblogosphere. Bloggen in den Geschichtswissenschaften, München (Oldenbourg) 2013, S. 181–197. Online unter: http://www.degruyter.com/view/books/9783486755732/9783486755732.181/9783486755732.181.xml. 
+
+Lugger, Beatrice, Worüber Wissenschaftler bloggen, in: Quantensprung, 28.11.2013, http://www.scilogs.de/quantensprung/worueber-wissenschaftler-bloggen/.
+
+Mounier, Pierre: Die Werkstatt öffnen: Geschichtsschreibung in Blogs und Sozialen Medien, in: Haber, Peter / Pfanzelter, Eva (Hg.), Historyblogosphere. Bloggen in den Geschichtswissenschaften, München (Oldenbourg) 2013, S. 51-60, http://www.degruyter.com/view/books/9783486755732/9783486755732.51/9783486755732.51.xml. 
+
+Scheloske, Marc: Wege aus der Nische: Was man von erfolgreichen 
+Wissenschaftsblogs lernen kann. Anmerkungen zur Tagung »Weblogs in den 
+Geisteswissenschaften«, in: Wissenswerkstatt, 13.3.2012, <http://www.wissenswerkstatt.net/2012/03/13/wege-aus-der-nische-was-man-von-erfolgreichen-wissenschaftsblogs-lernen-kann/>.
+
+Scherz, Sabine:  Warum sollte ich als Wissenschaftler/in bloggen? In: Redaktionsblog, 21.5.2013, http://redaktionsblog.hypotheses.org/1209.
+
+Scherz, Sabine: Wie finde ich Themen für mein Wissenschaftsblog? In: Redaktionsblog, 28.5.2013, http://redaktionsblog.hypotheses.org/1217.
+
+Scherz, Sabine: Texte für das Wissenschaftsblog schreiben, wie? In: Redaktionsblog, 5.6.2013, http://redaktionsblog.hypotheses.org/1220.
+
+Smith, Kevin:The unexpected reader, Blogbeitrag 15.11.2011, in: Blog: Scholarly
+Communication @ Dukes, [blogs.library.duke.edu/scholcomm/2011/11/15/the-unexpected-reader/]
+
+== Einzelnachweise ==
+
+<references />
