@@ -18,7 +18,7 @@ Note: Archive contains complete PDF and HTML files as well as source MediaWiki f
 ## Files
 
   - [PDF](pdf/OER.pdf)
-  - [HTML](HTML/index.html) 
+  - [HTML](html/) 
   - Mediawiki Source. See directory: <a href="mediawiki-source/">mediawiki-source</a>
 
 ## Open access license
