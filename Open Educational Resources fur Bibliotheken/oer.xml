@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xsi:schemaLocation="http://datacite.org/schema/kernel-3 http://schema.datacite.org/meta/kernel-3/metadata.xsd" xmlns="http://datacite.org/schema/kernel-3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<identifier identifierType="DOI">10.20389/HSH/OER</identifier>
+  <creators>
+    <creator>
+      <creatorName>Bartsch, Caroline</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Brauser, Melanie</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Bursky,Julian</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Kirtyan, Uta</creatorName>
+    </creator>
+    <creator> 
+      <creatorName>Koschinski,Christoph</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Mußmann,Wolf-Dietrich</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Richter, Astrid</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Stummeyer,Sabine</creatorName>
+      <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="http://orcid.org/">0000-0003-4578-7049</nameIdentifier>
+    </creator>
+    <creator>
+      <creatorName>Zander, Carolin</creatorName>
+    </creator>
+  </creators>
+  <titles>
+    <title>Leitfaden zu Open Educational Resources für Bibliotheken und Informationseinrichtungen</title>
+  </titles>
+  <publisher>Technische Informationsbibliothek Hannover</publisher>
+  <publicationYear>2016</publicationYear>
+  <dates>
+    <date dateType="Updated">2016-06-07</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Text">Text</resourceType>
+  <descriptions>
+    <description descriptionType="Abstract">Dieser Leitfaden soll eine Übersicht darüber geben wie man Open Educational Resources (kurz OER) erstellt. Es werden inhaltliche, technische und rechtliche Aspekte betrachtet. Die Beispiele stammen aus dem Themenbereich Informationskompetenz.</description>
+  </descriptions>
+<relatedIdentifiers>
+	<relatedIdentifier 
+		relatedIdentifierType="DOI"
+		relationType="HasPart">10.20389/HSH/OER-1
+	</relatedIdentifier>
+	<relatedIdentifier 
+		relatedIdentifierType="DOI"
+		relationType="HasPart">10.20389/HSH/OER-2
+	</relatedIdentifier>
+	<relatedIdentifier 
+		relatedIdentifierType="DOI"
+		relationType="HasPart">10.20389/HSH/OER-3
+	</relatedIdentifier>	
+	<relatedIdentifier 
+		relatedIdentifierType="DOI"
+		relationType="HasPart">10.20389/HSH/OER-4
+	</relatedIdentifier>	
+	<relatedIdentifier 
+		relatedIdentifierType="DOI"
+		relationType="HasPart">10.20389/HSH/OER-5
+	</relatedIdentifier>	
+	<relatedIdentifier 
+		relatedIdentifierType="DOI"
+		relationType="HasPart">10.20389/HSH/OER-6
+	</relatedIdentifier>	
+</relatedIdentifiers>	
+</resource>
