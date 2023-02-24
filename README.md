@@ -2,7 +2,7 @@
 
   - Handbuch CoScience LivingBook - [Top level](co-science-living-book/) [PDF](co-science-living-book/PDF/CoScience_LivingBook.pdf) [HTML](co-science-living-book/html/index.html) [Mediawiki Source](co-science-living-book/mediawiki-source/) 
 
-  - Leitfaden zu Open Educational Resources für Bibliotheken und Informationseinrichtungen - [Top level](Open%20Educational%20Resources%20fur%20Bibliotheken/README.md) [PDF](oer/pdf/OER.pdf) [HTML](oer/html/index.html) [Mediawiki Source](eor/mediawiki-source/) 
+  - __*Leitfaden zu Open Educational Resources für Bibliotheken und Informationseinrichtungen*__ - [README](Open%20Educational%20Resources%20fur%20Bibliotheken/README.md) | [PDF](Open%20Educational%20Resources%20fur%20Bibliotheken/pdf/OER.pdf) | [HTML](Open%20Educational%20Resources%20fur%20Bibliotheken/html/index.html) | [Mediawiki Source](Open%20Educational%20Resources%20fur%20Bibliotheken/mediawiki-source/) 
 
 ## Archive.org and Wayback Machine
 
