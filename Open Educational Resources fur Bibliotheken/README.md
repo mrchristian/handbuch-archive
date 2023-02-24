@@ -11,7 +11,7 @@ Date of archiving: TBC
 
 Type: Book
 
-Note: Archive contains complete PDF and HTML files as well as source MediaWiki files for the publication.
+Note: Archive contains complete PDF and HTML files as well as source MediaWiki files for the publication. All files are in the following Github repo (TBC) as well as a deposit with Institutional Repository of Leibniz Universität Hannover.
 
 
 
@@ -41,6 +41,10 @@ File: <a href="oer.xml">oer.xml</a> (Datacite XML)</p>
 ## Repository deposit
 
 To follow ASAP (24.2.2023 - SW).
+
+## The Wayback Machine (Internet Archive)
+
+Website where archive was made from in 2023-02-24: https://web.archive.org/web/20230000000000*/https://test.handbuch.tib.eu/w/Leitfaden_zu_Open_Educational_Resources_f%C3%BCr_Bibliotheken_und_Informationseinrichtungen
 
 ---
 
